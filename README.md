@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/logo/20240804_005103.png"></a>
+  <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/assets/blob/main/logo/20240804_005103.png"></a>
 </p>
 
 <p align="center">
@@ -23,6 +23,7 @@
 
 <strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/assets](https://github.com/harilvfs/assets) - storing images 
 
 <strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
