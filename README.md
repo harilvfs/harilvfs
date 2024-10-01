@@ -64,11 +64,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 - [harilvfs/assets](https://github.com/harilvfs/assets) - storing images 
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
-- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -80,11 +80,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/linscript](https://github.com/harilvfs/linscript) - A script for simple and elegant Linux customization. 
 - [harilvfs/harilvfs](https://github.com/harilvfs/harilvfs) - Pretty Readme
 - [harilvfs/archscript](https://github.com/harilvfs/archscript) - Go-To tool for setting up fonts, SDDM themes, GRUB 
 - [harilvfs/archlts](https://github.com/harilvfs/archlts) - Script to install the Linux LTS kernel on Arch and Arch-based distributions. 
 - [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
