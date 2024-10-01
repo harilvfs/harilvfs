@@ -1,3 +1,5 @@
+<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif'>
+
 <p align="center">
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/harilvfs/blob/main/haribck.png"></a>
 </p>
@@ -26,8 +28,8 @@
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
+- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 - [harilvfs/vim](https://github.com/harilvfs/vim) - vimrc config with plugins prepatch
-- [harilvfs/rust](https://github.com/harilvfs/rust) - Learning Rust
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
