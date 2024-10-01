@@ -1,4 +1,4 @@
-<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif'>
+<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif' width="500">
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray" />
