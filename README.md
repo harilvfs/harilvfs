@@ -121,7 +121,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/laptop.gif' width="300">
 </p>
 
 <p align="center">
