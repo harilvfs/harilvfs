@@ -35,11 +35,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/harilvfs](https://github.com/harilvfs/harilvfs) - 
 - [harilvfs/archscript](https://github.com/harilvfs/archscript) - Go-To tool for setting up fonts, SDDM themes, GRUB 
 - [harilvfs/archlts](https://github.com/harilvfs/archlts) - Script to install the Linux LTS kernel on Arch and Arch-based distributions. 
 - [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
-- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
