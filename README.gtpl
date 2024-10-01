@@ -1,3 +1,5 @@
+<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif'>
+
 <p align="center">
   <a href="https://chalisehari.com.np" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/harilvfs/blob/main/haribck.png"></a>
 </p>
