@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aayushx402/images/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
+  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
 </p>
 
 <p align="center">
@@ -16,37 +16,37 @@
 </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/aayushx402/images/main/QR/mobilebanking.webp">
+  <a href="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/QR/mobilebanking.webp">
     <img src="https://img.shields.io/badge/aayushx402-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
   </a>
 </div>
 
-<strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-<strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-<strong><img src='https://github.com/aayushx402/images/blob/main/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
+<strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-<strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
-<strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 {{ range rss "https://medium.com/feed/@aayushchalise" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 
-<strong><img src='https://github.com/aayushx402/images/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Twitter   : <https://twitter.com/aayushxvf/>
 - Website   : <https://chalisehari.com.np>
 - Email     : [ingoprivate@gmail.com](mailto:ingoprivate@gmail.com)
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aayushx402/images/blob/main/github-gifs/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
 
 <p align="center">
