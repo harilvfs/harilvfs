@@ -1,4 +1,4 @@
-<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif'>
+<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/mario.gif' width="500">
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray" />
@@ -58,8 +58,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - storing images 
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
