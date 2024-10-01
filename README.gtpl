@@ -19,6 +19,43 @@
   <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
 </p>
 
+### Socials
+
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://www.github.com/harilvfs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(93%) sepia(0%) saturate(0%) hue-rotate(181deg) brightness(105%) contrast(104%);" />
+  </a>
+  <!-- Medium -->
+  <a href="http://www.medium.com/@aayushchalise" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" style="filter: invert(0%) sepia(12%) saturate(74%) hue-rotate(0deg) brightness(95%) contrast(95%);" />
+  </a>
+   <!-- Twitter -->
+  <a href="https://www.x.com/harilvfs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="filter: invert(21%) sepia(73%) saturate(5842%) hue-rotate(181deg) brightness(94%) contrast(93%);" />
+  </a>
+  <!-- Behance -->
+  <a href="https://www.behance.com/aayushchalese" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" style="filter: invert(23%) sepia(26%) saturate(3556%) hue-rotate(186deg) brightness(92%) contrast(91%);" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/sheron_x" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="filter: invert(29%) sepia(3%) saturate(2388%) hue-rotate(177deg) brightness(89%) contrast(90%);" />
+  </a>
+  <!-- Instagram -->
+  <a href="http://www.instagram.com/harilvfs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="filter: invert(48%) sepia(21%) saturate(4408%) hue-rotate(189deg) brightness(97%) contrast(95%);" />
+  </a>
+  <!-- RSS -->
+  <a href="https://codeberg.org/aayushchalise.rss" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" style="filter: invert(82%) sepia(7%) saturate(1675%) hue-rotate(362deg) brightness(89%) contrast(88%);" />
+  </a>
+  <!-- Twitch -->
+  <a href="https://www.twitch.tv/aayushchalese" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" style="filter: invert(10%) sepia(8%) saturate(3186%) hue-rotate(260deg) brightness(92%) contrast(93%);" />
+  </a>
+</p>
+
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
