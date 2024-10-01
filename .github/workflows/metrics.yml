@@ -60,6 +60,6 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_playlist: https://music.youtube.com/playlist?list=PL7Qi33wZIPOFIy_01WVHqB2NdLYBVdZzi
           plugin_music_provider: youtube
-          plugin_music_time_range: medium
-          plugin_music_top_type: tracks
+          plugin_music_time_range: short
+          plugin_music_top_type: artists
           plugin_music_user: https://music.youtube.com/@aayushxvf
