@@ -76,7 +76,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [harilvfs/harilvfs](https://github.com/harilvfs/harilvfs) - 
+- [harilvfs/harilvfs](https://github.com/harilvfs/harilvfs) - Pretty Readme
 - [harilvfs/archscript](https://github.com/harilvfs/archscript) - Go-To tool for setting up fonts, SDDM themes, GRUB 
 - [harilvfs/archlts](https://github.com/harilvfs/archlts) - Script to install the Linux LTS kernel on Arch and Arch-based distributions. 
 - [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
