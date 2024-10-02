@@ -108,7 +108,7 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://t.me/aayushchalise/">
+<a href="https://t.me/harilvfs">
 <img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
