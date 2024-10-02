@@ -64,19 +64,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated C-based tool for quick &amp; easy Arch Linux setup.
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
+- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 - [harilvfs/assets](https://github.com/harilvfs/assets) - storing images 
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - sway dotfiles 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated C-based tool for quick &amp; easy Arch Linux setup.
 - [harilvfs/archscript](https://github.com/harilvfs/archscript) - Go-To tool for setting up fonts, SDDM themes, GRUB 
 - [harilvfs/rust](https://github.com/harilvfs/rust) - Learning Rust
 - [harilvfs/hugoweb](https://github.com/harilvfs/hugoweb) - Hugo Website Rebuild
 - [harilvfs/todocli](https://github.com/harilvfs/todocli) - Rust-written Todo Cli
-- [harilvfs/archlts](https://github.com/harilvfs/archlts) - Script to install the Linux LTS kernel on Arch and Arch-based distributions. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
