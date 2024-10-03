@@ -58,7 +58,7 @@ jobs:
           plugin_music_limit: 4
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          plugin_music_playlist: https://music.youtube.com/playlist?list=PL7Qi33wZIPOFIy_01WVHqB2NdLYBVdZzi
+          plugin_music_playlist: https://music.youtube.com/playlist?list=PL7Qi33wZIPOFIy_01WVHqB2NdLYBVdZzi&si=JxO7XYP6vqozYwzq
           plugin_music_provider: youtube
           plugin_music_time_range: short
           plugin_music_top_type: artists
