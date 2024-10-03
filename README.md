@@ -80,11 +80,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [ericmurphyxyz/dotfiles](https://github.com/ericmurphyxyz/dotfiles) - My Hyprland dotfiles on Arch Linux (btw)
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated C-based tool for quick &amp; easy Arch Linux setup.
 - [harilvfs/linscript](https://github.com/harilvfs/linscript) - A script for simple and elegant Linux customization. 
 - [harilvfs/harilvfs](https://github.com/harilvfs/harilvfs) - Pretty Readme
 - [harilvfs/archscript](https://github.com/harilvfs/archscript) - Go-To tool for setting up fonts, SDDM themes, GRUB 
-- [harilvfs/archlts](https://github.com/harilvfs/archlts) - Script to install the Linux LTS kernel on Arch and Arch-based distributions. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
