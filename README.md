@@ -80,11 +80,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [2SSK/Wallpaper-Bank](https://github.com/2SSK/Wallpaper-Bank) - My personal collection of wallpapers
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [ericmurphyxyz/dotfiles](https://github.com/ericmurphyxyz/dotfiles) - My Hyprland dotfiles on Arch Linux (btw)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
