@@ -80,11 +80,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ericmurphyxyz/dotfiles](https://github.com/ericmurphyxyz/dotfiles) - My Hyprland dotfiles on Arch Linux (btw)
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux setup.
 - [harilvfs/linscript](https://github.com/harilvfs/linscript) - A script for simple and elegant Linux customization. 
-- [harilvfs/harilvfs](https://github.com/harilvfs/harilvfs) - Pretty Readme
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
