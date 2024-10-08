@@ -89,9 +89,9 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux setup.
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
-- [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harichalise/.github](https://github.com/harichalise/.github) - 
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors
 
@@ -113,11 +113,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Big Refactor [Setup Script] Fixes](https://github.com/harilvfs/i3wmdotfiles/pull/2) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [Hyprland Setup Script](https://github.com/harilvfs/hyprland/pull/1) on [harilvfs/hyprland](https://github.com/harilvfs/hyprland)
 - [Menu impl to whipstail &amp; dialog](https://github.com/harilvfs/carch/pull/3) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove unused code &amp; comments ](https://github.com/harilvfs/carch/pull/1) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update the Repo Link](https://github.com/harilvfs/vim/pull/1) on [harilvfs/vim](https://github.com/harilvfs/vim)
-- [Dependencies added for DWM [ Full ] ](https://github.com/harilvfs/dwm/pull/1) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
