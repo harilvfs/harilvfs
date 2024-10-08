@@ -21,6 +21,31 @@
   <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
 </p>
 
+<p align="center">
+<strong>.:: Connect with us on Social ::.</strong>
+<br>
+
+ <a href="https://reddit.com/u/aayush-le">
+<img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/harilvfs">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://t.me/harilvfs">
+<img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/8NJWstnUHd">
+<img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
+</p>
+
 ### Socials
 
 <p align="left">
@@ -64,11 +89,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux setup.
 - [harichalise/.github](https://github.com/harichalise/.github) - 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
+- [harilvfs/assets](https://github.com/harilvfs/assets) - storing images 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux setup.
 - [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -106,33 +131,3 @@
 
 ---
 
-<br>
-
-<p align="center">
-<strong>.:: Connect with us on Social ::.</strong>
-<br>
-
- <a href="https://reddit.com/u/aayush-le">
-<img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/harilvfs">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://t.me/harilvfs">
-<img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="https://discord.gg/8NJWstnUHd">
-<img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-</p>
-
-<p align="center">
-<img src='https://github.com/harilvfs/assets/blob/main/github-gifs/laptop.gif' width="300">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
-</p>
