@@ -88,6 +88,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Menu impl to whipstail &amp; dialog](https://github.com/harilvfs/carch/pull/3) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove unused code &amp; comments ](https://github.com/harilvfs/carch/pull/1) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update the Repo Link](https://github.com/harilvfs/vim/pull/1) on [harilvfs/vim](https://github.com/harilvfs/vim)
 - [Dependencies added for DWM [ Full ] ](https://github.com/harilvfs/dwm/pull/1) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
