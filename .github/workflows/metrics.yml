@@ -66,8 +66,5 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-          plugin_languages_threshold: 2%
-          plugin_languages_categories: data, prose
-          plugin_languages_recent_categories: data, prose
           plugin_languages_colors: rainbow
           plugin_languages_limit: 8
