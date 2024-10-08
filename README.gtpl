@@ -122,5 +122,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PAGE+VIEWS&style=for-the-badge&color=blueviolet" alt="PAGE VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=cyan" alt="PROFILE  VIEWS">
 </p>
