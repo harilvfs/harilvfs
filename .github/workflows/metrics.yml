@@ -57,9 +57,9 @@ jobs:
           plugin_gists: yes
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: commit, pull_request, issue
+          plugin_notable_types: commit,pull_request,issue
           plugin_notable_self: yes
-          plugin_notable_indepth: yes
+          plugin_notable_indepth: no
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
