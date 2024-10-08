@@ -60,7 +60,5 @@ jobs:
           plugin_notable_types: commit,pull_request,issue
           plugin_notable_self: yes
           plugin_notable_indepth: no
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
+           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
