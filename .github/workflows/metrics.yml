@@ -60,5 +60,5 @@ jobs:
           plugin_notable_types: commit,pull_request,issue
           plugin_notable_self: yes
           plugin_notable_indepth: no
-           plugin_isocalendar: yes
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
