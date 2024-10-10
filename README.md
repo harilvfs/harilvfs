@@ -125,7 +125,7 @@
 - [From Kali to Arch: My Linux Journey](https://medium.com/@aayushchalise/from-kali-to-arch-my-linux-journey-7943648dc579?source=rss-78f8a98217ed------2)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
-- Twitter   : <https://twitter.com/aayushxvf/>
+- Twitter   : <https://twitter.com/harilvfs/>
 - Website   : <https://chalisehari.com.np>
 - Email     : [ingoprivate@gmail.com](mailto:ingoprivate@gmail.com)
 
