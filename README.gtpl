@@ -113,7 +113,7 @@
 {{- end }}
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
-- Twitter   : <https://twitter.com/aayushxvf/>
+- Twitter   : <https://twitter.com/harilvfs/>
 - Website   : <https://chalisehari.com.np>
 - Email     : [ingoprivate@gmail.com](mailto:ingoprivate@gmail.com)
 
