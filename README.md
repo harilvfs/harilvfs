@@ -89,15 +89,15 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
+- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
-- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
-- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
-- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script
+- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
@@ -105,11 +105,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed &amp; power optimizer for Linux
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
