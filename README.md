@@ -91,13 +91,13 @@
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
-- [harilvfs/rdev](https://github.com/harilvfs/rdev) - Rust-based TUI for Setup Script
+- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script
 - [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
-- [harilvfs/rdev](https://github.com/harilvfs/rdev) - Rust-based TUI for Setup Script
+- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
