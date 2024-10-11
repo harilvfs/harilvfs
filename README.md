@@ -91,17 +91,17 @@
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
+- [harilvfs/rdev](https://github.com/harilvfs/rdev) - Rust-based TUI for Setup Script
 - [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
+- [harilvfs/rdev](https://github.com/harilvfs/rdev) - Rust-based TUI for Setup Script
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -113,11 +113,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update main.rs](https://github.com/harilvfs/carch/pull/8) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Script Fixes SwayDotfiles](https://github.com/harilvfs/swaydotfiles/pull/1) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 - [Big Refactor [Setup Script] Fixes](https://github.com/harilvfs/i3wmdotfiles/pull/2) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [Hyprland Setup Script](https://github.com/harilvfs/hyprland/pull/1) on [harilvfs/hyprland](https://github.com/harilvfs/hyprland)
 - [Menu impl to whipstail &amp; dialog](https://github.com/harilvfs/carch/pull/3) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove unused code &amp; comments ](https://github.com/harilvfs/carch/pull/1) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
