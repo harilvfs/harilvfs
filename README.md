@@ -90,9 +90,9 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
+- [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - Sway Dotfiles 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
