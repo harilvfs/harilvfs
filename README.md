@@ -89,8 +89,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
+- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
 - [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website
@@ -113,11 +113,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Refactor setup script for speed &amp; reliability](https://github.com/harilvfs/carch/pull/9) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update main.rs](https://github.com/harilvfs/carch/pull/8) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Script Fixes SwayDotfiles](https://github.com/harilvfs/swaydotfiles/pull/1) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 - [Big Refactor [Setup Script] Fixes](https://github.com/harilvfs/i3wmdotfiles/pull/2) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [Hyprland Setup Script](https://github.com/harilvfs/hyprland/pull/1) on [harilvfs/hyprland](https://github.com/harilvfs/hyprland)
-- [Menu impl to whipstail &amp; dialog](https://github.com/harilvfs/carch/pull/3) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
