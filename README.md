@@ -42,6 +42,8 @@
 </a>
 </p>
 
+[![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
 </p>
