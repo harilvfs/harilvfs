@@ -42,11 +42,10 @@
 </a>
 </p>
 
-<p align="center">
-
+<div align="center">
+  
 [![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
-
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
@@ -95,11 +94,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
+- [harilvfs/assets](https://github.com/harilvfs/assets) - storing images 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes &amp; icons
-- [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
