@@ -100,9 +100,9 @@
 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ]
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs 
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
