@@ -54,6 +54,7 @@
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
 ![Twitter](https://img.shields.io/twitter/follow/harilvfs)
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
+![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
 </div>
 
 <p align="center">
