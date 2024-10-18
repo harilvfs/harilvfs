@@ -45,6 +45,10 @@
 <div align="center">
   
 [![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
+![Github Followers](https://img.shields.io/github/followers/harilvfs)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
+![Twitter](https://img.shields.io/twitter/follow/harilvfs)
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
 </div>
 
 <p align="center">
