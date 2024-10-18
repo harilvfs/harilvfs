@@ -45,6 +45,10 @@
 <div align="center">
   
 [![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
+![Github Followers](https://img.shields.io/github/followers/harilvfs)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
+![Twitter](https://img.shields.io/twitter/follow/harilvfs)
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
 </div>
 
 <p align="center">
@@ -94,9 +98,9 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ]
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
-- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ]
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs 
 
