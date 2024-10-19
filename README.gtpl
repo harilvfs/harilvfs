@@ -45,6 +45,10 @@
 <a href="https://discord.gg/8NJWstnUHd">
 <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+
+<a href="https://www.twitch.tv/aayushchalese">
+<img src="https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
 </p>
 
 <div align="center">
