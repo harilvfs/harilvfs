@@ -109,9 +109,9 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
+- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - Sway Dotfiles 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
