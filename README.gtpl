@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/QR/mobilebanking.webp">
+  <a href="https://opencollective.com/carch">
     <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
   </a>
 </div>
