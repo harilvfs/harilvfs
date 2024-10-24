@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/QR/mobilebanking.webp">
+  <a href="https://opencollective.com/carch">
     <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
   </a>
 </div>
@@ -108,9 +108,9 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager. 
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 
