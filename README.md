@@ -130,11 +130,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps &#43; i3blocks &#43; Zsh &#43; Spacemacs &#43; Rofi &#43; Alacritty &#43; Neofetch]
 - [Axenide/Dotfiles](https://github.com/Axenide/Dotfiles) - .&#39;s
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories that no longer matter to you.
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributions.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust &amp; Assembly
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
