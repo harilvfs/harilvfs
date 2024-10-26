@@ -62,10 +62,6 @@
 <a href="https://x.com/harilvfs">
     <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
   </a>
-
-<a href="https://instagram.com/harilvfs">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
   
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
 ![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
