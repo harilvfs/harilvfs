@@ -53,10 +53,20 @@
 
 <div align="center">
   
-[![Join on Discord](https://discord.com/api/guilds/757266205408100413/widget.png?style=shield)](https://discord.gg/TAaVXT95)
+ <a href="https://discord.gg/TAaVXT95">
+    <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2" />
+  </a>
+  
 ![Github Followers](https://img.shields.io/github/followers/harilvfs)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
-![Twitter](https://img.shields.io/twitter/follow/harilvfs)
+<a href="https://x.com/harilvfs">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
+  </a>
+
+<a href="https://instagram.com/harilvfs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
 ![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
 </div>
@@ -108,11 +118,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs 
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories that no longer matter to you.
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
