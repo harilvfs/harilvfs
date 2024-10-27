@@ -54,7 +54,7 @@
 <div align="center">
   
  <a href="https://discord.gg/TAaVXT95">
-    <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2" />
+    <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2&logo=discord" />
   </a>
   
 ![Github Followers](https://img.shields.io/github/followers/harilvfs)
