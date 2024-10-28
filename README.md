@@ -114,11 +114,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs 
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories that no longer matter to you.
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -138,11 +138,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update README.md](https://github.com/harilvfs/dwm/pull/2) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Add Menu Selection Memory Feature and Improve Navigation in Carch](https://github.com/harilvfs/carch/pull/12) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor setup script for speed &amp; reliability](https://github.com/harilvfs/carch/pull/9) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update main.rs](https://github.com/harilvfs/carch/pull/8) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Script Fixes SwayDotfiles](https://github.com/harilvfs/swaydotfiles/pull/1) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
-- [Big Refactor [Setup Script] Fixes](https://github.com/harilvfs/i3wmdotfiles/pull/2) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
