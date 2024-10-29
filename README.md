@@ -57,8 +57,10 @@
 
 
 <div align="left">
-
-ㅤ<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> **GitHub Stats** 
+<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
+  
+### GitHub Stats 
+ㅤ
 </div>
 
 <p align="left"><img src="https://raw.githubusercontent.com/harilvfs/harilvfs/refs/heads/main/github-metrics.svg" /></p>
