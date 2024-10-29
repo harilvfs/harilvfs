@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
-</div>
-
 <p align="center">
   <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="50">
 </p>
@@ -26,7 +21,7 @@
     <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
   </a>
 </div>
-
+<br>
 <div align="center">
 <strong>.:: Connect with us on Social ::.</strong>
 </div>
@@ -54,6 +49,11 @@
   
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
 ![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
+</div>
+
+<div align="center">
+
+<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
 </div>
 
 <p align="center">
