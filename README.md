@@ -56,7 +56,10 @@
 </p>
 
 
-### GitHub Stats
+<div align="center">
+
+<img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="15"> **GitHub Stats** 
+</div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/harilvfs/harilvfs/refs/heads/main/github-metrics.svg" /></p>
 
