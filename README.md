@@ -31,6 +31,10 @@
 <strong>.:: Connect with us on Social ::.</strong>
 <br>
 
+<a href="https://github.com/harilvfs">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
  <a href="https://reddit.com/u/aayush-le">
 <img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
@@ -50,6 +54,19 @@
 <a href="https://www.twitch.tv/aayushchalese">
 <img src="https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
+
+<a href="https://medium.com/@aayushchalise">
+  <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://behance.net/aayushchalese">
+  <img src="https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+<a href="https://medium.com/feed/@aayushchalise">
+  <img src="https://img.shields.io/badge/RSS-Subscribe-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+
 </p>
 
 <div align="center">
