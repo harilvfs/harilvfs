@@ -17,34 +17,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-<strong>.:: Connect with us on Social ::.</strong>
-</div>
-<br>
-<div align="center">
-<a href="https://github.com/harilvfs"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="30" /></a> <a href="https://reddit.com/u/aayush-le"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png" width="30" /></a> <a href="https://instagram.com/harilvfs"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="30" /></a> <a href="https://t.me/harilvfs"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="30" /></a> <a href="https://discord.gg/8NJWstnUHd"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="30" /></a> <a href="https://www.twitch.tv/aayushchalese"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitch.png" width="30" /></a> <a href="https://medium.com/@aayushchalise"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" width="30" /></a> <a href="https://behance.net/aayushchalese"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Behance.png" width="30" /></a> <a href="https://codeberg.org/aayushchalise.rss"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/RSS.png" width="30" /></a>
-</div>
-
-<div align="center">
-
- <img src='https://github.com/harilvfs/assets/blob/main/github-gifs/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif' width="40">
- </div>
-
-<div align="center">
-  
- <a href="https://discord.com/invite/8NJWstnUHd">
-    <img src="https://img.shields.io/discord/757266205408100413?label=Discord&color=5865F2&logo=discord" />
-  </a>
-  
-![Github Followers](https://img.shields.io/github/followers/harilvfs)
-![Reddit](https://img.shields.io/reddit/user-karma/combined/aayush-le)
-<a href="https://x.com/harilvfs">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
-  </a>
-  
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxWo4QN4m72x8F5Pzrjg9Ew)
-![Twitch Status](https://img.shields.io/twitch/status/aayushchalese)
-</div>
 
 <div align="center">
 
