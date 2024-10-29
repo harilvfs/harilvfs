@@ -24,12 +24,14 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
+  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40">
 </p>
 
 <div align="center">
 <strong>.:: Connect with us on Social ::.</strong>
-
+</div>
+<br>
+<div align="center">
 <a href="https://github.com/harilvfs"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://reddit.com/u/aayush-le"><img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> <a href="https://instagram.com/harilvfs"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://t.me/harilvfs"><img src="https://img.shields.io/badge/Telegram-Join%20Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://discord.gg/8NJWstnUHd"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://www.twitch.tv/aayushchalese"><img src="https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a> <a href="https://medium.com/@aayushchalise"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://behance.net/aayushchalese"><img src="https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://codeberg.org/aayushchalise.rss"><img src="https://img.shields.io/badge/RSS-Subscribe-FFA500?style=for-the-badge&logo=rss&logoColor=white" /></a>
 </div>
 
@@ -58,42 +60,6 @@
   <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
 </p>
 
-### Socials
-
-<p align="left">
-  
-  <a href="https://www.github.com/harilvfs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(93%) sepia(0%) saturate(0%) hue-rotate(181deg) brightness(105%) contrast(104%);" />
-  </a>
-  
-  <a href="http://www.medium.com/@aayushchalise" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" style="filter: invert(0%) sepia(12%) saturate(74%) hue-rotate(0deg) brightness(95%) contrast(95%);" />
-  </a>
-   
-  <a href="https://www.x.com/harilvfs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="filter: invert(21%) sepia(73%) saturate(5842%) hue-rotate(181deg) brightness(94%) contrast(93%);" />
-  </a>
-  
-  <a href="https://www.behance.com/aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" style="filter: invert(23%) sepia(26%) saturate(3556%) hue-rotate(186deg) brightness(92%) contrast(91%);" />
-  </a>
-  
-  <a href="https://discord.com/users/sheron_x" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="filter: invert(29%) sepia(3%) saturate(2388%) hue-rotate(177deg) brightness(89%) contrast(90%);" />
-  </a>
-  
-  <a href="http://www.instagram.com/harilvfs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="filter: invert(48%) sepia(21%) saturate(4408%) hue-rotate(189deg) brightness(97%) contrast(95%);" />
-  </a>
-  
-  <a href="https://codeberg.org/aayushchalise.rss" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" style="filter: invert(82%) sepia(7%) saturate(1675%) hue-rotate(362deg) brightness(89%) contrast(88%);" />
-  </a>
-  
-  <a href="https://www.twitch.tv/aayushchalese" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" style="filter: invert(10%) sepia(8%) saturate(3186%) hue-rotate(260deg) brightness(92%) contrast(93%);" />
-  </a>
-</p>
 
 ### GitHub Stats
 
