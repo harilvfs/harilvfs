@@ -17,6 +17,10 @@
   </a>
 </div>
 <br>
+<div align="center">
+<a href="https://www.twitch.tv/aayushchalese" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+</div>
 
 <div align="center">
 
