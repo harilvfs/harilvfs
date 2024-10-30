@@ -41,6 +41,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
          <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
      </picture>
    </a>
+</div>
 
 <div align="center">
 
