@@ -55,11 +55,11 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites.
 - [ChrisTitusTech/ageoftitus](https://github.com/ChrisTitusTech/ageoftitus) - Age of Titus Gaming Channel
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
-- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
