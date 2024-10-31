@@ -54,7 +54,7 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
      </picture>
    </a>
 </div>
-
+<br>
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/linux.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/terminsl.png' width="80"> <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/listen.png' width="80"> 
