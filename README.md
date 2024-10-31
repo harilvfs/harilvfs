@@ -35,12 +35,6 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
          <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
       </picture>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://www.youtube.com/@aayushchalese">
-      <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
-         <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
-     </picture>
-   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://bsky.app/profile/chalisehari.com.np">
       <picture>
          <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
