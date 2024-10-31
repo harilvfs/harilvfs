@@ -35,6 +35,18 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
          <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
       </picture>
    </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://medium.com/@aayushchalise">
+      <picture>
+         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
+         <img height="25px" src="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
+     </picture>
+   </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://behance.com/aayushchalese">
+      <picture>
+         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
+         <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/behancex.svg" />
+     </picture>
+   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://bsky.app/profile/chalisehari.com.np">
       <picture>
          <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
