@@ -88,11 +88,11 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [akaneboy/dotfiles](https://github.com/akaneboy/dotfiles) - My Arch Linux Configuration
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [qxb3/gruvbox.hypr](https://github.com/qxb3/gruvbox.hypr) - Gruvbox in Hyprland
 - [Raival-e/File-Explorer-Compose](https://github.com/Raival-e/File-Explorer-Compose) - An Android file explorer written in Kotlin and Jetpack Compose
 - [FossifyOrg/Launcher](https://github.com/FossifyOrg/Launcher) - A practical and customizable launcher for launching your favorite apps easily.
-- [harilvfs/awesome-rices](https://github.com/harilvfs/awesome-rices) - A curated list of awesome unix user rices!
-- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
-- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
