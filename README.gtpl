@@ -11,15 +11,16 @@
   <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
 </div>
 <div align="center">
+
 <img src="https://img.shields.io/badge/Catppuccin-blue?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"> <img src="https://img.shields.io/badge/Nord-orange?style=for-the-badge&colorA=4c566a&colorB=88c0d0">
 </div>
-<br>
+
 <div align="center">
-  <a href="https://opencollective.com/carch">
-    <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
+  
+<a href="https://opencollective.com/carch"><img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
   </a>
 </div>
-<br>
+
 <div align="center">
 <a href="https://www.twitch.tv/aayushchalese" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
