@@ -77,10 +77,10 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
+- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
+- [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -92,11 +92,11 @@ src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
 - [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
