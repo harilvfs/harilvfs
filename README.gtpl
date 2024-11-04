@@ -13,6 +13,10 @@
 </div>
 
 <div align="center">
+<img src="https://github.com/harilvfs/assets/blob/main/fyx/socialx.png" width="140" />
+</div>
+
+<div align="center">
 <a href="https://github.com/harilvfs">
        <picture>
            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
