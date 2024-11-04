@@ -79,6 +79,7 @@
          <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
      </picture>
    </a>
+</div>
 <br>
 
 <p align="center">
