@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update Docs Workflow](https://github.com/harilvfs/carch/pull/18) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update README.md](https://github.com/harilvfs/dwm/pull/2) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Add Menu Selection Memory Feature and Improve Navigation in Carch](https://github.com/harilvfs/carch/pull/12) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor setup script for speed &amp; reliability](https://github.com/harilvfs/carch/pull/9) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update main.rs](https://github.com/harilvfs/carch/pull/8) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Script Fixes SwayDotfiles](https://github.com/harilvfs/swaydotfiles/pull/1) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
