@@ -1,1 +1,1 @@
-README.gtpl is heavily inspired from [ChrisTitusTech](https://github.com/chrisTitusTech/)
+README.gtpl is inspired from [ChrisTitusTech](https://github.com/chrisTitusTech/)
