@@ -105,8 +105,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories that no longer matter to you 🐍
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ] 🕸️
@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Docs Light/Dark Mode Switcher](https://github.com/harilvfs/carch/pull/25) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update README.md](https://github.com/harilvfs/carch/pull/24) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Docs Refactor ](https://github.com/harilvfs/carch/pull/22) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Whiptail &amp; Dialog Menus with Search Option](https://github.com/harilvfs/carch/pull/20) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Replace Whiptail and Dialog with Gum and Figlet for Simplified Menu](https://github.com/harilvfs/carch/pull/19) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update Docs Workflow](https://github.com/harilvfs/carch/pull/18) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
