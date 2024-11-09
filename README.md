@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Add Spotify to Music Packages](https://github.com/harilvfs/carch/pull/28) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Reddit Badge From README.md](https://github.com/harilvfs/carch/pull/27) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Option to Install Music Packages in Package Script](https://github.com/harilvfs/carch/pull/26) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Docs Light/Dark Mode Switcher](https://github.com/harilvfs/carch/pull/25) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update README.md](https://github.com/harilvfs/carch/pull/24) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Docs Refactor ](https://github.com/harilvfs/carch/pull/22) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
