@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Remove comments from zip workflow](https://github.com/harilvfs/carch/pull/37) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Binary Build Script Fixes](https://github.com/harilvfs/carch/pull/36) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Path Define To CarchScripts Zip Dir](https://github.com/harilvfs/carch/pull/35) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Script Zip File Reformat](https://github.com/harilvfs/carch/pull/34) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Tor Browser Installation into Packages Installation Script](https://github.com/harilvfs/carch/pull/33) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Add Starship Preview Markdown](https://github.com/harilvfs/dwm/pull/4) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
