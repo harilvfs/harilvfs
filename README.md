@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [maotseantonio/nvchad_config](https://github.com/maotseantonio/nvchad_config) - 
+- [maotseantonio/wallpapers](https://github.com/maotseantonio/wallpapers) - my like of wallpaper from stolen via internet
 - [DarthMooMancer/dotfiles](https://github.com/DarthMooMancer/dotfiles) - 
 - [dqrk0jeste/owl](https://github.com/dqrk0jeste/owl) - tiling wayland compositor based on wlroots.
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex &amp; inline html) previewer for Neovim
-- [maotseantonio/home](https://github.com/maotseantonio/home) - 
-- [maotseantonio/NixOS-Hyprland](https://github.com/maotseantonio/NixOS-Hyprland) - To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
