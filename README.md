@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update carch script ZIP to latest commit](https://github.com/harilvfs/carch/pull/59) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Carch script ZIP to latest commit version](https://github.com/harilvfs/carch/pull/54) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Include Some New Beautiful Wallpapers](https://github.com/harilvfs/wallpapers/pull/1) on [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers)
 - [Add Contributor Metrics to Carch](https://github.com/harilvfs/carch/pull/49) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add a tag for netflix unoffical package](https://github.com/harilvfs/carch/pull/45) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove Echo On Running Script](https://github.com/harilvfs/carch/pull/44) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
