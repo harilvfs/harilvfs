@@ -106,10 +106,10 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
 - [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Rebase Carch structure for cleaner design](https://github.com/harilvfs/carch/pull/64) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Fix: Image Display Issue in Fastfetch](https://github.com/harilvfs/dwm/pull/5) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Update Carch Script Zip with Latest Changes](https://github.com/harilvfs/carch/pull/63) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Font Installation Process](https://github.com/harilvfs/carch/pull/62) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update carch script ZIP to latest commit](https://github.com/harilvfs/carch/pull/59) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update Carch script ZIP to latest commit version](https://github.com/harilvfs/carch/pull/54) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Include Some New Beautiful Wallpapers](https://github.com/harilvfs/wallpapers/pull/1) on [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
