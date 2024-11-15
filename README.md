@@ -107,13 +107,13 @@
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories JFF🐍
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
-- [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories that no longer matter to you 🐍
+- [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories JFF🐍
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes 🎨
@@ -121,19 +121,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [notarya01/Hypr-Dots](https://github.com/notarya01/Hypr-Dots) - Dots of my hyprland setup
 - [maotseantonio/nvchad_config](https://github.com/maotseantonio/nvchad_config) - 
 - [maotseantonio/wallpapers](https://github.com/maotseantonio/wallpapers) - my like of wallpaper from stolen via internet
 - [DarthMooMancer/dotfiles](https://github.com/DarthMooMancer/dotfiles) - 
-- [dqrk0jeste/owl](https://github.com/dqrk0jeste/owl) - tiling wayland compositor based on wlroots.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Rebase Carch structure for cleaner design](https://github.com/harilvfs/carch/pull/64) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix: Image Display Issue in Fastfetch](https://github.com/harilvfs/dwm/pull/5) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
-- [Update Carch Script Zip with Latest Changes](https://github.com/harilvfs/carch/pull/63) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix Font Installation Process](https://github.com/harilvfs/carch/pull/62) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update carch script ZIP to latest commit](https://github.com/harilvfs/carch/pull/59) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Fix Roadmap Link](https://github.com/harilvfs/carch/pull/71) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Review and Refine Template](https://github.com/harilvfs/carch/pull/70) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Clarify README text for better understanding](https://github.com/harilvfs/carch/pull/69) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Fix Image Source Links in README](https://github.com/harilvfs/carch/pull/68) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Change Image Extension to .webp Format](https://github.com/harilvfs/carch/pull/67) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
