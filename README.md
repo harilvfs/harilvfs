@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update Carch ZIP to the latest commit](https://github.com/harilvfs/carch/pull/77) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update package to latest structure](https://github.com/harilvfs/carch/pull/73) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Rename and Restructure CXFS to Core](https://github.com/harilvfs/carch/pull/72) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Roadmap Link](https://github.com/harilvfs/carch/pull/71) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Review and Refine Template](https://github.com/harilvfs/carch/pull/70) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Clarify README text for better understanding](https://github.com/harilvfs/carch/pull/69) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
