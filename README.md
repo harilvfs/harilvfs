@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Benex254/FastAnime](https://github.com/Benex254/FastAnime) - Your browser anime experience from the terminal
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [harilvfs/devins-badges](https://github.com/harilvfs/devins-badges) - Open-source library of beautifully designed badges for various services
 - [intergrav/devins-badges](https://github.com/intergrav/devins-badges) - Open-source library of beautifully designed badges for various services
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
-- [notarya01/Hypr-Dots](https://github.com/notarya01/Hypr-Dots) - Dots of my hyprland setup
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
