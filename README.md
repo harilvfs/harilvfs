@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Add carch-gtk Setup Script](https://github.com/harilvfs/carch/pull/96) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Move ZIP to source Directory](https://github.com/harilvfs/carch/pull/83) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Rename preview to source for Better Alignment](https://github.com/harilvfs/carch/pull/82) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Folder Structure to Align with bin Convention](https://github.com/harilvfs/carch/pull/81) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove discord chat badges from README](https://github.com/harilvfs/carch/pull/79) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove unnecessary badges from README](https://github.com/harilvfs/carch/pull/78) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
