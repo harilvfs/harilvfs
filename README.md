@@ -105,8 +105,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harichalise/carch](https://github.com/harichalise/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harichalise/carch](https://github.com/harichalise/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories JFF🐍
@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Add GUI/GTK Check Box Completion](https://github.com/harilvfs/carch/pull/97) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add carch-gtk Setup Script](https://github.com/harilvfs/carch/pull/96) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Move ZIP to source Directory](https://github.com/harilvfs/carch/pull/83) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Rename preview to source for Better Alignment](https://github.com/harilvfs/carch/pull/82) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Folder Structure to Align with bin Convention](https://github.com/harilvfs/carch/pull/81) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove discord chat badges from README](https://github.com/harilvfs/carch/pull/79) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
