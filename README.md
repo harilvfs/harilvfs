@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [azurkytheturkey/i3-catppuccin-mocha](https://github.com/azurkytheturkey/i3-catppuccin-mocha) - current theme
 - [surjithctly/documentation-html-template](https://github.com/surjithctly/documentation-html-template) - A Sample Documentation Template for Themes, Templates and Plugins
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability.
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
-- [harichalise/carch](https://github.com/harichalise/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
