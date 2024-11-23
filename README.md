@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix Documentation Headings](https://github.com/harilvfs/carch/pull/114) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Carch GTK](https://github.com/harilvfs/carch/pull/109) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update docs for latest installation commit](https://github.com/harilvfs/carch/pull/108) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add GTK Installation Support to Setup Script](https://github.com/harilvfs/carch/pull/106) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix: Mobile Side View on Documentation Website](https://github.com/harilvfs/carch/pull/104) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Revise Carch Documentation: HTML, CSS, &amp; JS Updates](https://github.com/harilvfs/carch/pull/103) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
