@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [user7210unix/i3-perfect-dotfiles](https://github.com/user7210unix/i3-perfect-dotfiles) - 
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [azurkytheturkey/i3-catppuccin-mocha](https://github.com/azurkytheturkey/i3-catppuccin-mocha) - current theme
 - [surjithctly/documentation-html-template](https://github.com/surjithctly/documentation-html-template) - A Sample Documentation Template for Themes, Templates and Plugins
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
