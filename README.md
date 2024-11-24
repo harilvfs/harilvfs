@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [user7210unix/i3-perfect-dotfiles](https://github.com/user7210unix/i3-perfect-dotfiles) - 
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
-- [azurkytheturkey/i3-catppuccin-mocha](https://github.com/azurkytheturkey/i3-catppuccin-mocha) - current theme
-- [surjithctly/documentation-html-template](https://github.com/surjithctly/documentation-html-template) - A Sample Documentation Template for Themes, Templates and Plugins
+- [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80&#43;) of plymouth themes ported from android bootanimations
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers &amp; Powermenus.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
