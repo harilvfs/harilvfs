@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [SwitchbladeBot/invidget](https://github.com/SwitchbladeBot/invidget) - SVG invite widgets that look just like the ones on the Discord client!
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
-- [ash2228/org](https://github.com/ash2228/org) - 
-- [junkdog/exabind](https://github.com/junkdog/exabind) - animated TUI for viewing KDE shortcuts
+- [rdebath/Brainfuck](https://github.com/rdebath/Brainfuck) - Brainfuck torture test. Brainfuck interpreters and compilers to C, V. VIM syntax file for brainf*ck. Fast JIT Assembly, JIT C running, Perl, Python, php, Ruby, lua, go, awk, neko, PS1, bash, ook, trollscript etc etc
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+- [niekiran/Embedded-C](https://github.com/niekiran/Embedded-C) - Repository for udemy Embedded-C course
+- [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
+- [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
