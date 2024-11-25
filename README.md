@@ -105,10 +105,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harichalise/carch](https://github.com/harichalise/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
@@ -121,19 +121,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [Acorshep/polybar](https://github.com/Acorshep/polybar) - My polybar config
-- [Acorshep/.dotfiles](https://github.com/Acorshep/.dotfiles) - My shorts
-- [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
-- [rdebath/Brainfuck](https://github.com/rdebath/Brainfuck) - Brainfuck torture test. Brainfuck interpreters and compilers to C, V. VIM syntax file for brainf*ck. Fast JIT Assembly, JIT C running, Perl, Python, php, Ruby, lua, go, awk, neko, PS1, bash, ook, trollscript etc etc
-- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+- [kraanzu/nord_walls](https://github.com/kraanzu/nord_walls) - Collection of Nordic Wallpapers
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
+- [kraanzu/.dotfiles](https://github.com/kraanzu/.dotfiles) - ❄️ My dotfiles [ NixOS / Qtile ] 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [FLY HIGH Wallpaper Andriod](https://github.com/harilvfs/andriodwallpapers/pull/2) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
+- [New Wallapers Addition Desktop](https://github.com/harilvfs/wallpapers/pull/3) on [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers)
 - [Add CLI Guide to Documentation](https://github.com/harilvfs/carch/pull/127) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refine Carch Documentation](https://github.com/harilvfs/carch/pull/123) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add screen clearing on exit to GTK application](https://github.com/harilvfs/carch/pull/122) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove carchscripts.zip in favor of scripts.zip](https://github.com/harilvfs/carch/pull/120) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Add CLI Commands Guide to Documentation](https://github.com/harilvfs/carch/pull/118) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
