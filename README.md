@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs](https://github.com/harilvfs/carch/pull/130) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Comprehensive Documentation Refactor](https://github.com/harilvfs/carch/pull/129) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [FLY HIGH Wallpaper Andriod](https://github.com/harilvfs/andriodwallpapers/pull/2) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
 - [New Wallapers Addition Desktop](https://github.com/harilvfs/wallpapers/pull/3) on [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers)
 - [Add CLI Guide to Documentation](https://github.com/harilvfs/carch/pull/127) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refine Carch Documentation](https://github.com/harilvfs/carch/pull/123) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
