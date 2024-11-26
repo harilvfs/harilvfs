@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [smritics/linuxcli](https://github.com/smritics/linuxcli) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [kraanzu/nord_walls](https://github.com/kraanzu/nord_walls) - Collection of Nordic Wallpapers
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
-- [kraanzu/.dotfiles](https://github.com/kraanzu/.dotfiles) - ❄️ My dotfiles [ NixOS / Qtile ] 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
