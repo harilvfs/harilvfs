@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator.
 - [aayushrg7/forhari](https://github.com/aayushrg7/forhari) - An automated script for quick &amp; easy Arch Linux setup.
 - [Evavic44/adocs](https://github.com/Evavic44/adocs) - 🔸Docs template built with VitePress —The vite and vue powered static site generator
 - [smritics/linuxcli](https://github.com/smritics/linuxcli) - An automated script for quick &amp; easy Arch Linux system setup 🧩
-- [kraanzu/nord_walls](https://github.com/kraanzu/nord_walls) - Collection of Nordic Wallpapers
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
