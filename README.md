@@ -105,10 +105,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
-- [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harichalise/carch](https://github.com/harichalise/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [New Wallpapers [Reddit]](https://github.com/harilvfs/andriodwallpapers/pull/3) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
 - [Refactor Documentation &amp; Some Fixes](https://github.com/harilvfs/carch/pull/141) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Enhance Documentation with Beautiful Updates](https://github.com/harilvfs/carch/pull/138) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Documentation for Improved Visual Appeal](https://github.com/harilvfs/carch/pull/136) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix broken image link](https://github.com/harilvfs/carch/pull/134) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Comprehensive Updates to Documentation](https://github.com/harilvfs/carch/pull/131) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
