@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Remove Transparency from Top Section](https://github.com/harilvfs/carch/pull/142) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [New Wallpapers [Reddit]](https://github.com/harilvfs/andriodwallpapers/pull/3) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
 - [Refactor Documentation &amp; Some Fixes](https://github.com/harilvfs/carch/pull/141) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Enhance Documentation with Beautiful Updates](https://github.com/harilvfs/carch/pull/138) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Documentation for Improved Visual Appeal](https://github.com/harilvfs/carch/pull/136) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix broken image link](https://github.com/harilvfs/carch/pull/134) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
