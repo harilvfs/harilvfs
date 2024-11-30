@@ -105,8 +105,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/todocli](https://github.com/harilvfs/todocli) - Rust-written Todo Cli 🦀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/todocli](https://github.com/harilvfs/todocli) - Rust-written Todo Cli 🦀
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
@@ -121,19 +121,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Aylur/astal](https://github.com/Aylur/astal) - Building blocks for creating custom desktop shells 
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [bibjaw99/arch_install](https://github.com/bibjaw99/arch_install) - 
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Enhancement on docs](https://github.com/harilvfs/carch/pull/143) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Transparency from Top Section](https://github.com/harilvfs/carch/pull/142) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [New Wallpapers [Reddit]](https://github.com/harilvfs/andriodwallpapers/pull/3) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
 - [Refactor Documentation &amp; Some Fixes](https://github.com/harilvfs/carch/pull/141) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Enhance Documentation with Beautiful Updates](https://github.com/harilvfs/carch/pull/138) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refactor Documentation for Improved Visual Appeal](https://github.com/harilvfs/carch/pull/136) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
