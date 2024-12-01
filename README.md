@@ -105,8 +105,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - 
 - [harilvfs/todocli](https://github.com/harilvfs/todocli) - Rust-written Todo Cli 🦀
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix Src Path Define](https://github.com/harilvfs/rustmdbook/pull/1) on [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook)
 - [Fix image width to &#39;150&#39;](https://github.com/harilvfs/carch/pull/145) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [CSS Changes [ Remove White Space ]](https://github.com/harilvfs/carch/pull/144) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Enhancement on docs](https://github.com/harilvfs/carch/pull/143) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Transparency from Top Section](https://github.com/harilvfs/carch/pull/142) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [New Wallpapers [Reddit]](https://github.com/harilvfs/andriodwallpapers/pull/3) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
