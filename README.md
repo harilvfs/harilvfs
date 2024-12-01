@@ -106,18 +106,18 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - 
 - [harilvfs/todocli](https://github.com/harilvfs/todocli) - Rust-written Todo Cli 🦀
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Anime Wallpapers 🏞️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
+- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - 
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories JFF🐍
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
-- [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes 🎨
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
