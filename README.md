@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update GTK to v3.0.9](https://github.com/harilvfs/carch/pull/154) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update Carch to v3.0.9](https://github.com/harilvfs/carch/pull/153) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add Carch Version Info [Docs]](https://github.com/harilvfs/carch/pull/151) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add Changelog to Top Navigation [Docs]](https://github.com/harilvfs/carch/pull/150) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Linutil Docs with mdBook](https://github.com/Chris-Titus-Docs/linutil-docs/pull/8) on [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs)
-- [Fix Src Path Define](https://github.com/harilvfs/rustmdbook/pull/1) on [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook)
-- [Fix image width to &#39;150&#39;](https://github.com/harilvfs/carch/pull/145) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [CSS Changes [ Remove White Space ]](https://github.com/harilvfs/carch/pull/144) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Enhancement on docs](https://github.com/harilvfs/carch/pull/143) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
