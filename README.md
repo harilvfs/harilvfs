@@ -105,8 +105,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/todocli](https://github.com/harilvfs/todocli) - Rust-written Todo Cli 🦀
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
