@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update binary build to latest version](https://github.com/harilvfs/carch/pull/160) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Remove last script tracking from core](https://github.com/harilvfs/carch/pull/159) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add terminal installation to packages script](https://github.com/harilvfs/carch/pull/158) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refinements to Documentation](https://github.com/harilvfs/carch/pull/157) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove /bin Scripts [Unnecessary]](https://github.com/harilvfs/carch/pull/156) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Walls Added [ Reddit ]](https://github.com/harilvfs/andriodwallpapers/pull/4) on [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers)
-- [Add CarchCLI Installation Guide [Docs]](https://github.com/harilvfs/carch/pull/155) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update GTK to v3.0.9](https://github.com/harilvfs/carch/pull/154) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
