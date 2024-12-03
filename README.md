@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Remove Unused &#39;aboutinfo&#39; Markdown from [docs]](https://github.com/harilvfs/carch/pull/165) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Revert &#34;Update .gitignore to Exclude Binary Files&#34;](https://github.com/harilvfs/carch/pull/164) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update .gitignore to Exclude Binary Files](https://github.com/harilvfs/carch/pull/163) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update: Enhance CLI Installation Tip Section](https://github.com/harilvfs/carch/pull/162) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update binary build to latest version](https://github.com/harilvfs/carch/pull/160) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove last script tracking from core](https://github.com/harilvfs/carch/pull/159) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Add terminal installation to packages script](https://github.com/harilvfs/carch/pull/158) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refinements to Documentation](https://github.com/harilvfs/carch/pull/157) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
