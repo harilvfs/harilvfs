@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [azurkytheturkey/i3-everforest](https://github.com/azurkytheturkey/i3-everforest) - everforest theme; might remake (will)
+- [azurkytheturkey/i3-themes](https://github.com/azurkytheturkey/i3-themes) - mom jeans
 - [Strazil001/Scripts-AwesomeWM](https://github.com/Strazil001/Scripts-AwesomeWM) - Scripts in bash for the Wibar of AwesomeWM
 - [Strazil001/Dotfiles-AwesomeWM](https://github.com/Strazil001/Dotfiles-AwesomeWM) - 
 - [harilvfs/mechabar](https://github.com/harilvfs/mechabar) - A futuristic, mecha-themed Waybar configuration 🤖
-- [harilvfs/linutil-docs](https://github.com/harilvfs/linutil-docs) - Official Linutil Documentation
-- [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
