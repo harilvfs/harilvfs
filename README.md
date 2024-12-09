@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix and Update AUR Package Build [ docs ]](https://github.com/harilvfs/carch/pull/172) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update to GPL 3.0 License [Docs]](https://github.com/harilvfs/carch/pull/171) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Astal Vitepress CSS [Index]](https://github.com/harilvfs/carch/pull/170) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bring Back Imp Stuffs](https://github.com/harilvfs/carch/pull/168) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Penguin Img Src](https://github.com/harilvfs/carch/pull/167) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Design Carch Banner](https://github.com/harilvfs/carch/pull/166) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
