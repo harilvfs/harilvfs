@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [harilvfs/astal](https://github.com/harilvfs/astal) - Building blocks for creating custom desktop shells 
 - [harilvfs/DevIcons](https://github.com/harilvfs/DevIcons) - Dev icons
 - [Nighty3098/DevIcons](https://github.com/Nighty3098/DevIcons) - Dev icons
 - [harilvfs/DevDotfiles](https://github.com/harilvfs/DevDotfiles) - 🎨 Configuration files for nvim, kitty, i3 and other necessary programs 🎨
-- [Nighty3098/CodeKeeper](https://github.com/Nighty3098/CodeKeeper) - 👻  Project and task manager for developers with Git. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
