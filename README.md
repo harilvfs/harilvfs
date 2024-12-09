@@ -105,11 +105,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [aayushrg7/pkgbuild](https://github.com/aayushrg7/pkgbuild) - Carch [AUR] Package Builds 📦
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
-- [carch-org/.github](https://github.com/carch-org/.github) - 
+- [aayushrg7/pkgbuild](https://github.com/aayushrg7/pkgbuild) - Carch [AUR] Package Builds 📦
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - Documentation site built with mdBook.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Remove Npm [Docs] Stuffs](https://github.com/harilvfs/carch/pull/174) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Transfer Docs to Carch-Org Repository](https://github.com/harilvfs/carch/pull/173) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Add PR Template to the Repository](https://github.com/carch-org/pkgs/pull/2) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
-- [Add PR Template to the Repository](https://github.com/carch-org/docs/pull/3) on [carch-org/docs](https://github.com/carch-org/docs)
-- [docs: transfer to carch-org](https://github.com/carch-org/docs/pull/2) on [carch-org/docs](https://github.com/carch-org/docs)
+- [Package Build Version Bump to v3.0.9](https://github.com/carch-org/pkgs/pull/9) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
+- [Carch Git SubModule](https://github.com/carch-org/pkgs/pull/8) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
+- [MIT License](https://github.com/carch-org/pkgs/pull/7) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
+- [Fix Gitignore [ dir ]](https://github.com/carch-org/pkgs/pull/6) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
+- [test package](https://github.com/carch-org/pkgs/pull/5) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
