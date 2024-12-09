@@ -105,35 +105,35 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/pkgbuild](https://github.com/harilvfs/pkgbuild) - Carch [AUR] Package Build
+- [aayushrg7/pkgbuild](https://github.com/aayushrg7/pkgbuild) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
-- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project
-- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - Documentation site built with mdBook.
+- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/.github](https://github.com/carch-org/.github) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
-- [harilvfs/pkgbuild](https://github.com/harilvfs/pkgbuild) - Carch [AUR] Package Build
 - [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - Documentation site built with mdBook.
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
 - [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories JFF🐍
 - [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
+- [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [harilvfs/pkgbuild](https://github.com/harilvfs/pkgbuild) - Carch [AUR] Package Build
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/.github](https://github.com/carch-org/.github) - 
-- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project
+- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [harilvfs/astal](https://github.com/harilvfs/astal) - Building blocks for creating custom desktop shells 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Add PR Template to the Repository](https://github.com/harilvfs/pkgbuild/pull/3) on [harilvfs/pkgbuild](https://github.com/harilvfs/pkgbuild)
-- [Carch [Aur] PKGBUILDs](https://github.com/harilvfs/pkgbuild/pull/1) on [harilvfs/pkgbuild](https://github.com/harilvfs/pkgbuild)
+- [Remove Npm [Docs] Stuffs](https://github.com/harilvfs/carch/pull/174) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Transfer Docs to Carch-Org Repository](https://github.com/harilvfs/carch/pull/173) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add PR Template to the Repository](https://github.com/carch-org/pkgs/pull/2) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 - [Add PR Template to the Repository](https://github.com/carch-org/docs/pull/3) on [carch-org/docs](https://github.com/carch-org/docs)
 - [docs: transfer to carch-org](https://github.com/carch-org/docs/pull/2) on [carch-org/docs](https://github.com/carch-org/docs)
-- [Fix and Update AUR Package Build [ docs ]](https://github.com/harilvfs/carch/pull/172) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
