@@ -108,8 +108,8 @@
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [aayushrg7/pkgbuild](https://github.com/aayushrg7/pkgbuild) - Carch [AUR] Package Builds 📦
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
-- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - Documentation site built with mdBook.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [archcraft-os/documentation](https://github.com/archcraft-os/documentation) - // Documentation 
 - [kuringasan/Dotfiles-V3](https://github.com/kuringasan/Dotfiles-V3) - 
 - [kuringasan/dotfiles-v4](https://github.com/kuringasan/dotfiles-v4) - 
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/.github](https://github.com/carch-org/.github) - 
-- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
