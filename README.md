@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/i3wm-dotfiles](https://github.com/harilvfs/i3wm-dotfiles) - 🌿 Arch Linux i3-wm dotfiles from @Justus0405
+- [harilvfs/Arch-Wiki](https://github.com/harilvfs/Arch-Wiki) - 📖 Personal Arch Linux Notes From @Justus0405
+- [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
+- [CachyOS/wiki](https://github.com/CachyOS/wiki) - Wiki for CachyOS
 - [carch-org/docusaurus](https://github.com/carch-org/docusaurus) - Docs Build With  Docusaurus 🦖
-- [archcraft-os/documentation](https://github.com/archcraft-os/documentation) - // Documentation 
-- [kuringasan/Dotfiles-V3](https://github.com/kuringasan/Dotfiles-V3) - 
-- [kuringasan/dotfiles-v4](https://github.com/kuringasan/dotfiles-v4) - 
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
