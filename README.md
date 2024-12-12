@@ -105,11 +105,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
 - [aayushrg7/pkgbuild](https://github.com/aayushrg7/pkgbuild) - Carch [AUR] Package Builds 📦
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A highly customizable systemfetch written in nim
 - [harilvfs/i3wm-dotfiles](https://github.com/harilvfs/i3wm-dotfiles) - 🌿 Arch Linux i3-wm dotfiles from @Justus0405
 - [harilvfs/Arch-Wiki](https://github.com/harilvfs/Arch-Wiki) - 📖 Personal Arch Linux Notes From @Justus0405
 - [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
 - [CachyOS/wiki](https://github.com/CachyOS/wiki) - Wiki for CachyOS
-- [carch-org/docusaurus](https://github.com/carch-org/docusaurus) - Docs Build With  Docusaurus 🦖
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
