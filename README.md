@@ -129,11 +129,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Setup Script &amp; Readme Refindment ](https://github.com/Justus0405/i3wm-dotfiles/pull/3) on [Justus0405/i3wm-dotfiles](https://github.com/Justus0405/i3wm-dotfiles)
 - [Transition from `README` Markdown to Arch Wiki `Documentation`](https://github.com/Justus0405/Arch-Wiki/pull/1) on [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki)
 - [Fix Script Detection and Bugs](https://github.com/harilvfs/carch/pull/179) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [From Binary To `Gtk` Bash Script 📜](https://github.com/harilvfs/carch/pull/178) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Move Cli From [ Binary ] `Bash` Script](https://github.com/harilvfs/carch/pull/177) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Change `core.sh` To Carch [ No Binary ] 🪶](https://github.com/harilvfs/carch/pull/176) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
