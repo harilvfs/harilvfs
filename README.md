@@ -121,11 +121,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A highly customizable systemfetch written in nim
 - [harilvfs/i3wm-dotfiles](https://github.com/harilvfs/i3wm-dotfiles) - 🌿 Arch Linux i3-wm dotfiles from @Justus0405
 - [harilvfs/Arch-Wiki](https://github.com/harilvfs/Arch-Wiki) - 📖 Personal Arch Linux Notes From @Justus0405
 - [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
-- [CachyOS/wiki](https://github.com/CachyOS/wiki) - Wiki for CachyOS
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
