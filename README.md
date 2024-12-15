@@ -105,9 +105,9 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
@@ -124,16 +124,16 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A highly customizable systemfetch written in nim
 - [harilvfs/i3wm-dotfiles](https://github.com/harilvfs/i3wm-dotfiles) - 🌿 Arch Linux i3-wm dotfiles from @Justus0405
-- [harilvfs/Arch-Wiki](https://github.com/harilvfs/Arch-Wiki) - 📖 Personal Arch Linux Notes From @Justus0405
+- [harilvfs/Arch-Wiki](https://github.com/harilvfs/Arch-Wiki) - 📖 Personal Arch Linux Notes
 - [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Transfer `Contrib` `Install` `Roadmap` To [Docs] ✈️](https://github.com/harilvfs/carch/pull/181) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Some big changes [Docs 📚] enhancement](https://github.com/carch-org/docs/pull/6) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Script Zip Changes To Latest Commit 📂](https://github.com/harilvfs/carch/pull/180) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Document Keyring Issue Resolution [DOCS]](https://github.com/Justus0405/Arch-Wiki/pull/2) on [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki)
 - [Add `feh` for wallpapers](https://github.com/harilvfs/i3wmdotfiles/pull/3) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
-- [Add Brightness Control to `Polybar` &amp; `Feh` for Wallpapers](https://github.com/Justus0405/i3wm-dotfiles/pull/4) on [Justus0405/i3wm-dotfiles](https://github.com/Justus0405/i3wm-dotfiles)
-- [Setup Script &amp; Readme Refindment ](https://github.com/Justus0405/i3wm-dotfiles/pull/3) on [Justus0405/i3wm-dotfiles](https://github.com/Justus0405/i3wm-dotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
