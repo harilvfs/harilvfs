@@ -94,11 +94,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [JhonatanFerrer/JhoalfercoQtileDotfiles](https://github.com/JhonatanFerrer/JhoalfercoQtileDotfiles) - Just simple dotfiles with qtile
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A highly customizable systemfetch written in nim
 - [harilvfs/i3wm-dotfiles](https://github.com/harilvfs/i3wm-dotfiles) - 🌿 Arch Linux i3-wm dotfiles from @Justus0405
-- [harilvfs/Arch-Wiki](https://github.com/harilvfs/Arch-Wiki) - 📖 Personal Arch Linux Notes
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
