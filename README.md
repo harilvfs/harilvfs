@@ -78,9 +78,9 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
 
@@ -102,11 +102,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Add Carch [Docs 📚] `Repository`](https://github.com/harilvfs/carch/pull/186) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [CHANGELOG From `v3.0.9` To `v4.0.0`](https://github.com/harilvfs/carch/pull/185) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump `v3.0.9` To `v4.0.0`](https://github.com/harilvfs/carch/pull/184) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Gum Spin To `Hyprland` Script](https://github.com/harilvfs/carch/pull/183) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Gum Spin [Packages Script]](https://github.com/harilvfs/carch/pull/182) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refactor Docs [Remove Preview]](https://github.com/carch-org/docs/pull/7) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
