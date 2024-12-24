@@ -102,11 +102,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix Setup Script](https://github.com/harilvfs/dwm/pull/7) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
+- [Add Returing To Menu [Back]](https://github.com/harilvfs/carch/pull/191) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Fix Gum Bug 🐛 [Package Script]](https://github.com/harilvfs/carch/pull/190) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Carch `Installation` ⛓️](https://github.com/harilvfs/carch/pull/189) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix `SDDM` Theme Dir  [Scripts]](https://github.com/harilvfs/carch/pull/187) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix curl `Installation` Link](https://github.com/carch-org/docs/pull/8) on [carch-org/docs](https://github.com/carch-org/docs)
-- [Add Carch [Docs 📚] `Repository`](https://github.com/harilvfs/carch/pull/186) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [CHANGELOG From `v3.0.9` To `v4.0.0`](https://github.com/harilvfs/carch/pull/185) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
