@@ -79,9 +79,9 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
-- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
@@ -102,11 +102,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix curl `Installation` Link](https://github.com/carch-org/docs/pull/8) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Add Carch [Docs 📚] `Repository`](https://github.com/harilvfs/carch/pull/186) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [CHANGELOG From `v3.0.9` To `v4.0.0`](https://github.com/harilvfs/carch/pull/185) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump `v3.0.9` To `v4.0.0`](https://github.com/harilvfs/carch/pull/184) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Gum Spin To `Hyprland` Script](https://github.com/harilvfs/carch/pull/183) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Add Gum Spin [Packages Script]](https://github.com/harilvfs/carch/pull/182) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
