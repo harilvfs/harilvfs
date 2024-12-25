@@ -102,11 +102,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Refactor Installation Script](https://github.com/harilvfs/carch/pull/197) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Setup Script](https://github.com/harilvfs/carch/pull/196) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove CLI/GTK As Include [Main Script]](https://github.com/harilvfs/carch/pull/195) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Script [DIR]](https://github.com/harilvfs/carch/pull/194) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Gtk Script [Include In Main Script]](https://github.com/harilvfs/carch/pull/193) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Include `GTK` &amp; `CLI` [Main Script]](https://github.com/harilvfs/carch/pull/192) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
