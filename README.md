@@ -102,11 +102,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [4.1.0 CHANGELOG](https://github.com/harilvfs/carch/pull/204) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump Version 4.1.0](https://github.com/harilvfs/carch/pull/203) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Script for Man Pages Handling](https://github.com/harilvfs/carch/pull/201) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [man-page for [Carch] 📄](https://github.com/harilvfs/carch/pull/200) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix PULL REQUEST TEMPLATE](https://github.com/harilvfs/carch/pull/199) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Config All Fixed](https://github.com/harilvfs/dwm/pull/8) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
