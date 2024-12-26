@@ -78,11 +78,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -94,19 +94,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+- [adamperkowski/PKGBUILDs](https://github.com/adamperkowski/PKGBUILDs) - sources of (not all!) AUR packages i maintain
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [sandibi13/flux](https://github.com/sandibi13/flux) - A wrapper for dnf &#43; flatpak
 - [Oughie/clock-rs](https://github.com/Oughie/clock-rs) - clock-rs - A clock for your terminal!
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
-- [dastarruer/dotfiles](https://github.com/dastarruer/dotfiles) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix PKGBUILD With Release [4.1.0]](https://github.com/carch-org/pkgs/pull/10) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 - [4.1.0 CHANGELOG](https://github.com/harilvfs/carch/pull/204) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump Version 4.1.0](https://github.com/harilvfs/carch/pull/203) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Script for Man Pages Handling](https://github.com/harilvfs/carch/pull/201) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [man-page for [Carch] 📄](https://github.com/harilvfs/carch/pull/200) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix PULL REQUEST TEMPLATE](https://github.com/harilvfs/carch/pull/199) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
