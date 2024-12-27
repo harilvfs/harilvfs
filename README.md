@@ -102,11 +102,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Making Script Clean 🧹](https://github.com/harilvfs/carch/pull/208) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add logging `Carch` [GTK]](https://github.com/harilvfs/carch/pull/207) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add [Logging] Carch](https://github.com/harilvfs/carch/pull/206) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Some Fixes &amp; Refindments](https://github.com/harilvfs/web/pull/1) on [harilvfs/web](https://github.com/harilvfs/web)
 - [Fix PKGBUILD With Release [4.1.0]](https://github.com/carch-org/pkgs/pull/10) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
-- [4.1.0 CHANGELOG](https://github.com/harilvfs/carch/pull/204) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Bump Version 4.1.0](https://github.com/harilvfs/carch/pull/203) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
