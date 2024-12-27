@@ -78,8 +78,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ] 🕸️
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
@@ -94,19 +94,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [adamperkowski/PKGBUILDs](https://github.com/adamperkowski/PKGBUILDs) - sources of (not all!) AUR packages i maintain
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
-- [sandibi13/flux](https://github.com/sandibi13/flux) - A wrapper for dnf &#43; flatpak
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Add Carch Icons [Desktop Entry]](https://github.com/harilvfs/carch/pull/211) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Script Fixes [BUG]](https://github.com/harilvfs/carch/pull/210) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Making Setup Installation `clean` 🧹](https://github.com/harilvfs/carch/pull/209) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Making Script Clean 🧹](https://github.com/harilvfs/carch/pull/208) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add logging `Carch` [GTK]](https://github.com/harilvfs/carch/pull/207) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Add [Logging] Carch](https://github.com/harilvfs/carch/pull/206) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
