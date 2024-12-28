@@ -62,6 +62,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
+          plugin_repositories: yes
           plugin_repositories_featured: harilvfs/carch, harilvfs/Arch-Wiki
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
