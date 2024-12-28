@@ -17,6 +17,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Katmandu
+          config_display: large
+          plugin_activity: yes
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 20
@@ -30,7 +33,7 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_lines_sections: base, repositories
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
@@ -59,3 +62,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
+          plugin_repositories_featured: harilvfs/carch, harilvfs/Arch-Wiki
+          plugin_repositories_affiliations: owner, collaborator
+          plugin_licenses: yes
