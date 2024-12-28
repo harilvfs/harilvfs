@@ -16,45 +16,39 @@
 <div align="center">
    <a href="https://discord.com/invite/8NJWstnUHd">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
-           <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" />
+           <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
+           <img height="35px" src="https://raw.githubusercontent.com/harilvfs/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://reddit.com/u/aayush-le">
        <picture>
-           <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
-           <img height="25px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" />
+           <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Reddit_black.svg" />
+           <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Reddit_black.svg" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://t.me/+ZB_xmsYtIE0yNWNl">
       <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
-         <img height="25px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
+         <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Telegram_black.svg" />
+         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Telegram_black.svg" />
       </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://medium.com/@aayushchalise">
       <picture>
-         <source height="26px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
-         <img height="26px" src="https://github.com/harilvfs/assets/blob/main/harilvfs/medium.png" />
+         <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Medium_black.svg" />
+         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Medium_black.svg" />
      </picture>
    </a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.twitch.tv/aayushchalese">
       <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/assets/blob/main/elix/twitch.png" />
-         <img height="25px" src="https://github.com/harilvfs/assets/blob/main/elix/twitch.png" />
+         <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitch_black.svg" />
+         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitch_black.svg" />
      </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://x.com/harilvfs">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
-         <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
+         <source height="35px"  media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg">
+         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg" />
       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://bsky.app/profile/chalisehari.com.np">
-      <picture>
-         <source height="25px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
-         <img height="25px" src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/bluesky/Bluesky_app_icon.svg" />
-     </picture>
    </a>
 </div>
 <br>
