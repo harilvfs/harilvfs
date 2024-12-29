@@ -72,11 +72,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ] 🕸️
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -96,11 +96,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Added Useful Command [Carch --[options]]](https://github.com/harilvfs/carch/pull/215) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Some Packages [Package Script]](https://github.com/harilvfs/carch/pull/214) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Uninstall Command [Carch]](https://github.com/harilvfs/carch/pull/213) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Added Icon For Desktop Entry](https://github.com/harilvfs/carch/pull/212) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Carch Icons [Desktop Entry]](https://github.com/harilvfs/carch/pull/211) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Script Fixes [BUG]](https://github.com/harilvfs/carch/pull/210) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
