@@ -96,11 +96,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Tui Installation On Progress](https://github.com/harilvfs/carch/pull/232) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Setup Script For TUI](https://github.com/harilvfs/carch/pull/231) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Some Typos](https://github.com/harilvfs/carch/pull/230) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix With Cargo Clippy &amp; Cargo FMT [RUST]](https://github.com/harilvfs/carch/pull/229) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Christitus Tech Tui Implementation [carch]](https://github.com/harilvfs/carch/pull/225) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Minor Fish Dir Fixes](https://github.com/harilvfs/carch/pull/224) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
