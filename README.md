@@ -75,8 +75,8 @@
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
+- [harilvfs/nvim](https://github.com/harilvfs/nvim) - Personal Neovim configuration with Kickstart. 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -88,11 +88,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/dropbar.nvim](https://github.com/harilvfs/dropbar.nvim) - IDE-like breadcrumbs, out of the box
+- [harilvfs/mcfetch](https://github.com/harilvfs/mcfetch) - 🌈 Lightweight fetching program with color options
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - Yet Another GDB TUI Frontend
 - [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch) - 🌈 Lightweight fetching program with color options
 - [hydraPV/.dotfiles](https://github.com/hydraPV/.dotfiles) - Arch linux
-- [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip) - Find code snippets in seconds, across multiple languages.
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
