@@ -88,11 +88,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles) - 🌃 Dotfiles (configurations and scripts) for my current Arch machine
 - [harilvfs/dropbar.nvim](https://github.com/harilvfs/dropbar.nvim) - IDE-like breadcrumbs, out of the box
 - [harilvfs/mcfetch](https://github.com/harilvfs/mcfetch) - 🌈 Lightweight fetching program with color options
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - Yet Another GDB TUI Frontend
 - [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch) - 🌈 Lightweight fetching program with color options
-- [hydraPV/.dotfiles](https://github.com/hydraPV/.dotfiles) - Arch linux
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
