@@ -91,16 +91,16 @@
 - [dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles) - 🌃 Dotfiles (configurations and scripts) for my current Arch machine
 - [harilvfs/dropbar.nvim](https://github.com/harilvfs/dropbar.nvim) - IDE-like breadcrumbs, out of the box
 - [harilvfs/mcfetch](https://github.com/harilvfs/mcfetch) - 🌈 Lightweight fetching program with color options
-- [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - Yet Another GDB TUI Frontend
+- [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
 - [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch) - 🌈 Lightweight fetching program with color options
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix PkgBuild [AUR]](https://github.com/dybdeskarphet/mcfetch/pull/4) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
 - [Add `--uninstall` flag to the installation script](https://github.com/dybdeskarphet/mcfetch/pull/2) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
 - [Add Installation Script and Optimize Rust Code](https://github.com/dybdeskarphet/mcfetch/pull/1) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
 - [Tui Installation On Progress](https://github.com/harilvfs/carch/pull/232) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Setup Script For TUI](https://github.com/harilvfs/carch/pull/231) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix Some Typos](https://github.com/harilvfs/carch/pull/230) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
