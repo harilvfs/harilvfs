@@ -96,11 +96,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Remove GTK Stuffs](https://github.com/carch-org/docs/pull/9) on [carch-org/docs](https://github.com/carch-org/docs)
+- [Remove all GTK Stuffs](https://github.com/harilvfs/carch/pull/235) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Creating an installation Script For Arch Linux](https://github.com/Benexl/FastAnime/pull/47) on [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
 - [Readme [Arch Linux]](https://github.com/Benexl/yt-x/pull/26) on [Benexl/yt-x](https://github.com/Benexl/yt-x)
 - [Build Working [Aur Package]](https://github.com/Benexl/yt-x/pull/25) on [Benexl/yt-x](https://github.com/Benexl/yt-x)
-- [Added Tmux Setup Script](https://github.com/harilvfs/carch/pull/233) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix PkgBuild [AUR]](https://github.com/dybdeskarphet/mcfetch/pull/4) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
