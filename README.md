@@ -88,11 +88,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [BrijenMakwana/terminal-portfolio](https://github.com/BrijenMakwana/terminal-portfolio) - This is not your typical GUI portfolio website. Instead, you can access my information via a command line interface.
 - [armbian/configng](https://github.com/armbian/configng) - Next generation bash based configuration API
 - [Justus0405/bfetch](https://github.com/Justus0405/bfetch) - 🔎 Another System information script for Linux written in bash
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes 🎨
 - [sejjy/hyprrice](https://github.com/sejjy/hyprrice) - A minimal Hyprland configuration 💻
-- [m3tozz/FastCat](https://github.com/m3tozz/FastCat) - FastCat - FastFetch Theme Pack
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
