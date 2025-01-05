@@ -88,11 +88,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [m3tozz/FastCat](https://github.com/m3tozz/FastCat) - FastCat - FastFetch Theme Pack
 - [harilvfs/FastAnime](https://github.com/harilvfs/FastAnime) - Your browser anime experience from the terminal
 - [harilvfs/yt-x](https://github.com/harilvfs/yt-x) - Browse youtube from your terminal
 - [dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles) - 🌃 Dotfiles (configurations and scripts) for my current Arch machine
 - [harilvfs/dropbar.nvim](https://github.com/harilvfs/dropbar.nvim) - IDE-like breadcrumbs, out of the box
-- [harilvfs/mcfetch](https://github.com/harilvfs/mcfetch) - 🌈 Lightweight fetching program with color options
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
