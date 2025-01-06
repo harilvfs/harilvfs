@@ -43,15 +43,5 @@
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
-{{ range rss "https://medium.com/feed/@aayushchalise" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
-
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
-- Twitter   : <https://twitter.com/harilvfs/>
-- Website   : <https://chalisehari.com.np>
-- Email     : [harilvfs@chalisehari.com.np](mailto:harilvfs@chalisehari.com.np)
-
 ---
 
