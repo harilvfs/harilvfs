@@ -28,11 +28,6 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
-
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
