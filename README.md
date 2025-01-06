@@ -72,11 +72,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [carch-org/.github](https://github.com/carch-org/.github) - 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [carch-org/.github](https://github.com/carch-org/.github) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
 
@@ -88,19 +88,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/bfetch](https://github.com/harilvfs/bfetch) - 🔎 Another System information script for Linux written in bash
 - [BrijenMakwana/terminal-portfolio](https://github.com/BrijenMakwana/terminal-portfolio) - This is not your typical GUI portfolio website. Instead, you can access my information via a command line interface.
 - [armbian/configng](https://github.com/armbian/configng) - Next generation bash based configuration API
 - [Justus0405/bfetch](https://github.com/Justus0405/bfetch) - 🔎 Another System information script for Linux written in bash
 - [harilvfs/themes](https://github.com/harilvfs/themes) - Collection of themes 🎨
-- [sejjy/hyprrice](https://github.com/sejjy/hyprrice) - A minimal Hyprland configuration 💻
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Install Script &amp; Add Icons To [Bfetch]](https://github.com/Justus0405/bfetch/pull/1) on [Justus0405/bfetch](https://github.com/Justus0405/bfetch)
 - [Add Memory, OS Age, and Terminal to [Mcfetch] 🦀](https://github.com/dybdeskarphet/mcfetch/pull/6) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
 - [Refactor Images &amp; Links](https://github.com/carch-org/docs/pull/10) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Add autologin in sddm [Autologin INFO]](https://github.com/harilvfs/carch/pull/236) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove GTK Stuffs](https://github.com/carch-org/docs/pull/9) on [carch-org/docs](https://github.com/carch-org/docs)
-- [Remove all GTK Stuffs](https://github.com/harilvfs/carch/pull/235) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
 
