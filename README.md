@@ -55,15 +55,5 @@
 - [Refactor Images &amp; Links](https://github.com/carch-org/docs/pull/10) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Add autologin in sddm [Autologin INFO]](https://github.com/harilvfs/carch/pull/236) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Medium Posts: </strong>
-
-- [Life Sucks After 18](https://medium.com/@aayushchalise/life-sucks-after-18-c80e9a4c7944?source=rss-78f8a98217ed------2)
-- [From Kali to Arch: My Linux Journey](https://medium.com/@aayushchalise/from-kali-to-arch-my-linux-journey-7943648dc579?source=rss-78f8a98217ed------2)
-
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
-- Twitter   : <https://twitter.com/harilvfs/>
-- Website   : <https://chalisehari.com.np>
-- Email     : [harilvfs@chalisehari.com.np](mailto:harilvfs@chalisehari.com.np)
-
 ---
 
