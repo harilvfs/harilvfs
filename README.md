@@ -14,53 +14,6 @@
 </div>
 
 <div align="center">
-   <a href="https://discord.com/invite/8NJWstnUHd">
-       <picture>
-           <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harilvfs/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
-           <img height="35px" src="https://raw.githubusercontent.com/harilvfs/social-icons/refs/heads/master/SVG/Black/Discord_black.svg" />
-       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://reddit.com/u/aayush-le">
-       <picture>
-           <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Reddit_black.svg" />
-           <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Reddit_black.svg" />
-       </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://t.me/+ZB_xmsYtIE0yNWNl">
-      <picture>
-         <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Telegram_black.svg" />
-         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Telegram_black.svg" />
-      </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://medium.com/@aayushchalise">
-      <picture>
-         <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Medium_black.svg" />
-         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Medium_black.svg" />
-     </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.twitch.tv/aayushchalese">
-      <picture>
-         <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitch_black.svg" />
-         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitch_black.svg" />
-     </picture>
-   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://x.com/harilvfs">
-      <picture>
-         <source height="35px"  media="(prefers-color-scheme: dark)" srcset="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg">
-         <img height="35px" src="https://github.com/harilvfs/social-icons/raw/refs/heads/master/SVG/Black/Twitter_black.svg" />
-      </picture>
-   </a>
-</div>
-<br>
-<div align="center">
-<a href="https://chalisehari.com.np"><img alt="Visit the website" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
-  </div>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushx402&label=PROFILE%20VIEWS&style=for-the-badge&color=blue" alt="PROFILE  VIEWS">
-</p>
-
-<div align="center">
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/assets/blob/main/harilvfs/cloudflare.png" width="30" height="31" alt="Cloudflare" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="Git" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/assets/blob/main/harilvfs/rust.png" width="40" height="31" alt="Rust" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="31" height="31" alt="GNU Bash" /></a> <a href="https://www.cursor.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/harilvfs/cursor.svg" width="31" height="31" alt="cursor" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="31" height="31" alt="VS Code" /></a> <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="31" height="31" alt="Vim" /></a> <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="31" height="31" alt="Neovim" /></a> <a href="https://helix-editor.com/" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/assets/blob/main/harilvfs/helix.png" width="30" height="33" alt="helix" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="31" height="31" alt="Linux" /></a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/assets/blob/main/harilvfs/archx.png" width="31" height="31" alt="archlinux" /></a> <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://github.com/harilvfs/assets/blob/main/harilvfs/debianx.png" width="31" height="31" alt="Debian" /></a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="31" height="31" alt="Raspberry Pi" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="31" height="31" alt="Docker" /></a>
 </div>
 
@@ -73,9 +26,9 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Arch Linux system setup 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/.github](https://github.com/carch-org/.github) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
