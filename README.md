@@ -31,14 +31,6 @@
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [carch-org/.github](https://github.com/carch-org/.github) - 
 
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/Christmas%20Tree.png' width="30"> My latest projects: </strong>
-
-- [harilvfs/rustmdbook](https://github.com/harilvfs/rustmdbook) - Documentation site built with mdBook.
-- [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Android devices.
-- [harilvfs/LettingGo](https://github.com/harilvfs/LettingGo) - An easy-to-use utility designed to help you release memories JFF🐍
-- [harilvfs/rdevs](https://github.com/harilvfs/rdevs) - Rust-based TUI for Setup Script 🦀
-- [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
-
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
 - [harilvfs/bfetch](https://github.com/harilvfs/bfetch) - 🔎 Another System information script for Linux written in bash
