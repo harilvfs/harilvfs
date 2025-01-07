@@ -33,11 +33,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [shobrook/wut](https://github.com/shobrook/wut) - An terminal assistant for the hopelessly confused
 - [shobrook/promptimal](https://github.com/shobrook/promptimal) - A very fast, very minimal prompt optimizer
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) - The minimalist to-do list for Neovim
 - [harilvfs/bfetch](https://github.com/harilvfs/bfetch) - 🔎 Another System information script for Linux written in bash
-- [BrijenMakwana/terminal-portfolio](https://github.com/BrijenMakwana/terminal-portfolio) - This is not your typical GUI portfolio website. Instead, you can access my information via a command line interface.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
