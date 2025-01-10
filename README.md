@@ -41,11 +41,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Revert &#34;Refactor Setup Script [ New Design ]&#34;](https://github.com/harilvfs/carch/pull/242) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump Version 4.1.2](https://github.com/harilvfs/carch/pull/240) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Setup Script [ New Design ]](https://github.com/harilvfs/carch/pull/239) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Install Script &amp; Add Icons To [Bfetch]](https://github.com/Justus0405/bfetch/pull/1) on [Justus0405/bfetch](https://github.com/Justus0405/bfetch)
 - [Add Memory, OS Age, and Terminal to [Mcfetch] 🦀](https://github.com/dybdeskarphet/mcfetch/pull/6) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
-- [Refactor Images &amp; Links](https://github.com/carch-org/docs/pull/10) on [carch-org/docs](https://github.com/carch-org/docs)
 
 ---
 
