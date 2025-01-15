@@ -34,11 +34,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [sansroot/hypr-dots](https://github.com/sansroot/hypr-dots) - Check different branches
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [Tamarindtype/googlish-hyprlock-theme](https://github.com/Tamarindtype/googlish-hyprlock-theme) - Google-ish Hyprlock Theme: A sleek and modern Hyprlock configuration inspired by Google&#39;s design. Includes customizable profiles, user info integration, and a refined aesthetic for Hyprland users. Perfect for those who want a polished lockscreen experience.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [harilvfs/pure-sh-bible](https://github.com/harilvfs/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
