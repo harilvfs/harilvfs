@@ -26,10 +26,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs) - 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim) - Personalized NvChad Neovim setup. 
+- [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs) - 
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
@@ -42,11 +42,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Issue Template [yml]](https://github.com/harilvfs/dwm/pull/12) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
+- [Pr Template](https://github.com/harilvfs/dwm/pull/11) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
+- [Github Issue Template [Intro] 〽️](https://github.com/harilvfs/dwm/pull/10) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Revert &#34;Refactor Setup Script [ New Design ]&#34;](https://github.com/harilvfs/carch/pull/242) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump Version 4.1.2](https://github.com/harilvfs/carch/pull/240) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refactor Setup Script [ New Design ]](https://github.com/harilvfs/carch/pull/239) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Install Script &amp; Add Icons To [Bfetch]](https://github.com/Justus0405/bfetch/pull/1) on [Justus0405/bfetch](https://github.com/Justus0405/bfetch)
-- [Add Memory, OS Age, and Terminal to [Mcfetch] 🦀](https://github.com/dybdeskarphet/mcfetch/pull/6) on [dybdeskarphet/mcfetch](https://github.com/dybdeskarphet/mcfetch)
 
 ---
 
