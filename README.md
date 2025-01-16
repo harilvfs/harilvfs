@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [GitMarkedDan/you-are-an-idiot.nvim](https://github.com/GitMarkedDan/you-are-an-idiot.nvim) - Recreation of the YouAreAnIdiot trojan in NeoVim.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [harilvfs/soarpkgs](https://github.com/harilvfs/soarpkgs) - 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) - 📀 Pre-Built Portable Packages [AppBundle | AppImage | FlatImage | GameImage | RunImage &amp; More] for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
-- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
