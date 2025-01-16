@@ -19,15 +19,15 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [pkgforge/metadata](https://github.com/pkgforge/metadata) - 🤖🧬 Automated Metadata Files, Scripts &amp; more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/docs](https://github.com/pkgforge/docs) - 📗 Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) - Utilities for linting and building SBUILD packages [maintainer=@QaidVoid]
 - [GitMarkedDan/you-are-an-idiot.nvim](https://github.com/GitMarkedDan/you-are-an-idiot.nvim) - Recreation of the YouAreAnIdiot trojan in NeoVim.
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [New Issue Templates (YAML)](https://github.com/ChrisTitusTech/linutil/pull/1004) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
+- [docs: port issue templates over to YAML](https://github.com/ChrisTitusTech/linutil/pull/1004) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [Revamped Docs with mdBook Integration](https://github.com/Chris-Titus-Docs/linutil-docs/pull/10) on [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs)
 - [Add Flameshot Package](https://github.com/pkgforge/soarpkgs/pull/143) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 - [Issue Template [yml]](https://github.com/harilvfs/dwm/pull/12) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
