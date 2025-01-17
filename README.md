@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [nieffka/bubble-clean-zen](https://github.com/nieffka/bubble-clean-zen) - My Personal Zen Theme
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) - 🤖🧬 Automated Metadata Files, Scripts &amp; more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/docs](https://github.com/pkgforge/docs) - 📗 Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) - Utilities for linting and building SBUILD packages [maintainer=@QaidVoid]
-- [GitMarkedDan/you-are-an-idiot.nvim](https://github.com/GitMarkedDan/you-are-an-idiot.nvim) - Recreation of the YouAreAnIdiot trojan in NeoVim.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
