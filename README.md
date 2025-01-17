@@ -27,11 +27,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Minor Fixes [ Link ]](https://github.com/pkgforge/soarpkgs/pull/145) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 - [docs: port issue templates over to YAML](https://github.com/ChrisTitusTech/linutil/pull/1004) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [Revamped Docs with mdBook Integration](https://github.com/Chris-Titus-Docs/linutil-docs/pull/10) on [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs)
 - [Add Flameshot Package](https://github.com/pkgforge/soarpkgs/pull/143) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 - [Issue Template [yml]](https://github.com/harilvfs/dwm/pull/12) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
-- [Pr Template](https://github.com/harilvfs/dwm/pull/11) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 
 ---
 
