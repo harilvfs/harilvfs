@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [nieffka/bubble-clean-zen](https://github.com/nieffka/bubble-clean-zen) - My Personal Zen Theme
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) - 🤖🧬 Automated Metadata Files, Scripts &amp; more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
-- [pkgforge/docs](https://github.com/pkgforge/docs) - 📗 Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
-- [christophgysin/pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
-- [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) - Utilities for linting and building SBUILD packages [maintainer=@QaidVoid]
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
