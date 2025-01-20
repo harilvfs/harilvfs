@@ -24,5 +24,7 @@
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
----
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> How to reach me:: </strong>
+  - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
+  - Discord    : <https://discord.com/invite/8NJWstnUHd>
 
