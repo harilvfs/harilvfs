@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [MrVivekRajan/Plymouth-Themes](https://github.com/MrVivekRajan/Plymouth-Themes) - 
 - [gitpushjoe/zuzu.nvim](https://github.com/gitpushjoe/zuzu.nvim) - Neovim build system plugin
 - [Vulae/pkmc](https://github.com/Vulae/pkmc) - Yet another Rust Minecraft server implementation.
 - [OXY2DEV/nvim](https://github.com/OXY2DEV/nvim) - 
 - [canonical/mir](https://github.com/canonical/mir) - The Mir compositor
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
