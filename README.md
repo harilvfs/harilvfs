@@ -11,11 +11,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 - [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ] 🕸️
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
+- [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim) - Personalized NvChad Neovim setup. 
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -27,11 +27,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Redone Setup Script [ FIX ]  🐛](https://github.com/harilvfs/chadnvim/pull/1) on [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim)
 - [Refactor Whole Scenic Hyprland [ Hypdots ]](https://github.com/harilvfs/hyprland/pull/2) on [harilvfs/hyprland](https://github.com/harilvfs/hyprland)
 - [Minor Fixes [ Link ]](https://github.com/pkgforge/soarpkgs/pull/145) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 - [docs: port issue templates over to YAML](https://github.com/ChrisTitusTech/linutil/pull/1004) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [Revamped Docs with mdBook Integration](https://github.com/Chris-Titus-Docs/linutil-docs/pull/10) on [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs)
-- [Add Flameshot Package](https://github.com/pkgforge/soarpkgs/pull/143) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> How to reach me:: </strong>
   - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
