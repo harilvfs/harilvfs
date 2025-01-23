@@ -11,19 +11,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/web](https://github.com/harilvfs/web) - Portfolio website [ PSU ] 🕸️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim) - Personalized NvChad Neovim setup. 
-- [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [dangooddd/line.yazi](https://github.com/dangooddd/line.yazi) - Simple statusline plugin for yazi file manager
+- [dangooddd/chosen.nvim](https://github.com/dangooddd/chosen.nvim) - Quickly move between your chosen files, per project
+- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 - [MrVivekRajan/Plymouth-Themes](https://github.com/MrVivekRajan/Plymouth-Themes) - 
-- [gitpushjoe/zuzu.nvim](https://github.com/gitpushjoe/zuzu.nvim) - Neovim build system plugin
-- [Vulae/pkmc](https://github.com/Vulae/pkmc) - Yet another Rust Minecraft server implementation.
-- [OXY2DEV/nvim](https://github.com/OXY2DEV/nvim) - 
-- [canonical/mir](https://github.com/canonical/mir) - The Mir compositor
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
