@@ -27,11 +27,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Making Helix Simple [ Clean ] 🧹](https://github.com/harilvfs/dwm/pull/14) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
+- [Add Support For [ Other&#39;s Distribution ]](https://github.com/harilvfs/chadnvim/pull/2) on [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim)
 - [Redone Setup Script [ FIX ]  🐛](https://github.com/harilvfs/chadnvim/pull/1) on [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim)
 - [Refactor Whole Scenic Hyprland [ Hypdots ]](https://github.com/harilvfs/hyprland/pull/2) on [harilvfs/hyprland](https://github.com/harilvfs/hyprland)
 - [Minor Fixes [ Link ]](https://github.com/pkgforge/soarpkgs/pull/145) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
-- [docs: port issue templates over to YAML](https://github.com/ChrisTitusTech/linutil/pull/1004) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Revamped Docs with mdBook Integration](https://github.com/Chris-Titus-Docs/linutil-docs/pull/10) on [Chris-Titus-Docs/linutil-docs](https://github.com/Chris-Titus-Docs/linutil-docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> How to reach me:: </strong>
   - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
