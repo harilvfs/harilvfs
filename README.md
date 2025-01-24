@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [DAK404/OpenSUSE-Setup-Scripts](https://github.com/DAK404/OpenSUSE-Setup-Scripts) - A set of useful scripts that can help in setting up and maintaining OpenSUSE Tumbleweed systems
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible! 
+- [nvzone/typr](https://github.com/nvzone/typr) - Typing practice plugin with good ui! for Neovim (WIP)
 - [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim) - Personalized NvChad Neovim setup. 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [dangooddd/line.yazi](https://github.com/dangooddd/line.yazi) - Simple statusline plugin for yazi file manager
-- [dangooddd/chosen.nvim](https://github.com/dangooddd/chosen.nvim) - Quickly move between your chosen files, per project
-- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
