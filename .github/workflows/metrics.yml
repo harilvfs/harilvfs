@@ -42,9 +42,6 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://medium.com/feed/@aayushchalise
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_gists: yes
