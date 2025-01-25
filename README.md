@@ -22,7 +22,7 @@
 - [DAK404/OpenSUSE-Setup-Scripts](https://github.com/DAK404/OpenSUSE-Setup-Scripts) - A set of useful scripts that can help in setting up and maintaining OpenSUSE Tumbleweed systems
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible! 
-- [nvzone/typr](https://github.com/nvzone/typr) - Typing practice plugin with good ui! for Neovim (WIP)
+- [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
 - [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim) - Personalized NvChad Neovim setup. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
