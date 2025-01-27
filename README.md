@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [lassenym/pacman-helper](https://github.com/lassenym/pacman-helper) - A tool to group packages installed from the &#39;pacman&#39; package-manager.
 - [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - Python Practice
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim
 - [OXY2DEV/OXY2DEV-s-portfolio](https://github.com/OXY2DEV/OXY2DEV-s-portfolio) - Work in progress portfolio website inspired by the terminal.
-- [DAK404/OpenSUSE-Setup-Scripts](https://github.com/DAK404/OpenSUSE-Setup-Scripts) - A set of useful scripts that can help in setting up and maintaining OpenSUSE Tumbleweed systems
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
