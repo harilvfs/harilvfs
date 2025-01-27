@@ -11,7 +11,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - Python Practice
+- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Catppuccin Wallpapers 🏞️
@@ -20,7 +20,7 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
 - [lassenym/pacman-helper](https://github.com/lassenym/pacman-helper) - A tool to group packages installed from the &#39;pacman&#39; package-manager.
-- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - Python Practice
+- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - 
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim
 - [OXY2DEV/OXY2DEV-s-portfolio](https://github.com/OXY2DEV/OXY2DEV-s-portfolio) - Work in progress portfolio website inspired by the terminal.
