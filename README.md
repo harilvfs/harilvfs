@@ -11,15 +11,15 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - 
+- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - Python Practice
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
-- [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Catppuccin Wallpapers 🏞️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Catppuccin Wallpapers 🏞️
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Mobile devices.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - 
+- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - Python Practice
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim
 - [OXY2DEV/OXY2DEV-s-portfolio](https://github.com/OXY2DEV/OXY2DEV-s-portfolio) - Work in progress portfolio website inspired by the terminal.
@@ -27,11 +27,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Minor Fixes](https://github.com/harilvfs/pxlr/pull/1) on [harilvfs/pxlr](https://github.com/harilvfs/pxlr)
 - [Making Helix Simple [ Clean ] 🧹](https://github.com/harilvfs/dwm/pull/14) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Add Support For [ Other&#39;s Distribution ]](https://github.com/harilvfs/chadnvim/pull/2) on [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim)
 - [Redone Setup Script [ FIX ]  🐛](https://github.com/harilvfs/chadnvim/pull/1) on [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim)
 - [Refactor Whole Scenic Hyprland [ Hypdots ]](https://github.com/harilvfs/hyprland/pull/2) on [harilvfs/hyprland](https://github.com/harilvfs/hyprland)
-- [Minor Fixes [ Link ]](https://github.com/pkgforge/soarpkgs/pull/145) on [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> How to reach me:: </strong>
   - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
