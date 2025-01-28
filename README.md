@@ -19,11 +19,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [HyDE-Project/Hyde-cli](https://github.com/HyDE-Project/Hyde-cli) - A HyDE CLI, wrapper, tweaks , workarounds, and more!
+- [rubiin/gitignorer](https://github.com/rubiin/gitignorer) - Cli app to quicky add gitignore files to your current environment
+- [rubiin/HyDePanel](https://github.com/rubiin/HyDePanel) - modular panel written on fabric
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [harilvfs/garuda-hyprdots](https://github.com/harilvfs/garuda-hyprdots) - Themed dotfiles for Garuda Linux
-- [lassenym/pacman-helper](https://github.com/lassenym/pacman-helper) - A tool to group packages installed from the &#39;pacman&#39; package-manager.
-- [harilvfs/pxlr](https://github.com/harilvfs/pxlr) - something is cooking 🐍
-- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
