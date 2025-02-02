@@ -32,11 +32,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Issue Template [ Ya ml ]](https://github.com/harilvfs/carch/pull/251) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Permission Issue [ Maybe Fixed ] Test](https://github.com/harilvfs/carch/pull/250) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Formatting With SHFMT](https://github.com/harilvfs/carch/pull/249) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Migrate To `BUN`](https://github.com/carch-org/docs/pull/11) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Replace Markdown Issue Template with YAML Template](https://github.com/mylinuxforwork/dotfiles/pull/653) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [Rework on Lsp](https://github.com/harilvfs/chadnvim/pull/3) on [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim)
-- [Minor Fixes](https://github.com/harilvfs/pxlr/pull/1) on [harilvfs/pxlr](https://github.com/harilvfs/pxlr)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
