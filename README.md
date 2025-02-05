@@ -24,11 +24,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [end-4/dots-hyprland-wiki](https://github.com/end-4/dots-hyprland-wiki) - Documentation for end-4/dots-hyprland
 - [johu/dotfiles](https://github.com/johu/dotfiles) - 
 - [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup 
 - [harilvfs/dotfiles](https://github.com/harilvfs/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.
-- [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
