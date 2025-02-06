@@ -32,11 +32,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Initial Support For Fedora Linux](https://github.com/harilvfs/carch/pull/257) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Docs [ Rework ]](https://github.com/carch-org/docs/pull/13) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Change &amp; Add Installation Method `Fedora` / `Arch`](https://github.com/harilvfs/carch/pull/256) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactoring i3wm Script](https://github.com/harilvfs/carch/pull/255) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Pkg Build Notice [ Note ]](https://github.com/carch-org/docs/pull/12) on [carch-org/docs](https://github.com/carch-org/docs)
-- [Fix carch-git PKGBUILD](https://github.com/carch-org/pkgs/pull/12) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
