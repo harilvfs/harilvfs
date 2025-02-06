@@ -24,11 +24,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - Portable and extensible  re-work  of prasanthrangan/hyprdots // Aesthetic, dynamic and minimal dots for Arch  Hyprland // Going beyond 
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [end-4/dots-hyprland-wiki](https://github.com/end-4/dots-hyprland-wiki) - Documentation for end-4/dots-hyprland
 - [johu/dotfiles](https://github.com/johu/dotfiles) - 
-- [heapbytes/dotfiles](https://github.com/heapbytes/dotfiles) - //dotfiles:  Configuration files for my bspwm and xfce setup 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
