@@ -18,9 +18,9 @@
 
 - [carch-org/.github](https://github.com/carch-org/.github) - 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩 [Unstable]
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - Sway Dotfiles 
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩 [Unstable]
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -32,11 +32,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update setup.sh](https://github.com/harilvfs/swaydotfiles/pull/2) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 - [Support For Fedora Linux](https://github.com/carch-org/docs/pull/14) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Remove Rust](https://github.com/harilvfs/carch/pull/262) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Main Carch Script To Support Fedora](https://github.com/harilvfs/carch/pull/261) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Rust](https://github.com/harilvfs/carch/pull/260) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Initial Support For Fedora Linux](https://github.com/harilvfs/carch/pull/257) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
