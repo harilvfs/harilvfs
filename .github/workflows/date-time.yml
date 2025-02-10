@@ -28,6 +28,7 @@ jobs:
 
       - name: Generate Quote and Date for README.md
         run: |
+          python - <<EOF
           from datetime import datetime
           import nepali_datetime
           import requests
@@ -81,6 +82,7 @@ jobs:
 
           with open("README.md", "w") as file:
               file.write(updated_readme)
+          EOF
 
       - name: Commit and Push Changes
         env:
