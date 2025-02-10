@@ -17,6 +17,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Pull latest changes
+        run: git pull origin main  # Pull changes from the main branch (or your default branch)
+
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
