@@ -70,13 +70,16 @@ jobs:
           with open("README.md", "r", encoding="utf-8") as file:
               readme = file.read()
 
-          updated_readme = readme.replace(
+          updated_readme = re.sub(
               r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->",
               f"<!-- QUOTE_START -->\n*{quote}*\n<!-- QUOTE_END -->",
+              readme,
               flags=re.DOTALL
-          ).replace(
+          )
+          updated_readme = re.sub(
               r"<!-- DATE_START -->.*?<!-- DATE_END -->",
               f"<!-- DATE_START -->\n*English: {english_date} | Nepali: {nepali_date}*\n<!-- DATE_END -->",
+              updated_readme,
               flags=re.DOTALL
           )
 
