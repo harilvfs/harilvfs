@@ -1,13 +1,12 @@
-name: Update README.md with Quote and Date
+name: Update Quote and Date in README.md
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:  
+    - cron: "0 0 * * *"  # Update daily at midnight
+  workflow_dispatch:  # Allows manual trigger
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update-readme:
@@ -26,22 +25,23 @@ jobs:
         run: |
           pip install nepali-datetime requests
 
-      - name: Generate Quote and Date for README.md
+      - name: Fetch Date and Quote
         run: |
           python - <<EOF
           from datetime import datetime
           import nepali_datetime
           import requests
           import random
-          import re
-          
-          english_date = datetime.now(datetime.timezone.utc).strftime('%A, %d %B %Y')
+
+          # Get English and Nepali Dates
+          english_date = datetime.utcnow().strftime('%A, %d %B %Y')
           nepali_date = nepali_datetime.date.today().strftime('%A, %d %B %Y')
-          
+
+          # Fetch the Quote
           try:
               response = requests.get("https://zenquotes.io/api/random")
-              response.raise_for_status()  # Raise an exception for HTTP errors
-              quote_data = response.json()[0]  # Extract the first quote in the list
+              response.raise_for_status()
+              quote_data = response.json()[0]
               quote = f'"{quote_data["q"]}" - {quote_data["a"]}'
           except Exception as e:
               print(f"Error fetching quote: {e}")
@@ -52,37 +52,40 @@ jobs:
                   "It does not matter how slowly you go as long as you do not stop. - Confucius",
                   "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill"
               ]
-              quote = random.choice(fallback_quotes)  # Select a random fallback quote
-          
-          markdown_content_quote = f"""*{quote}*"""
-          markdown_content_date = f"""<div align="center">
-          {english_date} | {nepali_date}
-          </div>
-          <br>
-          <div align="center">
-          <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20">
-          </div>
+              quote = random.choice(fallback_quotes)
+
+          # Prepare the content to update in the README.md
+          readme_content = f"""
+          <!-- QUOTE_START -->
+          *{quote}*
+          <!-- QUOTE_END -->
+
+          <!-- DATE_START -->
+          *English: {english_date} | Nepali: {nepali_date}*
+          <!-- DATE_END -->
           """
 
-          with open("README.md", "r") as file:
-              readme_content = file.read()
+          # Update only the sections between QUOTE_START and DATE_END
+          with open("README.md", "r", encoding="utf-8") as file:
+              readme = file.read()
 
-          updated_readme = re.sub(
+          updated_readme = readme.replace(
               r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->",
-              f"<!-- QUOTE_START -->\n{markdown_content_quote}\n<!-- QUOTE_END -->",
-              readme_content,
+              f"<!-- QUOTE_START -->\n*{quote}*\n<!-- QUOTE_END -->",
               flags=re.DOTALL
-          )
-
-          updated_readme = re.sub(
+          ).replace(
               r"<!-- DATE_START -->.*?<!-- DATE_END -->",
-              f"<!-- DATE_START -->\n{markdown_content_date}\n<!-- DATE_END -->",
-              updated_readme,
+              f"<!-- DATE_START -->\n*English: {english_date} | Nepali: {nepali_date}*\n<!-- DATE_END -->",
               flags=re.DOTALL
           )
 
-          with open("README.md", "w") as file:
-              file.write(updated_readme)
+          # Only write the file if changes were made
+          if readme != updated_readme:
+              with open("README.md", "w", encoding="utf-8") as file:
+                  file.write(updated_readme)
+              print("README.md updated with today's date and quote.")
+          else:
+              print("No changes to README.md, quote and date remain the same.")
           EOF
 
       - name: Commit and Push Changes
@@ -92,5 +95,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated README.md with today's quote and dates" || echo "No changes to commit"
+          git commit -m "Updated quote and date in README.md" || echo "No changes to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
