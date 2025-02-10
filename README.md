@@ -1,5 +1,17 @@
 <div align="center">
 
+
+*(Quote will be updated daily)*
+
+
+
+*(Date will be updated daily)*
+
+
+</div>
+
+<div align="center">
+
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
 
 </div>
