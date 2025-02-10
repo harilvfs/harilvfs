@@ -33,8 +33,9 @@ jobs:
           import nepali_datetime
           import requests
           import random
+          import re
           
-          english_date = datetime.utcnow().strftime('%A, %d %B %Y')
+          english_date = datetime.now(datetime.timezone.utc).strftime('%A, %d %B %Y')
           nepali_date = nepali_datetime.date.today().strftime('%A, %d %B %Y')
           
           try:
