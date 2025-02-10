@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*(Quote will be updated daily)*
+*"Wise men speak because they have something to say; Fools because they have to say something." - Plato*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*(Date will be updated daily)*
+*English: Monday, 10 February 2025 | Nepali: Monday, 28 Magh 2081*
 <!-- DATE_END -->
 
 </div>
