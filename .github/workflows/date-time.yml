@@ -2,8 +2,8 @@ name: Update Quote and Date in README.gtpl
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Update daily at midnight
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  
+  workflow_dispatch:  
 
 permissions:
   contents: write
@@ -32,13 +32,11 @@ jobs:
           import nepali_datetime
           import requests
           import random
-          import re  # Import 're' module for regex operations
+          import re  
 
-          # Get English and Nepali Dates
           english_date = datetime.datetime.now(datetime.timezone.utc).strftime('%A, %d %B %Y')
           nepali_date = nepali_datetime.date.today().strftime('%A, %d %B %Y')
 
-          # Fetch the Quote
           try:
               response = requests.get("https://zenquotes.io/api/random")
               response.raise_for_status()
@@ -55,7 +53,6 @@ jobs:
               ]
               quote = random.choice(fallback_quotes)
 
-          # Read and replace placeholders in README.gtpl
           with open("README.gtpl", "r", encoding="utf-8") as file:
               gtpl_content = file.read()
 
@@ -73,7 +70,6 @@ jobs:
               flags=re.DOTALL
           )
 
-          # Write the updated content back to README.gtpl
           with open("README.gtpl", "w", encoding="utf-8") as file:
               file.write(updated_content)
 
