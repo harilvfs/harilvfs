@@ -1,4 +1,4 @@
-name: Update Quote and Date in README.md
+name: Update Quote and Date in README
 
 on:
   schedule:
@@ -28,14 +28,14 @@ jobs:
       - name: Fetch Date and Quote
         run: |
           python - <<EOF
-          from datetime import datetime
+          import datetime
           import nepali_datetime
           import requests
           import random
-          import re
+          import re  # Import 're' module for regex operations
 
           # Get English and Nepali Dates
-          english_date = datetime.utcnow().strftime('%A, %d %B %Y')
+          english_date = datetime.datetime.now(datetime.timezone.utc).strftime('%A, %d %B %Y')
           nepali_date = nepali_datetime.date.today().strftime('%A, %d %B %Y')
 
           # Fetch the Quote
@@ -55,41 +55,29 @@ jobs:
               ]
               quote = random.choice(fallback_quotes)
 
-          # Prepare the content to update in the README.md
-          readme_content = f"""
-          <!-- QUOTE_START -->
-          *{quote}*
-          <!-- QUOTE_END -->
+          # Read and replace placeholders in README.gtpl
+          with open("README.gtpl", "r", encoding="utf-8") as file:
+              gtpl_content = file.read()
 
-          <!-- DATE_START -->
-          *English: {english_date} | Nepali: {nepali_date}*
-          <!-- DATE_END -->
-          """
-
-          # Update only the sections between QUOTE_START and DATE_END
-          with open("README.md", "r", encoding="utf-8") as file:
-              readme = file.read()
-
-          updated_readme = re.sub(
+          updated_content = re.sub(
               r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->",
               f"<!-- QUOTE_START -->\n*{quote}*\n<!-- QUOTE_END -->",
-              readme,
-              flags=re.DOTALL
-          )
-          updated_readme = re.sub(
-              r"<!-- DATE_START -->.*?<!-- DATE_END -->",
-              f"<!-- DATE_START -->\n*English: {english_date} | Nepali: {nepali_date}*\n<!-- DATE_END -->",
-              updated_readme,
+              gtpl_content,
               flags=re.DOTALL
           )
 
-          # Only write the file if changes were made
-          if readme != updated_readme:
-              with open("README.md", "w", encoding="utf-8") as file:
-                  file.write(updated_readme)
-              print("README.md updated with today's date and quote.")
-          else:
-              print("No changes to README.md, quote and date remain the same.")
+          updated_content = re.sub(
+              r"<!-- DATE_START -->.*?<!-- DATE_END -->",
+              f"<!-- DATE_START -->\n*English: {english_date} | Nepali: {nepali_date}*\n<!-- DATE_END -->",
+              updated_content,
+              flags=re.DOTALL
+          )
+
+          # Write the updated content to README.md
+          with open("README.md", "w", encoding="utf-8") as file:
+              file.write(updated_content)
+
+          print("README.md generated from README.gtpl with today's date and quote.")
           EOF
 
       - name: Commit and Push Changes
@@ -99,5 +87,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated quote and date in README.md" || echo "No changes to commit"
+          git commit -m "Updated README.md with today's date and quote" || echo "No changes to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
