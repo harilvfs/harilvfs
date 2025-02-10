@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- QUOTE_START -->
-*"Sometimes it is harder to deprive oneself of a pain than of a pleasure." - F. Scott Fitzgerald*
-<!-- QUOTE_END -->
 
-<!-- DATE_START -->
-*English: Monday, 10 February 2025 | Nepali: Monday, 28 Magh 2081*
-<!-- DATE_END -->
+*(Quote will be updated daily)*
+
+
+
+*(Date will be updated daily)*
+
 
 </div>
 
@@ -27,19 +27,28 @@
 <p align="left"><img src="https://raw.githubusercontent.com/harilvfs/harilvfs/refs/heads/main/github-metrics.svg" /></p>
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+
+- [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/.github](https://github.com/carch-org/.github) - 
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
+- [harilvfs/Top-5-Bootloader-Themes](https://github.com/harilvfs/Top-5-Bootloader-Themes) - Bash script to automatically change GRUB to listed themes
+- [ChrisTitusTech/Top-5-Bootloader-Themes](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes) - Bash script to automatically change GRUB to listed themes
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
+
+- [Fix Detection of OS-Release [ Arch &amp; Fedora ]](https://github.com/harilvfs/carch/pull/268) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Fix Installation Script `Arch` &amp; `Fedora`](https://github.com/harilvfs/carch/pull/267) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Some Updates On readme](https://github.com/harilvfs/carch/pull/266) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update to v4.1.3](https://github.com/harilvfs/carch/pull/265) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add Kitty As Terminal Dependencies](https://github.com/harilvfs/carch/pull/264) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
