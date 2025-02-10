@@ -1,5 +1,17 @@
 <div align="center">
 
+<!-- QUOTE_START -->
+*(Quote will be updated daily)*
+<!-- QUOTE_END -->
+
+<!-- DATE_START -->
+*(Date will be updated daily)*
+<!-- DATE_END -->
+
+</div>
+
+<div align="center">
+
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
 
 </div>
