@@ -1,0 +1,93 @@
+name: Update README.md with Quote and Date
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch:  
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependencies
+        run: |
+          pip install nepali-datetime requests
+
+      - name: Generate Quote and Date for README.md
+        run: |
+          from datetime import datetime
+          import nepali_datetime
+          import requests
+          import random
+          
+          english_date = datetime.utcnow().strftime('%A, %d %B %Y')
+          nepali_date = nepali_datetime.date.today().strftime('%A, %d %B %Y')
+          
+          try:
+              response = requests.get("https://zenquotes.io/api/random")
+              response.raise_for_status()  # Raise an exception for HTTP errors
+              quote_data = response.json()[0]  # Extract the first quote in the list
+              quote = f'"{quote_data["q"]}" - {quote_data["a"]}'
+          except Exception as e:
+              print(f"Error fetching quote: {e}")
+              fallback_quotes = [
+                  "Believe you can and you're halfway there. - Theodore Roosevelt",
+                  "The only way to do great work is to love what you do. - Steve Jobs",
+                  "Do what you can, with what you have, where you are. - Theodore Roosevelt",
+                  "It does not matter how slowly you go as long as you do not stop. - Confucius",
+                  "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill"
+              ]
+              quote = random.choice(fallback_quotes)  # Select a random fallback quote
+          
+          markdown_content_quote = f"""*{quote}*"""
+          markdown_content_date = f"""<div align="center">
+          {english_date} | {nepali_date}
+          </div>
+          <br>
+          <div align="center">
+          <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20">
+          </div>
+          """
+
+          with open("README.md", "r") as file:
+              readme_content = file.read()
+
+          updated_readme = re.sub(
+              r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->",
+              f"<!-- QUOTE_START -->\n{markdown_content_quote}\n<!-- QUOTE_END -->",
+              readme_content,
+              flags=re.DOTALL
+          )
+
+          updated_readme = re.sub(
+              r"<!-- DATE_START -->.*?<!-- DATE_END -->",
+              f"<!-- DATE_START -->\n{markdown_content_date}\n<!-- DATE_END -->",
+              updated_readme,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as file:
+              file.write(updated_readme)
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated README.md with today's quote and dates" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
