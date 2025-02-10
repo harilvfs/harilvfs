@@ -32,11 +32,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix Detection of OS-Release [ Arch &amp; Fedora ]](https://github.com/harilvfs/carch/pull/268) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Installation Script `Arch` &amp; `Fedora`](https://github.com/harilvfs/carch/pull/267) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Some Updates On readme](https://github.com/harilvfs/carch/pull/266) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update to v4.1.3](https://github.com/harilvfs/carch/pull/265) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Kitty As Terminal Dependencies](https://github.com/harilvfs/carch/pull/264) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove Rust Stuffs From [ Completions ]](https://github.com/harilvfs/carch/pull/263) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
