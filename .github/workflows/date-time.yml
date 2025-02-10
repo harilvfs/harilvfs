@@ -1,4 +1,4 @@
-name: Update Quote and Date in README
+name: Update Quote and Date in README.gtpl
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-readme-gtpl:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,7 +25,7 @@ jobs:
         run: |
           pip install nepali-datetime requests
 
-      - name: Fetch Date and Quote
+      - name: Fetch Date and Quote and Update README.gtpl
         run: |
           python - <<EOF
           import datetime
@@ -73,19 +73,19 @@ jobs:
               flags=re.DOTALL
           )
 
-          # Write the updated content to README.md
-          with open("README.md", "w", encoding="utf-8") as file:
+          # Write the updated content back to README.gtpl
+          with open("README.gtpl", "w", encoding="utf-8") as file:
               file.write(updated_content)
 
-          print("README.md generated from README.gtpl with today's date and quote.")
+          print("README.gtpl updated with today's date and quote.")
           EOF
 
-      - name: Commit and Push Changes
+      - name: Commit and Push Changes to README.gtpl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Updated README.md with today's date and quote" || echo "No changes to commit"
+          git add README.gtpl
+          git commit -m "Updated README.gtpl with today's date and quote" || echo "No changes to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
