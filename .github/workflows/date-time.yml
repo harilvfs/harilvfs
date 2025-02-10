@@ -32,6 +32,7 @@ jobs:
           import nepali_datetime
           import requests
           import random
+          import re
 
           # Get English and Nepali Dates
           english_date = datetime.utcnow().strftime('%A, %d %B %Y')
