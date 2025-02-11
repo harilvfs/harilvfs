@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [rjshkhr/cleanfolio-minimal](https://github.com/rjshkhr/cleanfolio-minimal) - A portfolio template built with HTML, CSS and JavaScript.
+- [rjshkhr/cleanfolio](https://github.com/rjshkhr/cleanfolio) - A portfolio template for developers.
+- [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles) - ~/
+- [rjshkhr/shadow.nvim](https://github.com/rjshkhr/shadow.nvim) - A dark, muted colorscheme for Neovim.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
-- [harilvfs/Top-5-Bootloader-Themes](https://github.com/harilvfs/Top-5-Bootloader-Themes) - Bash script to automatically change GRUB to listed themes
-- [ChrisTitusTech/Top-5-Bootloader-Themes](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes) - Bash script to automatically change GRUB to listed themes
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
