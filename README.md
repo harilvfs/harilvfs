@@ -28,19 +28,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
-- [carch-org/.github](https://github.com/carch-org/.github) - 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [harilvfs/cleanfolio](https://github.com/harilvfs/cleanfolio) - A portfolio template for developers.
 - [rjshkhr/cleanfolio-minimal](https://github.com/rjshkhr/cleanfolio-minimal) - A portfolio template built with HTML, CSS and JavaScript.
 - [rjshkhr/cleanfolio](https://github.com/rjshkhr/cleanfolio) - A portfolio template for developers.
 - [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles) - ~/
-- [rjshkhr/shadow.nvim](https://github.com/rjshkhr/shadow.nvim) - A dark, muted colorscheme for Neovim.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
