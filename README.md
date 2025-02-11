@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Wise men speak because they have something to say; Fools because they have to say something." - Plato*
+*"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. " - Herodotus*
 
 
 
-*English: Monday, 10 February 2025 | Nepali: Monday, 28 Magh 2081*
+*English: Tuesday, 11 February 2025 | Nepali: Tuesday, 29 Magh 2081*
 
 
 </div>
