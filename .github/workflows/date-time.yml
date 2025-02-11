@@ -2,8 +2,8 @@ name: Update Quote and Date in README.gtpl
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:  
+    - cron: "15 18 * * *"  
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install nepali-datetime requests
+          pip install nepali-datetime pytz requests
 
       - name: Fetch Date and Quote and Update README.gtpl
         run: |
@@ -32,15 +32,21 @@ jobs:
           import nepali_datetime
           import requests
           import random
-          import re  
+          import re
+          import pytz
 
-          english_date = datetime.datetime.now(datetime.timezone.utc).strftime('%A, %d %B %Y')
+          # Set timezone for Nepali (Nepal Time Zone)
+          nepali_tz = pytz.timezone("Asia/Kathmandu")
           nepali_date = nepali_datetime.date.today().strftime('%A, %d %B %Y')
 
+          # Use Nepali Time to update English Date
+          english_date = datetime.datetime.now(nepali_tz).strftime('%A, %d %B %Y')
+
+          # Fetch quote of the day
           try:
               response = requests.get("https://zenquotes.io/api/random")
-              response.raise_for_status()
-              quote_data = response.json()[0]
+              response.raise_for_status()  # Raise an exception for HTTP errors
+              quote_data = response.json()[0]  # Extract the first quote in the list
               quote = f'"{quote_data["q"]}" - {quote_data["a"]}'
           except Exception as e:
               print(f"Error fetching quote: {e}")
@@ -85,3 +91,4 @@ jobs:
           git add README.gtpl
           git commit -m "Updated README.gtpl with today's date and quote" || echo "No changes to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
