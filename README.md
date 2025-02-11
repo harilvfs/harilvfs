@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. " - Herodotus*
+*"Life is like playing the violin in public and learning the instrument as one goes on." - Samuel Butler*
 
 
 
-*English: Tuesday, 11 February 2025 | Nepali: Tuesday, 29 Magh 2081*
+*English: Wednesday, 12 February 2025 | Nepali: Wednesday, 30 Magh 2081*
 
 
 </div>
