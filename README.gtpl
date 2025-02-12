@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is like playing the violin in public and learning the instrument as one goes on." - Samuel Butler*
+*"Judge your success by what you had to give up in order to get it." - Dalai Lama*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 12 February 2025 | Nepali: Wednesday, 30 Magh 2081*
+*English: Thursday, 13 February 2025 | Nepali: Thursday, 01 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
