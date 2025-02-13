@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Judge your success by what you had to give up in order to get it." - Dalai Lama*
+*"My sun sets to rise again." - Robert Browning*
 
 
 
-*English: Thursday, 13 February 2025 | Nepali: Thursday, 01 Falgun 2081*
+*English: Friday, 14 February 2025 | Nepali: Friday, 02 Falgun 2081*
 
 
 </div>
