@@ -28,7 +28,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
+- [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Mobile devices.
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/Wallpaper-Bank](https://github.com/harilvfs/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
+- [JaKooLit/Wallpaper-Bank](https://github.com/JaKooLit/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
 - [Skardyy/neo-img](https://github.com/Skardyy/neo-img) - a neovim plugin for viewing images
 - [Skardyy/makurai-theme](https://github.com/Skardyy/makurai-theme) - a lively minimal theme, with multiple ports
 - [Skardyy/makurai-nvim](https://github.com/Skardyy/makurai-nvim) - a port of makurai-theme for neovim
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [harilvfs/cleanfolio](https://github.com/harilvfs/cleanfolio) - A portfolio template for developers.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
