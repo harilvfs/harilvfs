@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"My sun sets to rise again." - Robert Browning*
+*"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." - Christopher Reeve*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 14 February 2025 | Nepali: Friday, 02 Falgun 2081*
+*English: Saturday, 15 February 2025 | Nepali: Saturday, 03 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
