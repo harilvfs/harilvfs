@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." - Christopher Reeve*
+*"If you're brave enough to say goodbye, life will reward you with a new hello." - Paulo Coelho*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 15 February 2025 | Nepali: Saturday, 03 Falgun 2081*
+*English: Sunday, 16 February 2025 | Nepali: Sunday, 04 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
