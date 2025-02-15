@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [harilvfs/Wallpaper-Bank](https://github.com/harilvfs/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
 - [JaKooLit/Wallpaper-Bank](https://github.com/JaKooLit/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
 - [Skardyy/neo-img](https://github.com/Skardyy/neo-img) - a neovim plugin for viewing images
 - [Skardyy/makurai-theme](https://github.com/Skardyy/makurai-theme) - a lively minimal theme, with multiple ports
-- [Skardyy/makurai-nvim](https://github.com/Skardyy/makurai-nvim) - a port of makurai-theme for neovim
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
