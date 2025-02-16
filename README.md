@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
 - [sabi-31/My_Perfect_Arch-linux](https://github.com/sabi-31/My_Perfect_Arch-linux) - A collection of dotfiles and instruction to my arch install
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [harilvfs/Wallpaper-Bank](https://github.com/harilvfs/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
 - [JaKooLit/Wallpaper-Bank](https://github.com/JaKooLit/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
-- [Skardyy/neo-img](https://github.com/Skardyy/neo-img) - cross platform image viewer for neovim
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
