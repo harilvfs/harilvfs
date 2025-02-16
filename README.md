@@ -37,7 +37,7 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
-- [sabi-31/My_Perfect_Arch-linux](https://github.com/sabi-31/My_Perfect_Arch-linux) - A collection of dotfiles and instruction to my arch install
+- [sabi-31/My_Perfect_Arch-linux](https://github.com/sabi-31/My_Perfect_Arch-linux) - A comprehensive guide to installing Arch Linux with all of the modern features.
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [harilvfs/Wallpaper-Bank](https://github.com/harilvfs/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
 - [JaKooLit/Wallpaper-Bank](https://github.com/JaKooLit/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
