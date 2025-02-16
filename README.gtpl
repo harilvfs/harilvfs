@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you're brave enough to say goodbye, life will reward you with a new hello." - Paulo Coelho*
+*"Always seek out the seed of triumph in every adversity." - Og Mandino*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 16 February 2025 | Nepali: Sunday, 04 Falgun 2081*
+*English: Monday, 17 February 2025 | Nepali: Monday, 05 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
