@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty
 - [harilvfs/Best-README-Template](https://github.com/harilvfs/Best-README-Template) - An awesome README template to jumpstart your projects! 
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
-- [jackplus-xyz/player-one.nvim](https://github.com/jackplus-xyz/player-one.nvim) - A plugin that adds 8-bit sound effects to Neovim.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
