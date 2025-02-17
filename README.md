@@ -28,19 +28,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/andriodwallpapers](https://github.com/harilvfs/andriodwallpapers) - Collection of wallpapers for Mobile devices.
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Catppuccin Wallpapers 🏞️
 - [carch-org/docs](https://github.com/carch-org/docs) - Official Documentation for the Carch Project 📚 @harilvfs
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty
+- [harilvfs/Best-README-Template](https://github.com/harilvfs/Best-README-Template) - An awesome README template to jumpstart your projects! 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
+- [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [jackplus-xyz/player-one.nvim](https://github.com/jackplus-xyz/player-one.nvim) - A plugin that adds 8-bit sound effects to Neovim.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim 
-- [sabi-31/My_Perfect_Arch-linux](https://github.com/sabi-31/My_Perfect_Arch-linux) - A comprehensive guide to installing Arch Linux with all of the modern features.
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-- [harilvfs/Wallpaper-Bank](https://github.com/harilvfs/Wallpaper-Bank) - Additional wallpapers which will be offered to users for my hyprland scripts
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
