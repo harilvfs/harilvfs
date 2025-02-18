@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves." - Adi Da Samraj*
+*"To every action there is always opposed an equal reaction." - Isaac Newton*
 
 
 
-*English: Tuesday, 18 February 2025 | Nepali: Tuesday, 06 Falgun 2081*
+*English: Wednesday, 19 February 2025 | Nepali: Wednesday, 07 Falgun 2081*
 
 
 </div>
