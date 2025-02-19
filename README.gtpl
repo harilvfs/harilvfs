@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To every action there is always opposed an equal reaction." - Isaac Newton*
+*"Nothing is permanent in this wicked world - not even our troubles." - Charlie Chaplin*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 19 February 2025 | Nepali: Wednesday, 07 Falgun 2081*
+*English: Thursday, 20 February 2025 | Nepali: Thursday, 08 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
