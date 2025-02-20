@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [ShaanCoding/makeread.me](https://github.com/ShaanCoding/makeread.me) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [shell-ninja/hyprconf](https://github.com/shell-ninja/hyprconf) - A gorgeous configuration for Hyprland with Dynamic color changing and some advanced features.
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty
-- [harilvfs/Best-README-Template](https://github.com/harilvfs/Best-README-Template) - An awesome README template to jumpstart your projects! 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
