@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Nothing is permanent in this wicked world - not even our troubles." - Charlie Chaplin*
+*"Don't be afraid to go slowly. Be afraid of stopping." - Zen Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 20 February 2025 | Nepali: Thursday, 08 Falgun 2081*
+*English: Friday, 21 February 2025 | Nepali: Friday, 09 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
