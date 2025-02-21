@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Don't be afraid to go slowly. Be afraid of stopping." - Zen Proverb*
+*"Truth is exact correspondence with reality. " - Paramahansa Yogananda*
 
 
 
-*English: Friday, 21 February 2025 | Nepali: Friday, 09 Falgun 2081*
+*English: Saturday, 22 February 2025 | Nepali: Saturday, 10 Falgun 2081*
 
 
 </div>
