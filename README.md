@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Truth is exact correspondence with reality. " - Paramahansa Yogananda*
+*"A hero is an ordinary person doing things in an extra ordinary way." - Christopher Reeve*
 
 
 
-*English: Saturday, 22 February 2025 | Nepali: Saturday, 10 Falgun 2081*
+*English: Sunday, 23 February 2025 | Nepali: Sunday, 11 Falgun 2081*
 
 
 </div>
