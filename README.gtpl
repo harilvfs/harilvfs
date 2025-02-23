@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A hero is an ordinary person doing things in an extra ordinary way." - Christopher Reeve*
+*"Everything that is made beautiful and fair and lovely is made for the eye of one who sees." - Rumi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 23 February 2025 | Nepali: Sunday, 11 Falgun 2081*
+*English: Monday, 24 February 2025 | Nepali: Monday, 12 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
