@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Everything that is made beautiful and fair and lovely is made for the eye of one who sees." - Rumi*
+*"Formal education will make you a living, self-education will make you a fortune." - Jim Rohn*
 
 
 
-*English: Monday, 24 February 2025 | Nepali: Monday, 12 Falgun 2081*
+*English: Tuesday, 25 February 2025 | Nepali: Tuesday, 13 Falgun 2081*
 
 
 </div>
