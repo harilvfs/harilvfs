@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Formal education will make you a living, self-education will make you a fortune." - Jim Rohn*
+*"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." - T.S. Eliot*
 
 
 
-*English: Tuesday, 25 February 2025 | Nepali: Tuesday, 13 Falgun 2081*
+*English: Wednesday, 26 February 2025 | Nepali: Wednesday, 14 Falgun 2081*
 
 
 </div>
@@ -28,11 +28,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
