@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Formal education will make you a living, self-education will make you a fortune." - Jim Rohn*
+*"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." - T.S. Eliot*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 25 February 2025 | Nepali: Tuesday, 13 Falgun 2081*
+*English: Wednesday, 26 February 2025 | Nepali: Wednesday, 14 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
