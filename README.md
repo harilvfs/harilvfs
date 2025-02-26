@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." - T.S. Eliot*
+*"Always render more and better service than is expected of you, no matter what your task may be." - Og Mandino*
 
 
 
-*English: Wednesday, 26 February 2025 | Nepali: Wednesday, 14 Falgun 2081*
+*English: Thursday, 27 February 2025 | Nepali: Thursday, 15 Falgun 2081*
 
 
 </div>
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [nomadxxxx/fast-brave-debloater](https://github.com/nomadxxxx/fast-brave-debloater) - A bash script that enables you to remove annoying bloat and increase Brave performance.
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C&#43;&#43; Functional Terminal User Interface. :heart:
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
-- [outpoot/bliptext](https://github.com/outpoot/bliptext) - The wiki where you edit a word every 30sec, with 2.1M Wikipedia articles ported to a custom markdown format. Real-time text editing, beautiful UI &amp; more. Vandalize articles today!
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
