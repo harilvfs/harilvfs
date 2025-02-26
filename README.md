@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [outpoot/bliptext](https://github.com/outpoot/bliptext) - The wiki where you edit a word every 30sec, with 2.1M Wikipedia articles ported to a custom markdown format. Real-time text editing, beautiful UI &amp; more. Vandalize articles today!
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [Blazzzeee/network_manager_ui](https://github.com/Blazzzeee/network_manager_ui) - 
 - [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
 - [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS.
-- [mario-hess/Ricefield](https://github.com/mario-hess/Ricefield) - Personal dotfiles
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
