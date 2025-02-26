@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." - T.S. Eliot*
+*"Always render more and better service than is expected of you, no matter what your task may be." - Og Mandino*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 26 February 2025 | Nepali: Wednesday, 14 Falgun 2081*
+*English: Thursday, 27 February 2025 | Nepali: Thursday, 15 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
