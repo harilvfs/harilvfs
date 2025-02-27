@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Always render more and better service than is expected of you, no matter what your task may be." - Og Mandino*
+*"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " - Nikola Tesla*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 27 February 2025 | Nepali: Thursday, 15 Falgun 2081*
+*English: Friday, 28 February 2025 | Nepali: Friday, 16 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
