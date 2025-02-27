@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Bump Version 4.1.4](https://github.com/harilvfs/carch/pull/277) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix i3wm setup script [ From i3wmdotfiles ]](https://github.com/harilvfs/carch/pull/276) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Script](https://github.com/harilvfs/i3wmdotfiles/pull/7) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [Fix Major Os Detection [ Arch * Fedora ] Based](https://github.com/harilvfs/carch/pull/275) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Zsh Installation [ Arch * Fedora ]](https://github.com/harilvfs/carch/pull/274) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Website rebuild](https://github.com/harilvfs/web/pull/3) on [harilvfs/web](https://github.com/harilvfs/web)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
