@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " - Nikola Tesla*
+*"Whatever you believe with feeling becomes your reality. " - Brian Tracy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 28 February 2025 | Nepali: Friday, 16 Falgun 2081*
+*English: Saturday, 01 March 2025 | Nepali: Saturday, 17 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
