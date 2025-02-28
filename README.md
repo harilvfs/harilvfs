@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " - Nikola Tesla*
+*"Whatever you believe with feeling becomes your reality. " - Brian Tracy*
 
 
 
-*English: Friday, 28 February 2025 | Nepali: Friday, 16 Falgun 2081*
+*English: Saturday, 01 March 2025 | Nepali: Saturday, 17 Falgun 2081*
 
 
 </div>
@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Rust one binary [ Initial Implementation ]](https://github.com/harilvfs/carch/pull/280) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Img Shield Badges Tag Output [ Release ]](https://github.com/harilvfs/carch/pull/279) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Npm Script Fail On Both Distro](https://github.com/harilvfs/carch/pull/278) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump Version 4.1.4](https://github.com/harilvfs/carch/pull/277) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix i3wm setup script [ From i3wmdotfiles ]](https://github.com/harilvfs/carch/pull/276) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix Script](https://github.com/harilvfs/i3wmdotfiles/pull/7) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
