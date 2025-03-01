@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Whatever you believe with feeling becomes your reality. " - Brian Tracy*
+*"Thinking is the hardest work there is, which is probably the reason why so few engage in it." - Henry Ford*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 01 March 2025 | Nepali: Saturday, 17 Falgun 2081*
+*English: Sunday, 02 March 2025 | Nepali: Sunday, 18 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
