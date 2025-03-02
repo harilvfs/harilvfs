@@ -50,14 +50,6 @@
 - [Delete date-time.yml](https://github.com/harilvfs/carch/pull/285) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Old Zip Stuff [ Scripts ]](https://github.com/harilvfs/carch/pull/284) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Blog Posts: </strong>
-
-- [Installing Python and Setting Up a Virtual Environment](https://chalisehari.com.np/p/installing-python-and-setting-up-a-virtual-environment/)
-- [Terms of Service](https://chalisehari.com.np/terms-conditions/)
-- [Privacy Policy of Hari Chalise](https://chalisehari.com.np/privacy/)
-- [About](https://chalisehari.com.np/about/)
-- [Archives](https://chalisehari.com.np/archives/)
-
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
 - Discord    : <https://discord.com/invite/8NJWstnUHd>
