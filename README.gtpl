@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Thinking is the hardest work there is, which is probably the reason why so few engage in it." - Henry Ford*
+*"I was angered, for I had no shoes. Then I met a man who had no feet. " - Chinese Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 02 March 2025 | Nepali: Sunday, 18 Falgun 2081*
+*English: Monday, 03 March 2025 | Nepali: Monday, 19 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
