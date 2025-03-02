@@ -41,6 +41,11 @@
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
+<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif' width="30"> Recent Blog Posts: </strong>
+{{ range rss "https://chalisehari.com.np/index.xml" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
+
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
 - Discord    : <https://discord.com/invite/8NJWstnUHd>
