@@ -63,3 +63,6 @@ jobs:
           plugin_repositories_featured: harilvfs/carch, harilvfs/Arch-Wiki, harilvfs/dwm, carch-org/docs
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
