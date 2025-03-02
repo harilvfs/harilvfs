@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Bump Version 4.1.5](https://github.com/harilvfs/carch/pull/288) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Installation Script](https://github.com/harilvfs/carch/pull/287) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Prepare for Carch Crate Release](https://github.com/harilvfs/carch/pull/286) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Delete date-time.yml](https://github.com/harilvfs/carch/pull/285) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Old Zip Stuff [ Scripts ]](https://github.com/harilvfs/carch/pull/284) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Rust one binary [ Initial Implementation ]](https://github.com/harilvfs/carch/pull/280) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
