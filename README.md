@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"I was angered, for I had no shoes. Then I met a man who had no feet. " - Chinese Proverb*
+*"Freedom lies in being bold." - Robert Frost*
 
 
 
-*English: Monday, 03 March 2025 | Nepali: Monday, 19 Falgun 2081*
+*English: Tuesday, 04 March 2025 | Nepali: Tuesday, 20 Falgun 2081*
 
 
 </div>
