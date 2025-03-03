@@ -28,8 +28,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Expanding Sway WM `Script` Support For Fedora](https://github.com/harilvfs/carch/pull/293) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Major Bugs &amp; Dependencies](https://github.com/harilvfs/carch/pull/292) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Refactor Whole Package Script](https://github.com/harilvfs/carch/pull/291) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Neovim Script Not Working](https://github.com/harilvfs/carch/pull/290) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Distro Detection Failure](https://github.com/harilvfs/carch/pull/289) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Bump Version 4.1.5](https://github.com/harilvfs/carch/pull/288) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
