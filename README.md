@@ -28,19 +28,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [carch-org/.github](https://github.com/carch-org/.github) - Profile Configs 🌱
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [s-adi-dev/hyprshot-gui](https://github.com/s-adi-dev/hyprshot-gui) - A simple GTK-based GUI for Hyprshot, designed to provide an easy way to capture and manage screenshots on Hyprland.
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
