@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Freedom lies in being bold." - Robert Frost*
+*"Don't think money does everything or you are going to end up doing everything for money." - Voltaire*
 
 
 
-*English: Tuesday, 04 March 2025 | Nepali: Tuesday, 20 Falgun 2081*
+*English: Wednesday, 05 March 2025 | Nepali: Wednesday, 21 Falgun 2081*
 
 
 </div>
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [s-adi-dev/hyprshot-gui](https://github.com/s-adi-dev/hyprshot-gui) - A simple GTK-based GUI for Hyprshot, designed to provide an easy way to capture and manage screenshots on Hyprland.
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
