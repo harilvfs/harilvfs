@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fixes &amp; Add More Packages [ Package Script ]](https://github.com/harilvfs/carch/pull/296) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Add Chaotic Aur Installation Script](https://github.com/harilvfs/carch/pull/295) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Dependencies Fulfill [ Dwm ]](https://github.com/harilvfs/carch/pull/294) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Expanding Sway WM `Script` Support For Fedora](https://github.com/harilvfs/carch/pull/293) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Major Bugs &amp; Dependencies](https://github.com/harilvfs/carch/pull/292) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refactor Whole Package Script](https://github.com/harilvfs/carch/pull/291) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix Neovim Script Not Working](https://github.com/harilvfs/carch/pull/290) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix Distro Detection Failure](https://github.com/harilvfs/carch/pull/289) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
