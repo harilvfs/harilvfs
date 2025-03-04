@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Freedom lies in being bold." - Robert Frost*
+*"Don't think money does everything or you are going to end up doing everything for money." - Voltaire*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 04 March 2025 | Nepali: Tuesday, 20 Falgun 2081*
+*English: Wednesday, 05 March 2025 | Nepali: Wednesday, 21 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
