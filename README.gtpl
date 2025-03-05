@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Don't think money does everything or you are going to end up doing everything for money." - Voltaire*
+*"The difference between treason and patriotism is only a matter of dates." - Alexandre Dumas*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 05 March 2025 | Nepali: Wednesday, 21 Falgun 2081*
+*English: Thursday, 06 March 2025 | Nepali: Thursday, 22 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
