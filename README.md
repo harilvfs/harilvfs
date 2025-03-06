@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"The difference between treason and patriotism is only a matter of dates." - Alexandre Dumas*
+*"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. " - Albert Einstein*
 
 
 
-*English: Thursday, 06 March 2025 | Nepali: Thursday, 22 Falgun 2081*
+*English: Friday, 07 March 2025 | Nepali: Friday, 23 Falgun 2081*
 
 
 </div>
