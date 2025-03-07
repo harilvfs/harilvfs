@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. " - Albert Einstein*
+*"It is literally true that you can succeed best and quickest by helping others succeed." - Napoleon Hill*
 
 
 
-*English: Friday, 07 March 2025 | Nepali: Friday, 23 Falgun 2081*
+*English: Saturday, 08 March 2025 | Nepali: Saturday, 24 Falgun 2081*
 
 
 </div>
