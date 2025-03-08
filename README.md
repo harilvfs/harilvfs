@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Cleaning Uninstall Carch Function [ Fedora ]](https://github.com/harilvfs/carch/pull/303) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Revamped Installation Script [ Rpm Build Fedora ]](https://github.com/harilvfs/carch/pull/302) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fix Qemu Installation](https://github.com/harilvfs/carch/pull/301) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: Added Carch Search](https://github.com/harilvfs/carch/pull/300) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Add Carch Update Check Command](https://github.com/harilvfs/carch/pull/299) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Remove Badges [ Release ]](https://github.com/harilvfs/carch/pull/298) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Bump Version 4.1.6](https://github.com/harilvfs/carch/pull/297) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
