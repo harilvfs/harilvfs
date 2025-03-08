@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It is literally true that you can succeed best and quickest by helping others succeed." - Napoleon Hill*
+*"Never allow someone to be your priority while allowing yourself to be their option." - Mark Twain*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 08 March 2025 | Nepali: Saturday, 24 Falgun 2081*
+*English: Sunday, 09 March 2025 | Nepali: Sunday, 25 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
