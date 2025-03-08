@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"It is literally true that you can succeed best and quickest by helping others succeed." - Napoleon Hill*
+*"Never allow someone to be your priority while allowing yourself to be their option." - Mark Twain*
 
 
 
-*English: Saturday, 08 March 2025 | Nepali: Saturday, 24 Falgun 2081*
+*English: Sunday, 09 March 2025 | Nepali: Sunday, 25 Falgun 2081*
 
 
 </div>
@@ -28,19 +28,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [ayush013/folio](https://github.com/ayush013/folio) - Interactive Portfolio with Next, GSAP, Tailwind, and React
+- [giotsere/minimalist-portfolio](https://github.com/giotsere/minimalist-portfolio) - A simple minimalist one page portfolio. Link:
+- [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio) - A boilerplate portfolio in react :tada:
+- [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [Le0xFF/VoidLinuxInstaller](https://github.com/Le0xFF/VoidLinuxInstaller) - A bash script to install Void Linux with optional LUKS encryption, optional LVM, btrfs filesystem and optional swap as file.
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
-- [stevalkr/multiplexer.nvim](https://github.com/stevalkr/multiplexer.nvim) - A Neovim plugin that enables seamless navigation and resizing across multiple terminal multiplexers
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
