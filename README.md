@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Never allow someone to be your priority while allowing yourself to be their option." - Mark Twain*
+*"Failure is acceptable. Not trying is a whole different ball park." - Michael Jordan*
 
 
 
-*English: Sunday, 09 March 2025 | Nepali: Sunday, 25 Falgun 2081*
+*English: Monday, 10 March 2025 | Nepali: Monday, 26 Falgun 2081*
 
 
 </div>
