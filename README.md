@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fix Minor Bug [ SDDM ]](https://github.com/harilvfs/carch/pull/308) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Change To Manual Tagging [ Release ]](https://github.com/harilvfs/carch/pull/307) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Carch-Bin](https://github.com/harilvfs/carch/pull/306) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Bump Version 4.1.7](https://github.com/harilvfs/carch/pull/305) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Creating Live Testing [ Carch ]](https://github.com/harilvfs/carch/pull/304) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Cleaning Uninstall Carch Function [ Fedora ]](https://github.com/harilvfs/carch/pull/303) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
