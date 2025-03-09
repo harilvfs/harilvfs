@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
 - [harilvfs/minimalist-portfolio](https://github.com/harilvfs/minimalist-portfolio) - A simple minimalist one page portfolio. Link:
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [1chooo/1chooo.com](https://github.com/1chooo/1chooo.com) - 👨🏻‍💻 $ ls -al Hugo -- A Turborepo-powered portfolio and blog built with React, Next.js, fully responsive across all devices
 - [ayush013/folio](https://github.com/ayush013/folio) - Interactive Portfolio with Next, GSAP, Tailwind, and React
-- [giotsere/minimalist-portfolio](https://github.com/giotsere/minimalist-portfolio) - A simple minimalist one page portfolio. Link:
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Fixes Fastfetch Script [ New Config ]](https://github.com/harilvfs/carch/pull/309) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Rework Whole Site [ Terminal base ]](https://github.com/harilvfs/web/pull/6) on [harilvfs/web](https://github.com/harilvfs/web)
 - [Fix Minor Bug [ SDDM ]](https://github.com/harilvfs/carch/pull/308) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Change To Manual Tagging [ Release ]](https://github.com/harilvfs/carch/pull/307) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Carch-Bin](https://github.com/harilvfs/carch/pull/306) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Bump Version 4.1.7](https://github.com/harilvfs/carch/pull/305) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
