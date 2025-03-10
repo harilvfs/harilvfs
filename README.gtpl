@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Failure is acceptable. Not trying is a whole different ball park." - Michael Jordan*
+*"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." - Earl Nightingale*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 10 March 2025 | Nepali: Monday, 26 Falgun 2081*
+*English: Tuesday, 11 March 2025 | Nepali: Tuesday, 27 Falgun 2081*
 <!-- DATE_END -->
 
 </div>
