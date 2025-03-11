@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." - Earl Nightingale*
+*"Nothing can dim the light which shines from within." - Maya Angelou*
 
 
 
-*English: Tuesday, 11 March 2025 | Nepali: Tuesday, 27 Falgun 2081*
+*English: Wednesday, 12 March 2025 | Nepali: Wednesday, 28 Falgun 2081*
 
 
 </div>
