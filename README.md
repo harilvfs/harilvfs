@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Bump Version 4.2.1](https://github.com/harilvfs/carch/pull/314) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Carch Bin](https://github.com/harilvfs/carch/pull/313) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fixes Fastfetch Script [ New Config ]](https://github.com/harilvfs/carch/pull/309) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Rework Whole Site [ Terminal base ]](https://github.com/harilvfs/web/pull/6) on [harilvfs/web](https://github.com/harilvfs/web)
 - [Fix Minor Bug [ SDDM ]](https://github.com/harilvfs/carch/pull/308) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Change To Manual Tagging [ Release ]](https://github.com/harilvfs/carch/pull/307) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
