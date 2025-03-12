@@ -32,23 +32,23 @@
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
+- [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
+- [satnaing/satnaing.dev](https://github.com/satnaing/satnaing.dev) - My portfolio &amp; blog website developed with NextJS, TypeScript, and TailwindCSS. Markdown is used for contents. Contents are managed via Forestry headless CMS.
+- [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
-- [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
-- [Ruixi-rebirth/sway-dotfiles](https://github.com/Ruixi-rebirth/sway-dotfiles) - ⚡️Make it simple⚡️
-- [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Change `q` For Exiting](https://github.com/harilvfs/carch/pull/315) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Remove Terminal Mini Bar [ Not Needed ]](https://github.com/harilvfs/web/pull/7) on [harilvfs/web](https://github.com/harilvfs/web)
 - [Bump Version 4.2.1](https://github.com/harilvfs/carch/pull/314) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Remove Carch Bin](https://github.com/harilvfs/carch/pull/313) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Fixes Fastfetch Script [ New Config ]](https://github.com/harilvfs/carch/pull/309) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Rework Whole Site [ Terminal base ]](https://github.com/harilvfs/web/pull/6) on [harilvfs/web](https://github.com/harilvfs/web)
-- [Fix Minor Bug [ SDDM ]](https://github.com/harilvfs/carch/pull/308) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
