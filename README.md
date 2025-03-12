@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Nothing can dim the light which shines from within." - Maya Angelou*
+*"You can have the mind or you can have the moment." - Naval Ravikant*
 
 
 
-*English: Wednesday, 12 March 2025 | Nepali: Wednesday, 28 Falgun 2081*
+*English: Thursday, 13 March 2025 | Nepali: Thursday, 29 Falgun 2081*
 
 
 </div>
