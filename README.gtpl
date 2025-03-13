@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can have the mind or you can have the moment." - Naval Ravikant*
+*"The joy of life comes from our encounters with new experiences." - Christopher McCandless*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 13 March 2025 | Nepali: Thursday, 29 Falgun 2081*
+*English: Friday, 14 March 2025 | Nepali: Friday, 01 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
