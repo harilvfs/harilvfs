@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"The joy of life comes from our encounters with new experiences." - Christopher McCandless*
+*"Whoever is happy will make others happy too." - Anne Frank*
 
 
 
-*English: Friday, 14 March 2025 | Nepali: Friday, 01 Chaitra 2081*
+*English: Saturday, 15 March 2025 | Nepali: Saturday, 02 Chaitra 2081*
 
 
 </div>
