@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Whoever is happy will make others happy too." - Anne Frank*
+*"The idea of ourselves is our escape from the fact of what we really are." - Jiddu Krishnamurti*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 15 March 2025 | Nepali: Saturday, 02 Chaitra 2081*
+*English: Sunday, 16 March 2025 | Nepali: Sunday, 03 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
