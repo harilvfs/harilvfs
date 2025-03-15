@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Whoever is happy will make others happy too." - Anne Frank*
+*"The idea of ourselves is our escape from the fact of what we really are." - Jiddu Krishnamurti*
 
 
 
-*English: Saturday, 15 March 2025 | Nepali: Saturday, 02 Chaitra 2081*
+*English: Sunday, 16 March 2025 | Nepali: Sunday, 03 Chaitra 2081*
 
 
 </div>
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [danihek/hellwal](https://github.com/danihek/hellwal) - Pywal-like color palette generator, but faster and in C
-- [alokinho1/hyprpine-dots](https://github.com/alokinho1/hyprpine-dots) - i have ocd
-- [BioArchLinux/Packages](https://github.com/BioArchLinux/Packages) - Aim to be the bioinformatics repository with more and newer packages https://doi.org/10.1093/bioinformatics/btaf106
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
+- [ibelick/nim](https://github.com/ibelick/nim) - Nim is a free and open-source personal website template built with Next.js 15, React 19, Tailwind CSS v4, and Motion-Primitives.
+- [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
+- [ladunjexa/reactjs18-3d-portfolio](https://github.com/ladunjexa/reactjs18-3d-portfolio) - incredible 3D developer portfolio website with awesome graphics - built with React &amp; Three.js 🪄
+- [1hanzla100/developer-portfolio](https://github.com/1hanzla100/developer-portfolio) - Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
