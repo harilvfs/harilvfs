@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"The idea of ourselves is our escape from the fact of what we really are." - Jiddu Krishnamurti*
+*"At every moment where language can't go, that's your mind." - Bodhidharma*
 
 
 
-*English: Sunday, 16 March 2025 | Nepali: Sunday, 03 Chaitra 2081*
+*English: Monday, 17 March 2025 | Nepali: Monday, 04 Chaitra 2081*
 
 
 </div>
