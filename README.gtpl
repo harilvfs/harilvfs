@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"At every moment where language can't go, that's your mind." - Bodhidharma*
+*"Everyone has the right to make his own decisions, but none has the right to force his decision on others." - Ayn Rand*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 17 March 2025 | Nepali: Monday, 04 Chaitra 2081*
+*English: Tuesday, 18 March 2025 | Nepali: Tuesday, 05 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
