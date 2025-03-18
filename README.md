@@ -36,7 +36,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [poach3r/swirly](https://github.com/poach3r/swirly) - 
+- [poach3r/swirly](https://github.com/poach3r/swirly) - A Rust-based desktop shell for the Sway compositor.
 - [harilvfs/grub](https://github.com/harilvfs/grub) - 🌕 Soothing pastel theme for Grub2 &amp; Ventoy
 - [catppuccin/grub](https://github.com/catppuccin/grub) - 🌕 Soothing pastel theme for Grub2 &amp; Ventoy
 - [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
