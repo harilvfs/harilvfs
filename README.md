@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"Everyone has the right to make his own decisions, but none has the right to force his decision on others." - Ayn Rand*
+*"He is richest who is content with the least, for content is the wealth of nature." - Socrates*
 
 
 
-*English: Tuesday, 18 March 2025 | Nepali: Tuesday, 05 Chaitra 2081*
+*English: Wednesday, 19 March 2025 | Nepali: Wednesday, 06 Chaitra 2081*
 
 
 </div>
@@ -29,26 +29,26 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [harilvfs/hyprland](https://github.com/harilvfs/hyprland) - Hyprland Dotfiles 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/blogs](https://github.com/harilvfs/blogs) - Site for Blogging Using Hugo ✍️
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/chadnvim](https://github.com/harilvfs/chadnvim) - Personalized NvChad Neovim setup. 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/hugo-theme-stack](https://github.com/harilvfs/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+- [harilvfs/blogs](https://github.com/harilvfs/blogs) - Site for Blogging Using Hugo ✍️
 - [poach3r/swirly](https://github.com/poach3r/swirly) - A Rust-based desktop shell for the Sway compositor.
 - [harilvfs/grub](https://github.com/harilvfs/grub) - 🌕 Soothing pastel theme for Grub2 &amp; Ventoy
-- [catppuccin/grub](https://github.com/catppuccin/grub) - 🌕 Soothing pastel theme for Grub2 &amp; Ventoy
-- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
-- [ibelick/nim](https://github.com/ibelick/nim) - Nim is a free and open-source personal website template built with Next.js 15, React 19, Tailwind CSS v4, and Motion-Primitives.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Some Rework On Setup Script From [ Carch ]](https://github.com/harilvfs/dwm/pull/18) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Reworked the main menu—looks much better now!](https://github.com/harilvfs/carch/pull/326) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changing Installation UI To FZF](https://github.com/harilvfs/carch/pull/325) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Minimizing Gum Stuffs [ Scripts ]](https://github.com/harilvfs/carch/pull/324) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Improve Some Nonsense](https://github.com/harilvfs/carch/pull/319) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Fix Versioning](https://github.com/harilvfs/carch/pull/318) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
