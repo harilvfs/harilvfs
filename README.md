@@ -1,11 +1,11 @@
 <div align="center">
 
 
-*"He is richest who is content with the least, for content is the wealth of nature." - Socrates*
+*"Trust thyself: every heart vibrates to that iron string." - Ralph Waldo Emerson*
 
 
 
-*English: Wednesday, 19 March 2025 | Nepali: Wednesday, 06 Chaitra 2081*
+*English: Thursday, 20 March 2025 | Nepali: Thursday, 07 Chaitra 2081*
 
 
 </div>
