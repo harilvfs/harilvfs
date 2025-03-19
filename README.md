@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
 - [GeodeArc/GeoDots](https://github.com/GeodeArc/GeoDots) - 
 - [harilvfs/hugo-theme-stack](https://github.com/harilvfs/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [harilvfs/blogs](https://github.com/harilvfs/blogs) - Site for Blogging Using Hugo ✍️
-- [poach3r/swirly](https://github.com/poach3r/swirly) - A Rust-based desktop shell for the Sway compositor.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
