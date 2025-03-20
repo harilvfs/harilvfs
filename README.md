@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Trust thyself: every heart vibrates to that iron string." - Ralph Waldo Emerson*
+*"Change is not a four letter word...but often your reaction to it is!" - Jeffrey Gitomer*
 
 
 
-*English: Thursday, 20 March 2025 | Nepali: Thursday, 07 Chaitra 2081*
+*English: Friday, 21 March 2025 | Nepali: Friday, 08 Chaitra 2081*
 
 
 </div>
