@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
 - [GeodeArc/GeoDots](https://github.com/GeodeArc/GeoDots) - 
 - [harilvfs/hugo-theme-stack](https://github.com/harilvfs/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [feat: Add Dunst Setup Script](https://github.com/harilvfs/carch/pull/332) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Some Enhancement Check UP](https://github.com/harilvfs/carch/pull/331) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Bun Script to Use Curl Instead of Npm](https://github.com/harilvfs/carch/pull/330) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Aur Helper Fixed](https://github.com/harilvfs/i3wmdotfiles/pull/8) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [Rust Code Makeover &amp; Added Comments](https://github.com/harilvfs/carch/pull/329) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: Some Fixes as well as Scroll To Bottom Added](https://github.com/harilvfs/blogs/pull/3) on [harilvfs/blogs](https://github.com/harilvfs/blogs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
