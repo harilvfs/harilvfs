@@ -28,8 +28,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/blogs](https://github.com/harilvfs/blogs) - Site for Blogging Using Hugo ✍️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [harilvfs/blogs](https://github.com/harilvfs/blogs) - Site for Blogging Using Hugo ✍️
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Rust Code Makeover &amp; Added Comments](https://github.com/harilvfs/carch/pull/329) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: Some Fixes as well as Scroll To Bottom Added](https://github.com/harilvfs/blogs/pull/3) on [harilvfs/blogs](https://github.com/harilvfs/blogs)
 - [Some Rework On Setup Script From [ Carch ]](https://github.com/harilvfs/dwm/pull/18) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [Reworked the main menu—looks much better now!](https://github.com/harilvfs/carch/pull/326) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changing Installation UI To FZF](https://github.com/harilvfs/carch/pull/325) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Minimizing Gum Stuffs [ Scripts ]](https://github.com/harilvfs/carch/pull/324) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
