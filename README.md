@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/blogs](https://github.com/harilvfs/blogs) - Site for Blogging Using Hugo ✍️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Refactor &amp; Changes in Some markdown](https://github.com/carch-org/docs/pull/18) on [carch-org/docs](https://github.com/carch-org/docs)
+- [refactor: Completely Remove Gum From Scripts](https://github.com/harilvfs/carch/pull/333) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: Add Dunst Setup Script](https://github.com/harilvfs/carch/pull/332) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Some Enhancement Check UP](https://github.com/harilvfs/carch/pull/331) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update Bun Script to Use Curl Instead of Npm](https://github.com/harilvfs/carch/pull/330) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Aur Helper Fixed](https://github.com/harilvfs/i3wmdotfiles/pull/8) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
-- [Rust Code Makeover &amp; Added Comments](https://github.com/harilvfs/carch/pull/329) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
