@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Change is not a four letter word...but often your reaction to it is!" - Jeffrey Gitomer*
+*"Our greatest fears lie in anticipation." - Honore de Balzac*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 21 March 2025 | Nepali: Friday, 08 Chaitra 2081*
+*English: Saturday, 22 March 2025 | Nepali: Saturday, 09 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
