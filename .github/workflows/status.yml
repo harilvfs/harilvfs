@@ -44,6 +44,8 @@ jobs:
           const LOGO_COLOR = "85e185"
           const LABEL_COLOR = "1c1c29"
           
+          const EXCLUDE_REPO = "harilvfs/harilvfs";
+          
           async function getLastActivityTime() {
             try {
               const response = await axios.get(
@@ -57,7 +59,13 @@ jobs:
               );
               
               if (response.data && response.data.length > 0) {
-                return new Date(response.data[0].created_at);
+                const filteredEvents = response.data.filter(event => {
+                  return event.repo && event.repo.name !== EXCLUDE_REPO;
+                });
+                
+                if (filteredEvents.length > 0) {
+                  return new Date(filteredEvents[0].created_at);
+                }
               }
               return null;
             } catch (error) {
@@ -116,6 +124,7 @@ jobs:
                 fs.writeFileSync(templatePath, newTemplate);
                 console.log(`Updated status in README.gtpl to ${isOnline ? 'Online' : 'Offline'}`);
                 console.log(`Using custom colors: labelColor=${LABEL_COLOR}, logoColor=${LOGO_COLOR}`);
+                console.log(`Excluded activity from repository: ${EXCLUDE_REPO}`);
               } else {
                 console.error('Badge markers not found in README.gtpl');
               }
