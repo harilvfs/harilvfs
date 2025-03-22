@@ -1,4 +1,4 @@
-name: Update Quote and Date in README.gtpl
+name: Quote and Date
 
 on:
   schedule:
