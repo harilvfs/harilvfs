@@ -40,6 +40,9 @@ jobs:
           
           const CATPPUCCIN_GREEN = "ABE9B3"
           const CATPPUCCIN_RED = "F28FAD" 
+
+          const LOGO_COLOR = "85e185"
+          const LABEL_COLOR = "1c1c29"
           
           async function getLastActivityTime() {
             try {
@@ -72,8 +75,8 @@ jobs:
               
               const isOnline = timeDiffMinutes !== null && timeDiffMinutes < 15;
               
-              const onlineBadge = `![Status](https://img.shields.io/badge/Status-Online-${CATPPUCCIN_GREEN}?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c29)`;
-              const offlineBadge = `![Status](https://img.shields.io/badge/Status-Offline-${CATPPUCCIN_RED}?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c29)`;
+              const onlineBadge = `![Status](https://img.shields.io/badge/Status-Online-${CATPPUCCIN_GREEN}?style=for-the-badge&logo=github&logoColor=${LOGO_COLOR}&labelColor=${LABEL_COLOR})`;
+              const offlineBadge = `![Status](https://img.shields.io/badge/Status-Offline-${CATPPUCCIN_RED}?style=for-the-badge&logo=github&logoColor=${LOGO_COLOR}&labelColor=${LABEL_COLOR})`;
               const statusBadge = isOnline ? onlineBadge : offlineBadge;
               
               const templatePath = 'README.gtpl';
