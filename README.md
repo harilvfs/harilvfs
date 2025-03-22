@@ -45,27 +45,27 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
 - [harilvfs/gh0stzk-dotfiles](https://github.com/harilvfs/gh0stzk-dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [CachyOS/CachyOS-icons](https://github.com/CachyOS/CachyOS-icons) - Custom Icons Made for CachyOS
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [fix: Aur Package Installation](https://github.com/harilvfs/swaydotfiles/pull/4) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
+- [fix: AUR helper Swaywm](https://github.com/harilvfs/carch/pull/335) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [refactor: Fix AUR helper &amp; use fzf instead of gum](https://github.com/harilvfs/swaydotfiles/pull/3) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
+- [feat: Using Fzf Instead Of Gum](https://github.com/harilvfs/i3wmdotfiles/pull/10) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [feat: Add Colors To Help Menu](https://github.com/harilvfs/carch/pull/334) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Refactor &amp; Changes in Some markdown](https://github.com/carch-org/docs/pull/18) on [carch-org/docs](https://github.com/carch-org/docs)
-- [refactor: Completely Remove Gum From Scripts](https://github.com/harilvfs/carch/pull/333) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: Add Dunst Setup Script](https://github.com/harilvfs/carch/pull/332) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Some Enhancement Check UP](https://github.com/harilvfs/carch/pull/331) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
