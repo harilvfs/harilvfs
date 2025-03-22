@@ -1,10 +1,12 @@
-name: Activity Status
+name: Update Activity Status
 
 on:
   schedule:
+    # Run every 10 minutes
     - cron: "*/10 * * * *"
-  workflow_dispatch: 
+  workflow_dispatch: # Allow manual trigger
 
+# Add permissions block to grant write access
 permissions:
   contents: write
 
@@ -38,9 +40,12 @@ jobs:
           const username = process.env.USERNAME;
           const token = process.env.GITHUB_TOKEN;
           
-          const CATPPUCCIN_GREEN = "ABE9B3"
-          const CATPPUCCIN_RED = "F28FAD" 
-
+          // Catppuccin colors
+          // Using Mocha palette
+          const CATPPUCCIN_GREEN = "ABE9B3" // Green for online
+          const CATPPUCCIN_RED = "F28FAD"   // Red for offline
+          
+          // Custom colors from user
           const LOGO_COLOR = "85e185"
           const LABEL_COLOR = "1c1c29"
           
@@ -68,17 +73,21 @@ jobs:
           
           async function updateReadmeTemplate() {
             try {
+              // Get last activity time
               const lastActivity = await getLastActivityTime();
               const now = new Date();
               const timeDiffMinutes = lastActivity ? 
                 Math.floor((now - lastActivity) / (1000 * 60)) : null;
               
+              // Determine status - online if active in the last 15 minutes
               const isOnline = timeDiffMinutes !== null && timeDiffMinutes < 15;
               
+              // Catppuccin themed badge with for-the-badge style and custom colors
               const onlineBadge = `![Status](https://img.shields.io/badge/Status-Online-${CATPPUCCIN_GREEN}?style=for-the-badge&logo=github&logoColor=${LOGO_COLOR}&labelColor=${LABEL_COLOR})`;
               const offlineBadge = `![Status](https://img.shields.io/badge/Status-Offline-${CATPPUCCIN_RED}?style=for-the-badge&logo=github&logoColor=${LOGO_COLOR}&labelColor=${LABEL_COLOR})`;
               const statusBadge = isOnline ? onlineBadge : offlineBadge;
               
+              // Read current README.gtpl
               const templatePath = 'README.gtpl';
               if (!fs.existsSync(templatePath)) {
                 console.error('README.gtpl not found');
@@ -87,20 +96,43 @@ jobs:
               
               const template = fs.readFileSync(templatePath, 'utf8');
               
-              const badgeSection = template.match(/(<!--Badge\s*-->[\s\S]*?<!-- badge _END -->)/i);
+              // Match the entire section between badge comments
+              const badgeSection = template.match(/(<!--Badge\s*-->)([\s\S]*?)(<!-- badge _END -->)/i);
               
               if (badgeSection) {
-                const originalSection = badgeSection[0];
+                // Get all the content (group 2 in the regex match)
+                const contentBetweenComments = badgeSection[2];
                 
-                const newSection = originalSection.replace(
-                  /the badges should be here/, 
-                  statusBadge
-                );
+                let newContent;
                 
-                const newTemplate = template.replace(originalSection, newSection);
+                // Check if there's already a badge or still the placeholder text
+                if (contentBetweenComments.includes('![Status]')) {
+                  // Replace the existing badge
+                  newContent = contentBetweenComments.replace(
+                    /!\[Status\]\(https:\/\/img\.shields\.io\/badge\/Status-(?:Online|Offline)-[^?)]+(?:[^)]+)?\)/,
+                    statusBadge
+                  );
+                } else if (contentBetweenComments.includes('the badges should be here')) {
+                  // Replace the placeholder text
+                  newContent = contentBetweenComments.replace(
+                    /the badges should be here/,
+                    statusBadge
+                  );
+                } else {
+                  // Just insert the badge
+                  newContent = statusBadge;
+                }
                 
+                // Reconstruct the entire section
+                const newSection = `${badgeSection[1]}${newContent}${badgeSection[3]}`;
+                
+                // Replace in the template
+                const newTemplate = template.replace(badgeSection[0], newSection);
+                
+                // Write updated template
                 fs.writeFileSync(templatePath, newTemplate);
                 console.log(`Updated status in README.gtpl to ${isOnline ? 'Online' : 'Offline'}`);
+                console.log(`Using custom colors: labelColor=${LABEL_COLOR}, logoColor=${LOGO_COLOR}`);
               } else {
                 console.error('Badge markers not found in README.gtpl');
               }
@@ -117,10 +149,15 @@ jobs:
       - name: Execute status script
         run: node update-status.js
         
+      - name: Debug README.gtpl content
+        run: |
+          echo "Current README.gtpl content:"
+          cat README.gtpl
+        
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.gtpl
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update activity status in README template"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update activity status in README template" && git push)
+          echo "Changes committed and pushed."
