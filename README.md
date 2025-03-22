@@ -53,11 +53,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/gh0stzk-dotfiles](https://github.com/harilvfs/gh0stzk-dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [CachyOS/CachyOS-icons](https://github.com/CachyOS/CachyOS-icons) - Custom Icons Made for CachyOS
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
