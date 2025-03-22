@@ -18,6 +18,11 @@
 
 </div>
 
+
+<!--Badge   -->
+![Status](https://img.shields.io/badge/Status-Online-ABE9B3?style=for-the-badge&logo=github&logoColor=white)
+<!-- badge _END -->
+
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
