@@ -1,12 +1,10 @@
-name: Update Activity Status
+name: Activity Status
 
 on:
   schedule:
-    # Run every 10 minutes
     - cron: "*/10 * * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: 
 
-# Add permissions block to grant write access
 permissions:
   contents: write
 
@@ -40,10 +38,8 @@ jobs:
           const username = process.env.USERNAME;
           const token = process.env.GITHUB_TOKEN;
           
-          // Catppuccin colors
-          // Using Mocha palette
-          const CATPPUCCIN_GREEN = "ABE9B3" // Green for online
-          const CATPPUCCIN_RED = "F28FAD"   // Red for offline
+          const CATPPUCCIN_GREEN = "ABE9B3"
+          const CATPPUCCIN_RED = "F28FAD" 
           
           async function getLastActivityTime() {
             try {
@@ -69,21 +65,17 @@ jobs:
           
           async function updateReadmeTemplate() {
             try {
-              // Get last activity time
               const lastActivity = await getLastActivityTime();
               const now = new Date();
               const timeDiffMinutes = lastActivity ? 
                 Math.floor((now - lastActivity) / (1000 * 60)) : null;
               
-              // Determine status - online if active in the last 15 minutes
               const isOnline = timeDiffMinutes !== null && timeDiffMinutes < 15;
               
-              // Catppuccin themed badge with for-the-badge style
-              const onlineBadge = `![Status](https://img.shields.io/badge/Status-Online-${CATPPUCCIN_GREEN}?style=for-the-badge&logo=github&logoColor=white)`;
-              const offlineBadge = `![Status](https://img.shields.io/badge/Status-Offline-${CATPPUCCIN_RED}?style=for-the-badge&logo=github&logoColor=white)`;
+              const onlineBadge = `![Status](https://img.shields.io/badge/Status-Online-${CATPPUCCIN_GREEN}?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c29)`;
+              const offlineBadge = `![Status](https://img.shields.io/badge/Status-Offline-${CATPPUCCIN_RED}?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c29)`;
               const statusBadge = isOnline ? onlineBadge : offlineBadge;
               
-              // Read current README.gtpl
               const templatePath = 'README.gtpl';
               if (!fs.existsSync(templatePath)) {
                 console.error('README.gtpl not found');
@@ -92,23 +84,18 @@ jobs:
               
               const template = fs.readFileSync(templatePath, 'utf8');
               
-              // Match the entire section while preserving the exact content format
               const badgeSection = template.match(/(<!--Badge\s*-->[\s\S]*?<!-- badge _END -->)/i);
               
               if (badgeSection) {
-                // Get the exact original text with correct spacing and formatting
                 const originalSection = badgeSection[0];
                 
-                // Create new section with badge replacing "the badges should be here" (preserve line breaks)
                 const newSection = originalSection.replace(
                   /the badges should be here/, 
                   statusBadge
                 );
                 
-                // Replace entire section in the template
                 const newTemplate = template.replace(originalSection, newSection);
                 
-                // Write updated template
                 fs.writeFileSync(templatePath, newTemplate);
                 console.log(`Updated status in README.gtpl to ${isOnline ? 'Online' : 'Offline'}`);
               } else {

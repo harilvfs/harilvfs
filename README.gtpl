@@ -19,9 +19,13 @@
 </div>
 
 
+<div align="center">
+
 <!--Badge   -->
 ![Status](https://img.shields.io/badge/Status-Online-ABE9B3?style=for-the-badge&logo=github&logoColor=white)
 <!-- badge _END -->
+
+</div>
 
 <div align="center">
 
