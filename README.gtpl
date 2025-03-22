@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Our greatest fears lie in anticipation." - Honore de Balzac*
+*"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 22 March 2025 | Nepali: Saturday, 09 Chaitra 2081*
+*English: Sunday, 23 March 2025 | Nepali: Sunday, 10 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
