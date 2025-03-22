@@ -5,16 +5,17 @@ on:
     # Run every 10 minutes
     - cron: "*/10 * * * *"
   workflow_dispatch: # Allow manual trigger
-    
+
+# Add permissions block to grant write access
+permissions:
+  contents: write
+
 jobs:
   update-status:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          # Use your PAT for authentication
-          token: ${{ secrets.PAT }}
         
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -23,7 +24,7 @@ jobs:
 
       - name: Create .env file
         run: |
-          echo "GITHUB_TOKEN=${{ secrets.PAT }}" > .env
+          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" > .env
           echo "USERNAME=${{ github.repository_owner }}" >> .env
       
       - name: Install dependencies
@@ -132,5 +133,4 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.gtpl
           git diff --quiet && git diff --staged --quiet || git commit -m "Update activity status in README template"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
           git push
