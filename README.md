@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw*
+*"Everyone has the right to make his own decisions, but none has the right to force his decision on others." - Ayn Rand*
 
 
 
-*English: Sunday, 23 March 2025 | Nepali: Sunday, 10 Chaitra 2081*
+*English: Monday, 24 March 2025 | Nepali: Monday, 11 Chaitra 2081*
 
 
 </div>
@@ -53,11 +53,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [quantumvoid0/better-control](https://github.com/quantumvoid0/better-control) - A simple control panel for linux , based on the GTK framework
 - [liveslol/rainy](https://github.com/liveslol/rainy) - Neofetch-like, minimalistic, and customizable weather-fetching tool.
 - [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
-- [harilvfs/gh0stzk-dotfiles](https://github.com/harilvfs/gh0stzk-dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
