@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw*
+*"Everyone has the right to make his own decisions, but none has the right to force his decision on others." - Ayn Rand*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 23 March 2025 | Nepali: Sunday, 10 Chaitra 2081*
+*English: Monday, 24 March 2025 | Nepali: Monday, 11 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
