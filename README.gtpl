@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Everyone has the right to make his own decisions, but none has the right to force his decision on others." - Ayn Rand*
+*"Don't hate the player. Change the game." - Steve Harvey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 24 March 2025 | Nepali: Monday, 11 Chaitra 2081*
+*English: Tuesday, 25 March 2025 | Nepali: Tuesday, 12 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
