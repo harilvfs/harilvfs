@@ -5,8 +5,7 @@ permissions:
 
 on:
   push:
-    paths:
-      - '**'
+
   workflow_dispatch:
   schedule:
     - cron: "0 */1 * * *"
