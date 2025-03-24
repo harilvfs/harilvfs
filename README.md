@@ -61,11 +61,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [refactor: Rework On Install Script](https://github.com/harilvfs/carch/pull/339) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.4](https://github.com/harilvfs/carch/pull/337) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.4](https://github.com/harilvfs/carch/pull/336) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [fix: Aur Package Installation](https://github.com/harilvfs/swaydotfiles/pull/4) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 - [fix: AUR helper Swaywm](https://github.com/harilvfs/carch/pull/335) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: Fix AUR helper &amp; use fzf instead of gum](https://github.com/harilvfs/swaydotfiles/pull/3) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
