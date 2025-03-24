@@ -18,15 +18,6 @@
 
 </div>
 
-
-<div align="center">
-
-
-![Status](https://img.shields.io/badge/Status-Offline-F28FAD?style=for-the-badge&logo=github&logoColor=85e185&labelColor=1c1c29)
-
-
-</div>
-
 <div align="center">
 
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
