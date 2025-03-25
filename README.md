@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [harilvfs/icons](https://github.com/harilvfs/icons) - Collection of Icons &amp; Cursors 🖌️
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/.github](https://github.com/carch-org/.github) - Profile Configs 🌱
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [carch-org/carch](https://github.com/carch-org/carch) - 🧪 Fork of the main Carch project for testing purposes.
+- [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs) - GitButler Documentation
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [ThePrimeagen/topshelf-fm](https://github.com/ThePrimeagen/topshelf-fm) - The TopShelf Project Of The Century
-- [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements. 
-- [quantumvoid0/better-control](https://github.com/quantumvoid0/better-control) - A simple control panel for linux , based on the GTK framework
-- [liveslol/rainy](https://github.com/liveslol/rainy) - Neofetch-like, minimalistic, and customizable weather-fetching tool.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
