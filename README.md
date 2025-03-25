@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't hate the player. Change the game." - Steve Harvey*
+*"Death and life have their determined appointments; riches and honors depend upon heaven. " - Confucius*
 
 
 
-*English: Tuesday, 25 March 2025 | Nepali: Tuesday, 12 Chaitra 2081*
+*English: Wednesday, 26 March 2025 | Nepali: Wednesday, 13 Chaitra 2081*
 
 
 </div>
