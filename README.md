@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Death and life have their determined appointments; riches and honors depend upon heaven. " - Confucius*
+*"Not all readers are leaders, but all leaders are readers." - Harry S. Truman*
 
 
 
-*English: Wednesday, 26 March 2025 | Nepali: Wednesday, 13 Chaitra 2081*
+*English: Thursday, 27 March 2025 | Nepali: Thursday, 14 Chaitra 2081*
 
 
 </div>
