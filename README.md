@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [carch-org/carch](https://github.com/carch-org/carch) - 🧪 Fork of the main Carch project for testing purposes.
-- [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs) - GitButler Documentation
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
-- [ThePrimeagen/topshelf-fm](https://github.com/ThePrimeagen/topshelf-fm) - The TopShelf Project Of The Century
+- [HyDE-Project/telegram](https://github.com/HyDE-Project/telegram) - HyDE&#39;s wallbash template for telegram. 
+- [HyDE-Project/code-wallbash](https://github.com/HyDE-Project/code-wallbash) - VSCode extension for HyDE using wallbash colors
+- [HyDE-Project/HyprPanel](https://github.com/HyDE-Project/HyprPanel) - Wallbash template for hyprpanel. See https://hyprpanel.com/
+- [HyDE-Project/hyde-site](https://github.com/HyDE-Project/hyde-site) - Basic astro site for hyde
+- [HyDE-Project/hyde-gallery](https://github.com/HyDE-Project/hyde-gallery) - \\ Repository for supported HyDE themes.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
