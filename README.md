@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Not all readers are leaders, but all leaders are readers." - Harry S. Truman*
+*"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome*
 
 
 
-*English: Thursday, 27 March 2025 | Nepali: Thursday, 14 Chaitra 2081*
+*English: Friday, 28 March 2025 | Nepali: Friday, 15 Chaitra 2081*
 
 
 </div>
@@ -36,10 +36,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [refactor: Improve handling when figlet is missing](https://github.com/harilvfs/carch/pull/341) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [fix: Simplify Distro Detection Logic](https://github.com/harilvfs/carch/pull/340) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: Rework On Install Script](https://github.com/harilvfs/carch/pull/339) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.4](https://github.com/harilvfs/carch/pull/337) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.4](https://github.com/harilvfs/carch/pull/336) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [fix: Aur Package Installation](https://github.com/harilvfs/swaydotfiles/pull/4) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
