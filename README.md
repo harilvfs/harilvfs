@@ -39,16 +39,16 @@
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [carch-org/.github](https://github.com/carch-org/.github) - Profile Configs 🌱
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [HyDE-Project/telegram](https://github.com/HyDE-Project/telegram) - HyDE&#39;s wallbash template for telegram. 
 - [HyDE-Project/code-wallbash](https://github.com/HyDE-Project/code-wallbash) - VSCode extension for HyDE using wallbash colors
 - [HyDE-Project/HyprPanel](https://github.com/HyDE-Project/HyprPanel) - Wallbash template for hyprpanel. See https://hyprpanel.com/
 - [HyDE-Project/hyde-site](https://github.com/HyDE-Project/hyde-site) - Basic astro site for hyde
-- [HyDE-Project/hyde-gallery](https://github.com/HyDE-Project/hyde-gallery) - \\ Repository for supported HyDE themes.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
