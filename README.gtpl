@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Not all readers are leaders, but all leaders are readers." - Harry S. Truman*
+*"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 27 March 2025 | Nepali: Thursday, 14 Chaitra 2081*
+*English: Friday, 28 March 2025 | Nepali: Friday, 15 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
