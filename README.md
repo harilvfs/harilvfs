@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [HyDE-Project/telegram](https://github.com/HyDE-Project/telegram) - HyDE&#39;s wallbash template for telegram. 
-- [HyDE-Project/code-wallbash](https://github.com/HyDE-Project/code-wallbash) - VSCode extension for HyDE using wallbash colors
-- [HyDE-Project/HyprPanel](https://github.com/HyDE-Project/HyprPanel) - Wallbash template for hyprpanel. See https://hyprpanel.com/
-- [HyDE-Project/hyde-site](https://github.com/HyDE-Project/hyde-site) - Basic astro site for hyde
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
