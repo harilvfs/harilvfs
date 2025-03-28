@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome*
+*"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." - Paramahansa Yogananda*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 28 March 2025 | Nepali: Friday, 15 Chaitra 2081*
+*English: Saturday, 29 March 2025 | Nepali: Saturday, 16 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
