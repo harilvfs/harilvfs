@@ -52,7 +52,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Repo Structure Change [Will Merge in New Update]](https://github.com/harilvfs/carch/pull/343) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Repo Structure Change 🍻](https://github.com/harilvfs/carch/pull/343) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Repo Structure Change [Will Merge in New Update]](https://github.com/carch-org/pkgs/pull/16) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 - [Repo Structure Change Git Versoin](https://github.com/carch-org/pkgs/pull/15) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 - [feat: Added support for using DWM from TTY](https://github.com/harilvfs/carch/pull/342) on [harilvfs/carch](https://github.com/harilvfs/carch)
