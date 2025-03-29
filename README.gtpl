@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." - Paramahansa Yogananda*
+*"Whatever you decide to do, make sure it makes you happy." - Paulo Coelho*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 29 March 2025 | Nepali: Saturday, 16 Chaitra 2081*
+*English: Sunday, 30 March 2025 | Nepali: Sunday, 17 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
