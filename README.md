@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." - Paramahansa Yogananda*
+*"Whatever you decide to do, make sure it makes you happy." - Paulo Coelho*
 
 
 
-*English: Saturday, 29 March 2025 | Nepali: Saturday, 16 Chaitra 2081*
+*English: Sunday, 30 March 2025 | Nepali: Sunday, 17 Chaitra 2081*
 
 
 </div>
@@ -37,9 +37,9 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Repo Structure Change 🍻](https://github.com/harilvfs/carch/pull/343) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [fix: Update updater for new repo structure](https://github.com/harilvfs/carch/pull/345) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [chore: Clean up [ Font Script ]](https://github.com/harilvfs/carch/pull/344) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Docs Restructure](https://github.com/carch-org/docs/pull/19) on [carch-org/docs](https://github.com/carch-org/docs)
+- [refactor: Repo Structure Change 🍻](https://github.com/harilvfs/carch/pull/343) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Repo Structure Change [Will Merge in New Update]](https://github.com/carch-org/pkgs/pull/16) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
-- [Repo Structure Change Git Versoin](https://github.com/carch-org/pkgs/pull/15) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
-- [feat: Added support for using DWM from TTY](https://github.com/harilvfs/carch/pull/342) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: Improve handling when figlet is missing](https://github.com/harilvfs/carch/pull/341) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
