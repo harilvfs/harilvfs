@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [refactor: Redoing the Main Menu](https://github.com/harilvfs/carch/pull/348) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [docs: Add Description to scripts](https://github.com/harilvfs/carch/pull/347) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: Rework banner and improve fzf menu](https://github.com/harilvfs/carch/pull/346) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [fix: Update updater for new repo structure](https://github.com/harilvfs/carch/pull/345) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [chore: Clean up [ Font Script ]](https://github.com/harilvfs/carch/pull/344) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Docs Restructure](https://github.com/carch-org/docs/pull/19) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
