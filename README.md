@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Whatever you decide to do, make sure it makes you happy." - Paulo Coelho*
+*"My instinct is always to seek out challenges as opposed to avoiding them." - Josh Waitzkin*
 
 
 
-*English: Sunday, 30 March 2025 | Nepali: Sunday, 17 Chaitra 2081*
+*English: Monday, 31 March 2025 | Nepali: Monday, 18 Chaitra 2081*
 
 
 </div>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [fix: Updates to Carch installer for Arch &amp; Fedora](https://github.com/harilvfs/carch/pull/349) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: Redoing the Main Menu](https://github.com/harilvfs/carch/pull/348) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [docs: Add Description to scripts](https://github.com/harilvfs/carch/pull/347) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: Rework banner and improve fzf menu](https://github.com/harilvfs/carch/pull/346) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [fix: Update updater for new repo structure](https://github.com/harilvfs/carch/pull/345) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [chore: Clean up [ Font Script ]](https://github.com/harilvfs/carch/pull/344) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
