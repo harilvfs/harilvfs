@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [kurealnum/todoist-terminal](https://github.com/kurealnum/todoist-terminal) - A TUI for Todoist 
-- [binarylinuxx/xbps_updater](https://github.com/binarylinuxx/xbps_updater) - 
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [shell-ninja/Build-OpenBangla-Keyboard](https://github.com/shell-ninja/Build-OpenBangla-Keyboard) - 
+- [shell-ninja/simple-i3wm](https://github.com/shell-ninja/simple-i3wm) - A simple, minimal i3 window manager configuration with some themes
+- [shell-ninja/Bash](https://github.com/shell-ninja/Bash) - A simple and useful bash script
+- [shell-ninja/hyprconf-v2](https://github.com/shell-ninja/hyprconf-v2) - 
+- [shell-ninja/hyprconf-install](https://github.com/shell-ninja/hyprconf-install) - An advanced Hyprland installation script, which supports 3 major package managers in Linux to install and setup pre configured Hyprland.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
