@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Whatever you decide to do, make sure it makes you happy." - Paulo Coelho*
+*"My instinct is always to seek out challenges as opposed to avoiding them." - Josh Waitzkin*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 30 March 2025 | Nepali: Sunday, 17 Chaitra 2081*
+*English: Monday, 31 March 2025 | Nepali: Monday, 18 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
