@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"My instinct is always to seek out challenges as opposed to avoiding them." - Josh Waitzkin*
+*"Surrender to what is. Let go of what was. Have faith in what will be." - Sonia Ricotti*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 31 March 2025 | Nepali: Monday, 18 Chaitra 2081*
+*English: Tuesday, 01 April 2025 | Nepali: Tuesday, 19 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
