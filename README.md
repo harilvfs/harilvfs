@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [update: Commands now compatible with new options](https://github.com/harilvfs/carch/pull/354) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [feat: Add New Commands](https://github.com/harilvfs/carch/pull/353) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [ci: RPM Builder For Carch [ Fedora ]](https://github.com/harilvfs/carch/pull/352) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: Install Fedora RPMs directly](https://github.com/harilvfs/carch/pull/351) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [fix: Updates to Carch installer for Arch &amp; Fedora](https://github.com/harilvfs/carch/pull/349) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: Redoing the Main Menu](https://github.com/harilvfs/carch/pull/348) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [docs: Add Description to scripts](https://github.com/harilvfs/carch/pull/347) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
