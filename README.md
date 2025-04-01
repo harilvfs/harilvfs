@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [perf: Reduce Rust code and improve performance](https://github.com/harilvfs/carch/pull/361) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Simplifying the banner](https://github.com/harilvfs/carch/pull/360) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.6](https://github.com/harilvfs/carch/pull/359) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.6](https://github.com/harilvfs/carch/pull/358) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.6](https://github.com/harilvfs/carch/pull/357) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [remove: Removing Version Text From Menu](https://github.com/harilvfs/carch/pull/356) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
