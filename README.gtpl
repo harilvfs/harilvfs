@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Surrender to what is. Let go of what was. Have faith in what will be." - Sonia Ricotti*
+*"The dead receive more flowers than the living because regret is stronger than gratitude." - Anne Frank*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 01 April 2025 | Nepali: Tuesday, 19 Chaitra 2081*
+*English: Wednesday, 02 April 2025 | Nepali: Wednesday, 20 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
