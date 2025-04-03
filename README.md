@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Pankajtanwarbanna/alarmy](https://github.com/Pankajtanwarbanna/alarmy) - An alarm app - that won’t stop ringing until you find the right button to snooze.
 - [tuxx/fancylock](https://github.com/tuxx/fancylock) - Screenlock utility to play videos or show images for linux.
-- [shell-ninja/Build-OpenBangla-Keyboard](https://github.com/shell-ninja/Build-OpenBangla-Keyboard) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
