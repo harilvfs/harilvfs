@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Pankajtanwarbanna/alarmy](https://github.com/Pankajtanwarbanna/alarmy) - An alarm app - that won’t stop ringing until you find the right button to snooze.
+- [tuxx/fancylock](https://github.com/tuxx/fancylock) - Screenlock utility to play videos or show images for linux.
 - [shell-ninja/Build-OpenBangla-Keyboard](https://github.com/shell-ninja/Build-OpenBangla-Keyboard) - 
 - [shell-ninja/simple-i3wm](https://github.com/shell-ninja/simple-i3wm) - A simple, minimal i3 window manager configuration with some themes
 - [shell-ninja/Bash](https://github.com/shell-ninja/Bash) - A simple and useful bash script
-- [shell-ninja/hyprconf-v2](https://github.com/shell-ninja/hyprconf-v2) - A theme based hyprland config, inspired by HyDE.
-- [shell-ninja/hyprconf-install](https://github.com/shell-ninja/hyprconf-install) - An advanced Hyprland installation script, which supports 3 major package managers in Linux to install and setup pre configured Hyprland.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
