@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Out of your vulnerabilities will come your strength." - Sigmund Freud*
+*"Be yourself; everyone else is already taken." - Oscar Wilde*
 
 
 
-*English: Friday, 04 April 2025 | Nepali: Friday, 22 Chaitra 2081*
+*English: Saturday, 05 April 2025 | Nepali: Saturday, 23 Chaitra 2081*
 
 
 </div>
