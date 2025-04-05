@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [CodeWithGionatha-Labs/simple-ui](https://github.com/CodeWithGionatha-Labs/simple-ui) - A basic typesafe UI Library built on top of React, Typescript, TailwindCSS and Storybook
+- [CodeWithGionatha-Labs/NoteMark](https://github.com/CodeWithGionatha-Labs/NoteMark) - Markdown Note taking app built with Electron
 - [adamperkowski/dwm](https://github.com/adamperkowski/dwm) - My (d)WM rices &#43; some dotfiles
 - [xerolinux/xero-layan-git](https://github.com/xerolinux/xero-layan-git) - XeroLinux Layan Rice
 - [elParadigm/choof](https://github.com/elParadigm/choof) - Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux
-- [HellSoftware/hellwm](https://github.com/HellSoftware/hellwm) - HellWM Wayland Compositor
-- [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
