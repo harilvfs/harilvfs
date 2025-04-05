@@ -36,10 +36,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [perf: Pre-populating Script](https://github.com/harilvfs/carch/pull/365) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [custom: Simplifying hardcoded parts](https://github.com/harilvfs/carch/pull/364) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [fix: script spacing issue in conf file](https://github.com/harilvfs/carch/pull/363) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update preview GIF from release v4.2.7](https://github.com/harilvfs/carch/pull/362) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: Using Gum for Prompts](https://github.com/Justus0405/i3wm-dotfiles/pull/7) on [Justus0405/i3wm-dotfiles](https://github.com/Justus0405/i3wm-dotfiles)
-- [perf: Reduce Rust code and improve performance](https://github.com/harilvfs/carch/pull/361) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [update: Simplifying the banner](https://github.com/harilvfs/carch/pull/360) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update preview GIF from release v4.2.6](https://github.com/harilvfs/carch/pull/359) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
