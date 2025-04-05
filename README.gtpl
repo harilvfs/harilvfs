@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Be yourself; everyone else is already taken." - Oscar Wilde*
+*"Be mindful. Be grateful. Be positive. Be true. Be kind." - Roy T. Bennett*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 05 April 2025 | Nepali: Saturday, 23 Chaitra 2081*
+*English: Sunday, 06 April 2025 | Nepali: Sunday, 24 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
