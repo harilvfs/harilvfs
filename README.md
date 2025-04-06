@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Be mindful. Be grateful. Be positive. Be true. Be kind." - Roy T. Bennett*
+*"The farther backward you can look, the farther forward you are likely to see." - Winston Churchill*
 
 
 
-*English: Sunday, 06 April 2025 | Nepali: Sunday, 24 Chaitra 2081*
+*English: Monday, 07 April 2025 | Nepali: Monday, 25 Chaitra 2081*
 
 
 </div>
@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
+- [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy &amp; security
+- [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [mylinuxforwork/hyprland-settings](https://github.com/mylinuxforwork/hyprland-settings) - Hyprland Settings App to configure your Dynamic Tiling Window Manager Hyprland. It is a frontend for the CLI hyprctl.
 - [CodeWithGionatha-Labs/simple-ui](https://github.com/CodeWithGionatha-Labs/simple-ui) - A basic typesafe UI Library built on top of React, Typescript, TailwindCSS and Storybook
-- [CodeWithGionatha-Labs/NoteMark](https://github.com/CodeWithGionatha-Labs/NoteMark) - Markdown Note taking app built with Electron
-- [adamperkowski/dwm](https://github.com/adamperkowski/dwm) - My (d)WM rices &#43; some dotfiles
-- [xerolinux/xero-layan-git](https://github.com/xerolinux/xero-layan-git) - XeroLinux Layan Rice
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
