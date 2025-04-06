@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy &amp; security
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
-- [mylinuxforwork/hyprland-settings](https://github.com/mylinuxforwork/hyprland-settings) - Hyprland Settings App to configure your Dynamic Tiling Window Manager Hyprland. It is a frontend for the CLI hyprctl.
-- [CodeWithGionatha-Labs/simple-ui](https://github.com/CodeWithGionatha-Labs/simple-ui) - A basic typesafe UI Library built on top of React, Typescript, TailwindCSS and Storybook
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
