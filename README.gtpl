@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Be mindful. Be grateful. Be positive. Be true. Be kind." - Roy T. Bennett*
+*"The farther backward you can look, the farther forward you are likely to see." - Winston Churchill*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 06 April 2025 | Nepali: Sunday, 24 Chaitra 2081*
+*English: Monday, 07 April 2025 | Nepali: Monday, 25 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
