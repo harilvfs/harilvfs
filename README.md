@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [feat: Add timer to log carch execution](https://github.com/harilvfs/carch/pull/367) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [chore: Update Dependencies Handling](https://github.com/harilvfs/carch/pull/366) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [perf: Pre-populating Script](https://github.com/harilvfs/carch/pull/365) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [custom: Simplifying hardcoded parts](https://github.com/harilvfs/carch/pull/364) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [fix: script spacing issue in conf file](https://github.com/harilvfs/carch/pull/363) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [fix: Os Release Detection &amp; New prompt](https://github.com/harilvfs/dwm/pull/21) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
+- [fix: Os Detection Logic](https://github.com/harilvfs/swaydotfiles/pull/5) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
+- [fix: Once Again My Mistake](https://github.com/harilvfs/carch/pull/369) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [fix: My Nonsense Mistake](https://github.com/harilvfs/carch/pull/368) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [fix: simplified distro detection logic](https://github.com/harilvfs/i3wmdotfiles/pull/12) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
