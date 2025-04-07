@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The farther backward you can look, the farther forward you are likely to see." - Winston Churchill*
+*"Life is one long process of getting tired." - Samuel Butler*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 07 April 2025 | Nepali: Monday, 25 Chaitra 2081*
+*English: Tuesday, 08 April 2025 | Nepali: Tuesday, 26 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
