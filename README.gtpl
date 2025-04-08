@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is one long process of getting tired." - Samuel Butler*
+*"Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 08 April 2025 | Nepali: Tuesday, 26 Chaitra 2081*
+*English: Wednesday, 09 April 2025 | Nepali: Wednesday, 27 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
