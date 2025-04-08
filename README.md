@@ -36,27 +36,27 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
-- [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
+- [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/kitty-tabs](https://github.com/harilvfs/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
 - [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
 - [Matheus-git/systemd-manager-tui](https://github.com/Matheus-git/systemd-manager-tui) - 
 - [harilvfs/plymouth-themes](https://github.com/harilvfs/plymouth-themes) - A huge collection (80&#43;) of plymouth themes ported from android bootanimations
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-- [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [update: Added Tab Config](https://github.com/harilvfs/carch/pull/375) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [feat: using tabs like tmux from @monoira](https://github.com/harilvfs/dwm/pull/23) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
+- [chore: Font Dependencies [ Kitty Conf ]](https://github.com/harilvfs/carch/pull/374) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [update: Some Refactor As Needed One](https://github.com/monoira/kitty-tabs/pull/2) on [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs)
 - [feat: Adding Setup or Install Script](https://github.com/monoira/kitty-tabs/pull/1) on [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs)
-- [fix: Os Release Detection &amp; New prompt](https://github.com/harilvfs/dwm/pull/21) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
-- [fix: Os Detection Logic](https://github.com/harilvfs/swaydotfiles/pull/5) on [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles)
-- [fix: Once Again My Mistake](https://github.com/harilvfs/carch/pull/369) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [fix: My Nonsense Mistake](https://github.com/harilvfs/carch/pull/368) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
