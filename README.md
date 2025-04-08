@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life is one long process of getting tired." - Samuel Butler*
+*"Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison*
 
 
 
-*English: Tuesday, 08 April 2025 | Nepali: Tuesday, 26 Chaitra 2081*
+*English: Wednesday, 09 April 2025 | Nepali: Wednesday, 27 Chaitra 2081*
 
 
 </div>
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [rust: Tui For List Scripts Command](https://github.com/harilvfs/carch/pull/379) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [rust: Separate Script to Avoid Conflicts](https://github.com/harilvfs/carch/pull/378) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [rust: Creating a TUI to Display Help Info](https://github.com/harilvfs/carch/pull/377) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [build: Migrate --help info in Rust](https://github.com/harilvfs/carch/pull/376) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Added Tab Config](https://github.com/harilvfs/carch/pull/375) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: using tabs like tmux from @monoira](https://github.com/harilvfs/dwm/pull/23) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
-- [chore: Font Dependencies [ Kitty Conf ]](https://github.com/harilvfs/carch/pull/374) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
