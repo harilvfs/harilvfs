@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [update: Clean Up After Running Script](https://github.com/harilvfs/carch/pull/380) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [rust: Tui For List Scripts Command](https://github.com/harilvfs/carch/pull/379) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [rust: Separate Script to Avoid Conflicts](https://github.com/harilvfs/carch/pull/378) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [rust: Creating a TUI to Display Help Info](https://github.com/harilvfs/carch/pull/377) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [build: Migrate --help info in Rust](https://github.com/harilvfs/carch/pull/376) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [update: Added Tab Config](https://github.com/harilvfs/carch/pull/375) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
