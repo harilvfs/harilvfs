@@ -38,25 +38,25 @@
 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
-- [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
+- [harilvfs/carch](https://github.com/harilvfs/carch) - An automated script for quick &amp; easy Linux system setup (Arch &amp; Fedora) 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
 - [harilvfs/kitty-tabs](https://github.com/harilvfs/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
 - [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
-- [Matheus-git/systemd-manager-tui](https://github.com/Matheus-git/systemd-manager-tui) - 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - 
 - [harilvfs/plymouth-themes](https://github.com/harilvfs/plymouth-themes) - A huge collection (80&#43;) of plymouth themes ported from android bootanimations
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [rust: Creating a TUI to Display Help Info](https://github.com/harilvfs/carch/pull/377) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [build: Migrate --help info in Rust](https://github.com/harilvfs/carch/pull/376) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Added Tab Config](https://github.com/harilvfs/carch/pull/375) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: using tabs like tmux from @monoira](https://github.com/harilvfs/dwm/pull/23) on [harilvfs/dwm](https://github.com/harilvfs/dwm)
 - [chore: Font Dependencies [ Kitty Conf ]](https://github.com/harilvfs/carch/pull/374) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [update: Some Refactor As Needed One](https://github.com/monoira/kitty-tabs/pull/2) on [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
