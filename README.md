@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison*
+*"Learning is a gift, even when pain is your teacher." - Michael Jordan*
 
 
 
-*English: Wednesday, 09 April 2025 | Nepali: Wednesday, 27 Chaitra 2081*
+*English: Thursday, 10 April 2025 | Nepali: Thursday, 28 Chaitra 2081*
 
 
 </div>
