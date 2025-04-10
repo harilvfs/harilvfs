@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Learning is a gift, even when pain is your teacher." - Michael Jordan*
+*"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." - James Allen*
 
 
 
-*English: Thursday, 10 April 2025 | Nepali: Thursday, 28 Chaitra 2081*
+*English: Friday, 11 April 2025 | Nepali: Friday, 29 Chaitra 2081*
 
 
 </div>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [remove: Cleanup Script that is not needed in carch](https://github.com/harilvfs/carch/pull/384) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [ci: Update preview GIF from release v4.3.1](https://github.com/harilvfs/carch/pull/383) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [ci:Update preview GIF from release v4.3.1](https://github.com/harilvfs/carch/pull/382) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [ci:Update preview GIF from release v4.3.1](https://github.com/harilvfs/carch/pull/381) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Clean Up After Running Script](https://github.com/harilvfs/carch/pull/380) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [rust: Tui For List Scripts Command](https://github.com/harilvfs/carch/pull/379) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
