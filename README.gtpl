@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Learning is a gift, even when pain is your teacher." - Michael Jordan*
+*"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." - James Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 10 April 2025 | Nepali: Thursday, 28 Chaitra 2081*
+*English: Friday, 11 April 2025 | Nepali: Friday, 29 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
