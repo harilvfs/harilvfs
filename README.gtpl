@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." - James Allen*
+*"No one can confidently say that he will still be living tomorrow." - Euripides*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 11 April 2025 | Nepali: Friday, 29 Chaitra 2081*
+*English: Saturday, 12 April 2025 | Nepali: Saturday, 30 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
