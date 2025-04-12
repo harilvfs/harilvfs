@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"No one can confidently say that he will still be living tomorrow." - Euripides*
+*"If you want peace, accept. If you want suffering, expect." - Maxime Lagace*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 12 April 2025 | Nepali: Saturday, 30 Chaitra 2081*
+*English: Sunday, 13 April 2025 | Nepali: Sunday, 31 Chaitra 2081*
 <!-- DATE_END -->
 
 </div>
