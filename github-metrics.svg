@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2292" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2312" class="large">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.69m added, 1.77m removed
+                                    7.54m added, 6.11m removed
                                 </div>
                             </section>
                             <section>
@@ -242,22 +242,40 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">harilvfs/themes</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">harilvfs/icons</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/fastfetch</span>
+                            <span class="diff-handle">harilvfs/hyprland</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/LettingGo</span>
+                            <span class="diff-handle">harilvfs/web</span>
                         </div>
                     </section>
                     <section>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +3.61m</span>
+                                <span class="deleted"> -3.01m</span>
+                            </div>
+                            <span> </span>
+                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -273,24 +291,24 @@
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +297</span>
-                                <span class="deleted">    -36</span>
+                                <span class="added"> +1.06m</span>
+                                <span class="deleted"> -1.16m</span>
                             </div>
                             <span> </span>
                         </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +228</span>
-                                <span class="deleted">    -50</span>
+                                <span class="added">  +119k</span>
+                                <span class="deleted">  -141k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -356,20 +374,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 514kb of code in 377 edited files across 326 commits over last 11 days</small>
+                <small>estimation from 500kb of code in 368 edited files across 314 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="555.2115855225666" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="555.2115855225666" y="0" width="96.5326122179884" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="651.7441977405549" y="0" width="94.10644645830307" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="745.850644198858" y="0" width="77.2980523181102" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="823.1486965169682" y="0" width="53.29340380596932" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="876.4421003229376" y="0" width="38.89575488037903" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="915.3378552033166" y="0" width="3.7369120917187204" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="919.0747672950353" y="0" width="0.9252327049647451" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="603.1966675666295" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="603.1966675666295" y="0" width="95.19915807569605" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="698.3958256423255" y="0" width="92.80650617943787" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="791.2023318217633" y="0" width="52.557234873738906" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="843.7595666955023" y="0" width="38.35846800632545" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="882.1180347018277" y="0" width="33.28422108226945" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="915.4022557840972" y="0" width="3.6852922215671478" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="919.0875480056643" y="0" width="0.9124519943357448" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -392,12 +410,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
@@ -407,6 +419,12 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSX
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -741,7 +759,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 98 commits)</small>
+                    <small class="h-details">(computed from last 97 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1887,12 +1905,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#386 ui: Improve Heading &amp; Add Help Info</span>
+                                        <span class="issue">#388 update: Running scripts from cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harilvfs/carch</span></div>
-                                    <div>1 file changed <span class="code">++76 --25</span></div>
+                                    <div>1 file changed <span class="code">++100 --17</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1904,12 +1922,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#386 ui: Improve Heading &amp; Add Help Info</span>
+                                        <span class="issue">#388 update: Running scripts from cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harilvfs/carch</span></div>
-                                    <div>1 file changed <span class="code">++76 --25</span></div>
+                                    <div>1 file changed <span class="code">++100 --17</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1922,7 +1940,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">ui</span>
+                                        <span class="code">scripts</span>
                                         in
                                         <span class="repo">harilvfs/carch</span>
                                     </div>
@@ -1937,12 +1955,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#385 refactor: Rewriting Carch in Rust 🦀</span>
+                                        <span class="issue">#387 feat: Added Confirmation Before Running Scripts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harilvfs/carch</span></div>
-                                    <div>34 files changed <span class="code">++2026 --595</span></div>
+                                    <div>1 file changed <span class="code">++177 --97</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1954,12 +1972,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#385 refactor: Rewriting Carch in Rust 🦀</span>
+                                        <span class="issue">#387 feat: Added Confirmation Before Running Scripts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harilvfs/carch</span></div>
-                                    <div>34 files changed <span class="code">++1974 --605</span></div>
+                                    <div>1 file changed <span class="code">++174 --100</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2122,7 +2140,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2025, 13:01:01 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2025, 14:06:06 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
