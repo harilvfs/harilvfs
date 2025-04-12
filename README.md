@@ -38,8 +38,8 @@
 
 - [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
+- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [UI/UX: Improve fzf menu style](https://github.com/harilvfs/carch/pull/390) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [remove: fzf confirmation](https://github.com/harilvfs/carch/pull/389) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Running scripts from cache](https://github.com/harilvfs/carch/pull/388) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: Added Confirmation Before Running Scripts](https://github.com/harilvfs/carch/pull/387) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [ui: Improve Heading &amp; Add Help Info](https://github.com/harilvfs/carch/pull/386) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: Rewriting Carch in Rust 🦀](https://github.com/harilvfs/carch/pull/385) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
