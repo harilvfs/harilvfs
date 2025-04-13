@@ -36,27 +36,27 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
-- [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+- [ratatui/ratatui-website](https://github.com/ratatui/ratatui-website) - Ratatui Documentation
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle &amp; ship your Rust WASM application to the web.
 - [codeopshq/dotfiles](https://github.com/codeopshq/dotfiles) - This repository contains my personal configuration files and scripts for optimizing my development environment. Includes settings for Bash, Vim, ZSH, and more. Easily back up, synchronize, and customize your environment.
 - [harilvfs/kitty-tabs](https://github.com/harilvfs/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
-- [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/398) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/397) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/396) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/395) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/394) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/393) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v4.3.2](https://github.com/harilvfs/carch/pull/392) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
