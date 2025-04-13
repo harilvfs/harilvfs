@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle &amp; ship your Rust WASM application to the web.
+- [codeopshq/dotfiles](https://github.com/codeopshq/dotfiles) - This repository contains my personal configuration files and scripts for optimizing my development environment. Includes settings for Bash, Vim, ZSH, and more. Easily back up, synchronize, and customize your environment.
 - [harilvfs/kitty-tabs](https://github.com/harilvfs/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
 - [monoira/kitty-tabs](https://github.com/monoira/kitty-tabs) - Kitty terminal config. Replace tmux&#39;s tab functionality with kitty&#39;s native tabs with same keybindings as Firefox. 
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - 
-- [harilvfs/plymouth-themes](https://github.com/harilvfs/plymouth-themes) - A huge collection (80&#43;) of plymouth themes ported from android bootanimations
-- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
