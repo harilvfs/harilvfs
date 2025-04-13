@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you want peace, accept. If you want suffering, expect." - Maxime Lagace*
+*"Instead of worrying about what you cannot control, shift your energy to what you can create." - Roy T. Bennett*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 13 April 2025 | Nepali: Sunday, 31 Chaitra 2081*
+*English: Monday, 14 April 2025 | Nepali: Monday, 01 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
