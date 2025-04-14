@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5281 Commits
+                            5285 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.97m added, 3.14m removed
+                                    9.29m added, 5.87m removed
                                 </div>
                             </section>
                             <section>
@@ -242,28 +242,40 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">harilvfs/carch</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">harilvfs/icons</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/hyprland</span>
+                            <span class="diff-handle">harilvfs/i3wmdotfiles</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/web</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">harilvfs/hugoweb</span>
+                            <span class="diff-handle">harilvfs/backup</span>
                         </div>
                     </section>
                     <section>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +4.33m</span>
+                                <span class="deleted"> -2.32m</span>
+                            </div>
+                            <span> </span>
+                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -279,24 +291,12 @@
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +1.06m</span>
-                                <span class="deleted"> -1.16m</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +120k</span>
-                                <span class="deleted">  -141k</span>
+                                <span class="added"> +1.76m</span>
+                                <span class="deleted"> -1.74m</span>
                             </div>
                             <span> </span>
                         </div>
@@ -304,11 +304,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +55k</span>
-                                <span class="deleted"> -34.9k</span>
+                                <span class="added">  +430k</span>
+                                <span class="deleted"> -8.13k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -374,20 +374,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 510kb of code in 418 edited files across 337 commits over last 8 days</small>
+                <small>estimation from 509kb of code in 422 edited files across 343 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="476.5530962225773" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="476.5530962225773" y="0" width="211.6585142226396" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="688.2116104452169" y="0" width="138.82898561045414" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="827.0405960556711" y="0" width="40.337551240224855" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="867.3781472958959" y="0" width="30.985103059058112" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="898.3632503549541" y="0" width="16.21527793232062" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="914.5785282872747" y="0" width="4.684413624892624" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="919.2629419121673" y="0" width="0.7370580878327555" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="483.0546845745377" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="483.0546845745377" y="0" width="201.994649294167" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="685.0493338687047" y="0" width="140.72302202090654" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="825.7723558896113" y="0" width="40.88787428999382" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="866.6602301796052" y="0" width="31.4078311595151" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="898.0680613391202" y="0" width="16.43650210012948" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="914.5045634392498" y="0" width="4.748322828926295" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="919.252886268176" y="0" width="0.7471137318240674" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -763,7 +763,7 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 22:00</li>
+                        <li>Mostly pushes code around 02:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
@@ -2152,7 +2152,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2025, 03:02:15 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Apr 2025, 04:02:26 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
