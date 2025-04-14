@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Instead of worrying about what you cannot control, shift your energy to what you can create." - Roy T. Bennett*
+*"Most people fail in life not because they aim too high and miss, but because they aim too low and hit." - Les Brown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 14 April 2025 | Nepali: Monday, 01 Baishakh 2082*
+*English: Tuesday, 15 April 2025 | Nepali: Tuesday, 02 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
