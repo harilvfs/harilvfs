@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Most people fail in life not because they aim too high and miss, but because they aim too low and hit." - Les Brown*
+*"Don't wish it were easier, wish you were better." - Jim Rohn*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 15 April 2025 | Nepali: Tuesday, 02 Baishakh 2082*
+*English: Wednesday, 16 April 2025 | Nepali: Wednesday, 03 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
