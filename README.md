@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't wish it were easier, wish you were better." - Jim Rohn*
+*"Life is about choice. You can choose to be a victim or anything else you like to be." - Celestine Chua*
 
 
 
-*English: Wednesday, 16 April 2025 | Nepali: Wednesday, 03 Baishakh 2082*
+*English: Thursday, 17 April 2025 | Nepali: Thursday, 04 Baishakh 2082*
 
 
 </div>
