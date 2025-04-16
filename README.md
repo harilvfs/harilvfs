@@ -44,19 +44,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [ratatui/ratatui-website](https://github.com/ratatui/ratatui-website) - Ratatui Documentation
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle &amp; ship your Rust WASM application to the web.
-- [codeopshq/dotfiles](https://github.com/codeopshq/dotfiles) - This repository contains my personal configuration files and scripts for optimizing my development environment. Includes settings for Bash, Vim, ZSH, and more. Easily back up, synchronize, and customize your environment.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v4.3.4](https://github.com/harilvfs/carch/pull/409) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [update: make command to support cargo](https://github.com/harilvfs/carch/pull/408) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [remove: assets](https://github.com/harilvfs/carch/pull/407) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Relaying on cargo crate](https://github.com/harilvfs/carch/pull/406) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: Added Multi Select](https://github.com/harilvfs/carch/pull/405) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [bug: fix install script](https://github.com/harilvfs/carch/pull/404) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v4.3.3](https://github.com/harilvfs/carch/pull/403) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
