@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life is about choice. You can choose to be a victim or anything else you like to be." - Celestine Chua*
+*"Successful people do what unsuccessful people are not willing to do." - Jim Rohn*
 
 
 
-*English: Thursday, 17 April 2025 | Nepali: Thursday, 04 Baishakh 2082*
+*English: Friday, 18 April 2025 | Nepali: Friday, 05 Baishakh 2082*
 
 
 </div>
