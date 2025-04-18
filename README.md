@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Successful people do what unsuccessful people are not willing to do." - Jim Rohn*
+*"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. " - Oprah Winfrey*
 
 
 
-*English: Friday, 18 April 2025 | Nepali: Friday, 05 Baishakh 2082*
+*English: Saturday, 19 April 2025 | Nepali: Saturday, 06 Baishakh 2082*
 
 
 </div>
