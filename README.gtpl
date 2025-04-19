@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. " - Oprah Winfrey*
+*"Success and failure come and go, but don't let them define you. It's who you are that matters." - Kamal Ravikant*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 19 April 2025 | Nepali: Saturday, 06 Baishakh 2082*
+*English: Sunday, 20 April 2025 | Nepali: Sunday, 07 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
