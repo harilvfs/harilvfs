@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Success and failure come and go, but don't let them define you. It's who you are that matters." - Kamal Ravikant*
+*"You need a plan to build a house. To build a life, it is even more important to have a plan or goal." - Zig Ziglar*
 
 
 
-*English: Sunday, 20 April 2025 | Nepali: Sunday, 07 Baishakh 2082*
+*English: Monday, 21 April 2025 | Nepali: Monday, 08 Baishakh 2082*
 
 
 </div>
