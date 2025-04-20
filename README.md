@@ -37,8 +37,8 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/web](https://github.com/harilvfs/web) - 🖥️ Terminal-Based Personal Portfolio Website
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch [AUR] Package Builds 📦
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v4.3.5](https://github.com/harilvfs/carch/pull/410) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.4](https://github.com/harilvfs/carch/pull/409) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: make command to support cargo](https://github.com/harilvfs/carch/pull/408) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [remove: assets](https://github.com/harilvfs/carch/pull/407) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: Relaying on cargo crate](https://github.com/harilvfs/carch/pull/406) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: Added Multi Select](https://github.com/harilvfs/carch/pull/405) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
