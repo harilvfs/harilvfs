@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You need a plan to build a house. To build a life, it is even more important to have a plan or goal." - Zig Ziglar*
+*"I love fools' experiments. I am always making them." - Charles Darwin*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 21 April 2025 | Nepali: Monday, 08 Baishakh 2082*
+*English: Tuesday, 22 April 2025 | Nepali: Tuesday, 09 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
