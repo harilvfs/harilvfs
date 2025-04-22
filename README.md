@@ -38,7 +38,7 @@
 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 
