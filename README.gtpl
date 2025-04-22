@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I love fools' experiments. I am always making them." - Charles Darwin*
+*"The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 22 April 2025 | Nepali: Tuesday, 09 Baishakh 2082*
+*English: Wednesday, 23 April 2025 | Nepali: Wednesday, 10 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
