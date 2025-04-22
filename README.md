@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [feat: add install script](https://github.com/harilvfs/carch/pull/413) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: Added foot &amp; ghostty setup script](https://github.com/harilvfs/carch/pull/412) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.5](https://github.com/harilvfs/carch/pull/410) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.4](https://github.com/harilvfs/carch/pull/409) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [update: make command to support cargo](https://github.com/harilvfs/carch/pull/408) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [remove: assets](https://github.com/harilvfs/carch/pull/407) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
