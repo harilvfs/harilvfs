@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso*
+*"Most people get ahead during the time that others waste." - Henry Ford*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 23 April 2025 | Nepali: Wednesday, 10 Baishakh 2082*
+*English: Thursday, 24 April 2025 | Nepali: Thursday, 11 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
