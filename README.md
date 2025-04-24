@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Most people get ahead during the time that others waste." - Henry Ford*
+*"Always be a first-rate version of yourself, instead of a second-rate version of someone else." - Judy Garland*
 
 
 
-*English: Thursday, 24 April 2025 | Nepali: Thursday, 11 Baishakh 2082*
+*English: Friday, 25 April 2025 | Nepali: Friday, 12 Baishakh 2082*
 
 
 </div>
@@ -44,19 +44,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [jorexdeveloper/terminal-animations](https://github.com/jorexdeveloper/terminal-animations) - Show animations for running commands in the terminal.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [edu-flores/widgets-4-workouts](https://github.com/edu-flores/widgets-4-workouts) - Widgets to aid your daily workouts (with Vue.js!)
 - [edu-flores/linux-dotfiles](https://github.com/edu-flores/linux-dotfiles) - My several desktop configuration files (wm, terminal, shell, launcher, etc.)
-- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/419) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/418) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog vv4.3.6](https://github.com/harilvfs/carch/pull/417) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v4.3.6](https://github.com/harilvfs/carch/pull/416) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [rust: structure changed ui](https://github.com/harilvfs/carch/pull/415) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/426) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/425) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/424) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Revert &#34;Changelog v4.3.6&#34;](https://github.com/harilvfs/carch/pull/423) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/422) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
