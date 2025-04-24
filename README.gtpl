@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Most people get ahead during the time that others waste." - Henry Ford*
+*"Always be a first-rate version of yourself, instead of a second-rate version of someone else." - Judy Garland*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 24 April 2025 | Nepali: Thursday, 11 Baishakh 2082*
+*English: Friday, 25 April 2025 | Nepali: Friday, 12 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
