@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Distro-ArchLinux-cba6f7?style=for-the-badge&labelColor=11111b&color=1e1e2e&logo=arch-linux" />
+<img src="https://img.shields.io/badge/Distro-ArchLinux-cba6f7?style=for-the-badge&labelColor=11111b&color=9dc3ea&logo=arch-linux" />
 
 </div>
 
