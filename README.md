@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Always be a first-rate version of yourself, instead of a second-rate version of someone else." - Judy Garland*
+*"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." - Thich Nhat Hanh*
 
 
 
-*English: Friday, 25 April 2025 | Nepali: Friday, 12 Baishakh 2082*
+*English: Saturday, 26 April 2025 | Nepali: Saturday, 13 Baishakh 2082*
 
 
 </div>
@@ -36,15 +36,15 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - testing blog site
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &#43; TypeScript.
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - testing blog site
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &#43; TypeScript.
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [jorexdeveloper/terminal-animations](https://github.com/jorexdeveloper/terminal-animations) - Show animations for running commands in the terminal.
