@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Always be a first-rate version of yourself, instead of a second-rate version of someone else." - Judy Garland*
+*"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." - Thich Nhat Hanh*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 25 April 2025 | Nepali: Friday, 12 Baishakh 2082*
+*English: Saturday, 26 April 2025 | Nepali: Saturday, 13 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
