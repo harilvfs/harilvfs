@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - testing blog site
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - testing blog site
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [jorexdeveloper/terminal-animations](https://github.com/jorexdeveloper/terminal-animations) - Show animations for running commands in the terminal.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-- [edu-flores/widgets-4-workouts](https://github.com/edu-flores/widgets-4-workouts) - Widgets to aid your daily workouts (with Vue.js!)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
