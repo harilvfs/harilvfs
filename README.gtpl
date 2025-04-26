@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." - Thich Nhat Hanh*
+*"Success is getting what you want, happiness is wanting what you get." - W.P. Kinsella*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 26 April 2025 | Nepali: Saturday, 13 Baishakh 2082*
+*English: Sunday, 27 April 2025 | Nepali: Sunday, 14 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
