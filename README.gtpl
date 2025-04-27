@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Success is getting what you want, happiness is wanting what you get." - W.P. Kinsella*
+*"Many roads lead to the path, but basically there are only two: reason and practice. " - Bodhidharma*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 27 April 2025 | Nepali: Sunday, 14 Baishakh 2082*
+*English: Monday, 28 April 2025 | Nepali: Monday, 15 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
