@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Many roads lead to the path, but basically there are only two: reason and practice. " - Bodhidharma*
+*"Heroes don't need to talk about what they did." - W.P. Kinsella*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 28 April 2025 | Nepali: Monday, 15 Baishakh 2082*
+*English: Tuesday, 29 April 2025 | Nepali: Tuesday, 16 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
