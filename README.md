@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid]
+- [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) - Single GPU VFIO Passthrough Guide
 - [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) - A safe Rust crate for working with the Wayland clipboard.
 - [adrianhajdin/jsmasterypro_devflow](https://github.com/adrianhajdin/jsmasterypro_devflow) - Codebase for the Ultimate Next.js Course
 - [dev-diaries41/smartscan-cli](https://github.com/dev-diaries41/smartscan-cli) - A Linux CLI tool powered by CLIP that enables comparison and automated organization of image and text files based on content similarity 
-- [dev-diaries41/smartscan](https://github.com/dev-diaries41/smartscan) - SmartScan is an innovative app powered by a CLIP model that automatically organizes your images by content similarity and enables text-based search.
-- [dev-diaries41/sentinel-lens](https://github.com/dev-diaries41/sentinel-lens) - A facial recognition surveillance app that sends Telegram alerts when unauthorized individuals are detected.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
