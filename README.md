@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Heroes don't need to talk about what they did." - W.P. Kinsella*
+*"People who avoid failure also avoid success." - Robert Kiyosaki*
 
 
 
-*English: Tuesday, 29 April 2025 | Nepali: Tuesday, 16 Baishakh 2082*
+*English: Wednesday, 30 April 2025 | Nepali: Wednesday, 17 Baishakh 2082*
 
 
 </div>
