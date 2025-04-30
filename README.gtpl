@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"People who avoid failure also avoid success." - Robert Kiyosaki*
+*"No idea, no matter how good, will work if it doesn't get used." - Peter A. Cohen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 30 April 2025 | Nepali: Wednesday, 17 Baishakh 2082*
+*English: Thursday, 01 May 2025 | Nepali: Thursday, 18 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
