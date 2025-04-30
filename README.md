@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"People who avoid failure also avoid success." - Robert Kiyosaki*
+*"No idea, no matter how good, will work if it doesn't get used." - Peter A. Cohen*
 
 
 
-*English: Wednesday, 30 April 2025 | Nepali: Wednesday, 17 Baishakh 2082*
+*English: Thursday, 01 May 2025 | Nepali: Thursday, 18 Baishakh 2082*
 
 
 </div>
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Changelog v4.4.1](https://github.com/harilvfs/carch/pull/434) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [preview: Updated preview from release v4.4.1](https://github.com/harilvfs/carch/pull/433) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [remove: figlet stuff](https://github.com/harilvfs/carch/pull/432) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.7](https://github.com/harilvfs/carch/pull/430) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changelog v4.3.7](https://github.com/harilvfs/carch/pull/429) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/428) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.3.6](https://github.com/harilvfs/carch/pull/427) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
