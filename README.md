@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [amitmerchant1990/linksnatch](https://github.com/amitmerchant1990/linksnatch) - Dead simple bookmarks
+- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
+- [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
+- [amitmerchant1990/night-clock](https://github.com/amitmerchant1990/night-clock) - 🕣 A simple, elegant, and always-on digital clock
 - [mosa/MOSA-Project](https://github.com/mosa/MOSA-Project) - Managed Operating System Alliance Project
-- [sdcampbell/Bash-TUI-Example](https://github.com/sdcampbell/Bash-TUI-Example) - A starter package for a Bash TUI program
-- [harilvfs/yazi.nvim](https://github.com/harilvfs/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
-- [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
-- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid]
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
