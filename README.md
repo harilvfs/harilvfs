@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"No idea, no matter how good, will work if it doesn't get used." - Peter A. Cohen*
+*"Goals are the fuel in the furnace of achievement." - Brian Tracy*
 
 
 
-*English: Thursday, 01 May 2025 | Nepali: Thursday, 18 Baishakh 2082*
+*English: Friday, 02 May 2025 | Nepali: Friday, 19 Baishakh 2082*
 
 
 </div>
@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, targeting Wayland and X11
 - [amitmerchant1990/linksnatch](https://github.com/amitmerchant1990/linksnatch) - Dead simple bookmarks
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) - :ledger: An offline capable Notepad PWA
 - [amitmerchant1990/night-clock](https://github.com/amitmerchant1990/night-clock) - 🕣 A simple, elegant, and always-on digital clock
-- [mosa/MOSA-Project](https://github.com/mosa/MOSA-Project) - Managed Operating System Alliance Project
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
