@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"No idea, no matter how good, will work if it doesn't get used." - Peter A. Cohen*
+*"Goals are the fuel in the furnace of achievement." - Brian Tracy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 01 May 2025 | Nepali: Thursday, 18 Baishakh 2082*
+*English: Friday, 02 May 2025 | Nepali: Friday, 19 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
