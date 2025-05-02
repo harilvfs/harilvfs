@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [elifouts/Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
 - [alexkuchar/octopurge](https://github.com/alexkuchar/octopurge) - 
 - [hackr-sh/hackr.sh](https://github.com/hackr-sh/hackr.sh) - 
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [HyDE-Project/zed](https://github.com/HyDE-Project/zed) - Wallbash template for zed // The editor for what&#39;s next
-- [HyDE-Project/obsidian](https://github.com/HyDE-Project/obsidian) - HyDE&#39;s wallbash template for obsidian.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
