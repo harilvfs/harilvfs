@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Goals are the fuel in the furnace of achievement." - Brian Tracy*
+*"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett*
 
 
 
-*English: Friday, 02 May 2025 | Nepali: Friday, 19 Baishakh 2082*
+*English: Saturday, 03 May 2025 | Nepali: Saturday, 20 Baishakh 2082*
 
 
 </div>
