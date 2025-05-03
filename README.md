@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [rjshkhr/startpage](https://github.com/rjshkhr/startpage) - A minimal startpage for Firefox.
+- [rauchg/blog](https://github.com/rauchg/blog) - 
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [elifouts/Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
 - [alexkuchar/octopurge](https://github.com/alexkuchar/octopurge) - 
-- [hackr-sh/hackr.sh](https://github.com/hackr-sh/hackr.sh) - 
-- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
