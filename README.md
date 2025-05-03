@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett*
+*"Empty your mind, be formless, shapeless, like water." - Bruce Lee*
 
 
 
-*English: Saturday, 03 May 2025 | Nepali: Saturday, 20 Baishakh 2082*
+*English: Sunday, 04 May 2025 | Nepali: Sunday, 21 Baishakh 2082*
 
 
 </div>
