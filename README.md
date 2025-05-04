@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
 - [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [binoymanoj/hyprmonitors](https://github.com/binoymanoj/hyprmonitors) - 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [Rexcrazy804/aleph](https://github.com/Rexcrazy804/aleph) - A work in progress declarative (some what) package manager for windows that supports being run on linux through wine
-- [Rexcrazy804/Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel) - Nixos configuration
-- [rjshkhr/startpage](https://github.com/rjshkhr/startpage) - A minimal startpage for Firefox.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
