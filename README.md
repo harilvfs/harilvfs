@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [Rexcrazy804/aleph](https://github.com/Rexcrazy804/aleph) - A work in progress declarative (some what) package manager for windows that supports being run on linux through wine
 - [Rexcrazy804/Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel) - Nixos configuration
 - [rjshkhr/startpage](https://github.com/rjshkhr/startpage) - A minimal startpage for Firefox.
-- [rauchg/blog](https://github.com/rauchg/blog) - 
-- [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
