@@ -37,26 +37,26 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/androidwallpapers](https://github.com/harilvfs/androidwallpapers) - Collection of wallpapers for Mobile devices.
-- [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
 - [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Catppuccin Wallpapers 🏞️
-- [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
+- [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
+- [gabe565/ascii-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH &#43; Telnet server written in Go.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [binoymanoj/hyprmonitors](https://github.com/binoymanoj/hyprmonitors) - 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
-- [Rexcrazy804/aleph](https://github.com/Rexcrazy804/aleph) - A work in progress declarative (some what) package manager for windows that supports being run on linux through wine
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v4.4.2](https://github.com/harilvfs/carch/pull/436) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changelog v4.4.2](https://github.com/harilvfs/carch/pull/435) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changelog v4.4.1](https://github.com/harilvfs/carch/pull/434) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.4.1](https://github.com/harilvfs/carch/pull/433) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [remove: figlet stuff](https://github.com/harilvfs/carch/pull/432) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v4.3.7](https://github.com/harilvfs/carch/pull/430) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
