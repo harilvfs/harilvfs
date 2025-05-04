@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Empty your mind, be formless, shapeless, like water." - Bruce Lee*
+*"So we beat on, boats against the current, borne back ceaselessly into the past." - F. Scott Fitzgerald*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 04 May 2025 | Nepali: Sunday, 21 Baishakh 2082*
+*English: Monday, 05 May 2025 | Nepali: Monday, 22 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
