@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/androidwallpapers](https://github.com/harilvfs/androidwallpapers) - Collection of wallpapers for Mobile devices.
 - [harilvfs/fastfetch](https://github.com/harilvfs/fastfetch) - Custom Fastfetch Configuration 
-- [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
+- [harilvfs/wallpapers](https://github.com/harilvfs/wallpapers) - Beautiful Nord &amp; Catppuccin Wallpapers 🏞️
+- [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Changelog v4.4.2](https://github.com/harilvfs/carch/pull/435) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changelog v4.4.1](https://github.com/harilvfs/carch/pull/434) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.4.1](https://github.com/harilvfs/carch/pull/433) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [remove: figlet stuff](https://github.com/harilvfs/carch/pull/432) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.3.7](https://github.com/harilvfs/carch/pull/430) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.3.7](https://github.com/harilvfs/carch/pull/429) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
