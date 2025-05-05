@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"So we beat on, boats against the current, borne back ceaselessly into the past." - F. Scott Fitzgerald*
+*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 05 May 2025 | Nepali: Monday, 22 Baishakh 2082*
+*English: Tuesday, 06 May 2025 | Nepali: Tuesday, 23 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
