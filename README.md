@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"So we beat on, boats against the current, borne back ceaselessly into the past." - F. Scott Fitzgerald*
+*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
 
 
 
-*English: Monday, 05 May 2025 | Nepali: Monday, 22 Baishakh 2082*
+*English: Tuesday, 06 May 2025 | Nepali: Tuesday, 23 Baishakh 2082*
 
 
 </div>
@@ -37,10 +37,10 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
+- [harilvfs/links](https://github.com/harilvfs/links) - All Social * Links Here 🌍🔗
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setups Easier 🧩
-- [harilvfs/androidwallpapers](https://github.com/harilvfs/androidwallpapers) - Collection of wallpapers for Mobile devices.
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
