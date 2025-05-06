@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
+*"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." - Josh Waitzkin*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 06 May 2025 | Nepali: Tuesday, 23 Baishakh 2082*
+*English: Wednesday, 07 May 2025 | Nepali: Wednesday, 24 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
