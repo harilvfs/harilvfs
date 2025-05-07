@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." - Josh Waitzkin*
+*"Judge a man by his questions rather than his answers." - Voltaire*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 07 May 2025 | Nepali: Wednesday, 24 Baishakh 2082*
+*English: Thursday, 08 May 2025 | Nepali: Thursday, 25 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
