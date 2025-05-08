@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [o2sh/provok](https://github.com/o2sh/provok) - Text rendering
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can&#39;t refuse
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features. 
-- [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) - 🦑 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. !
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot&#39;s core logic for creating update PRs.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
