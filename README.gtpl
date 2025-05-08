@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Judge a man by his questions rather than his answers." - Voltaire*
+*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 08 May 2025 | Nepali: Thursday, 25 Baishakh 2082*
+*English: Friday, 09 May 2025 | Nepali: Friday, 26 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
