@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
+*"Heart is what separates the good from the great." - Michael Jordan*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 09 May 2025 | Nepali: Friday, 26 Baishakh 2082*
+*English: Saturday, 10 May 2025 | Nepali: Saturday, 27 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
