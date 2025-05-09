@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
+*"Heart is what separates the good from the great." - Michael Jordan*
 
 
 
-*English: Friday, 09 May 2025 | Nepali: Friday, 26 Baishakh 2082*
+*English: Saturday, 10 May 2025 | Nepali: Saturday, 27 Baishakh 2082*
 
 
 </div>
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
