@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Heart is what separates the good from the great." - Michael Jordan*
+*"Life must be a constant education; one must learn everything, from speaking to dying." - Gustave Flaubert*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 10 May 2025 | Nepali: Saturday, 27 Baishakh 2082*
+*English: Sunday, 11 May 2025 | Nepali: Sunday, 28 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
