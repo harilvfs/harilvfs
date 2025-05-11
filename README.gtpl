@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life must be a constant education; one must learn everything, from speaking to dying." - Gustave Flaubert*
+*"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless." - Deepak Chopra*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 11 May 2025 | Nepali: Sunday, 28 Baishakh 2082*
+*English: Monday, 12 May 2025 | Nepali: Monday, 29 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
