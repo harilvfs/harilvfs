@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life must be a constant education; one must learn everything, from speaking to dying." - Gustave Flaubert*
+*"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless." - Deepak Chopra*
 
 
 
-*English: Sunday, 11 May 2025 | Nepali: Sunday, 28 Baishakh 2082*
+*English: Monday, 12 May 2025 | Nepali: Monday, 29 Baishakh 2082*
 
 
 </div>
@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Changelog v4.4.4](https://github.com/harilvfs/carch/pull/441) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update docs version to 4.4.4](https://github.com/carch-org/docs/pull/24) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Update docs version to 4.4.4](https://github.com/carch-org/docs/pull/23) on [carch-org/docs](https://github.com/carch-org/docs)
 - [preview: Updated preview from release v4.4.3](https://github.com/harilvfs/carch/pull/440) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changelog v4.4.3](https://github.com/harilvfs/carch/pull/439) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v4.4.2](https://github.com/harilvfs/carch/pull/436) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.4.2](https://github.com/harilvfs/carch/pull/435) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
