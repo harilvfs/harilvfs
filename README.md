@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) - Screensavers for your terminal.
+- [cxreiff/bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [ghostty-org/discord-bot](https://github.com/ghostty-org/discord-bot) - Ghostty discord bot
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
-- [o2sh/provok](https://github.com/o2sh/provok) - Text rendering
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
