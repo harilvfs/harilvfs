@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless." - Deepak Chopra*
+*"If you are far from the enemy, make him believe you are near." - Sun Tzu*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 12 May 2025 | Nepali: Monday, 29 Baishakh 2082*
+*English: Tuesday, 13 May 2025 | Nepali: Tuesday, 30 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
