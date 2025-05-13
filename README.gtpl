@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you are far from the enemy, make him believe you are near." - Sun Tzu*
+*"Creativity is the greatest rebellion in existence." - Osho*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 13 May 2025 | Nepali: Tuesday, 30 Baishakh 2082*
+*English: Wednesday, 14 May 2025 | Nepali: Wednesday, 31 Baishakh 2082*
 <!-- DATE_END -->
 
 </div>
