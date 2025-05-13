@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [ChrisTitusTech/quickshell](https://github.com/ChrisTitusTech/quickshell) - Wayland based bar for Hyprland and other WMs.
-- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) - Screensavers for your terminal.
-- [cxreiff/bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
-- [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
-- [ghostty-org/discord-bot](https://github.com/ghostty-org/discord-bot) - Ghostty discord bot
+- [ThePrimeagen/tmux-sessionizer](https://github.com/ThePrimeagen/tmux-sessionizer) - 
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
+- [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
+- [CachyOS/CachyOS-Browser-Settings](https://github.com/CachyOS/CachyOS-Browser-Settings) - All the settings files that form the core of Cachy Browser
+- [rmaake1/terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning) - Terminal-based ASCII rain and lightning animation.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
