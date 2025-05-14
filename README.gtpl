@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Creativity is the greatest rebellion in existence." - Osho*
+*"Wherever you are is the entry point." - Kabir*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 14 May 2025 | Nepali: Wednesday, 31 Baishakh 2082*
+*English: Thursday, 15 May 2025 | Nepali: Thursday, 01 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
