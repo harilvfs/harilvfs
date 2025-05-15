@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Wherever you are is the entry point." - Kabir*
+*"A lie can travel half way around the world while the truth is putting on its shoes." - Mark Twain*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 15 May 2025 | Nepali: Thursday, 01 Jestha 2082*
+*English: Friday, 16 May 2025 | Nepali: Friday, 02 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
