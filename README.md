@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
+- [Alex313031/codium](https://github.com/Alex313031/codium) - VSCodium Fork with Compiler Optimizations, better Logo, and Windows 7/8/8.1 Support!
+- [Alex313031/quark-player](https://github.com/Alex313031/quark-player) - An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
+- [axos88/optics-rs](https://github.com/axos88/optics-rs) - Optics library for rust
 - [steve-conrad/Dot-Files](https://github.com/steve-conrad/Dot-Files) - 
-- [nvim-neorocks/lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
-- [AxOS-project/AxOS](https://github.com/AxOS-project/AxOS) - The linux experience, enchanced
-- [AxOS-project/Sleex](https://github.com/AxOS-project/Sleex) - The shell of the third desktop environement of AxOS
-- [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS) - PKGBUILDs for CachyOS
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
