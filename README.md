@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [nvim-neorocks/lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
 - [AxOS-project/AxOS](https://github.com/AxOS-project/AxOS) - The linux experience, enchanced
 - [AxOS-project/Sleex](https://github.com/AxOS-project/Sleex) - The shell of the third desktop environement of AxOS
 - [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS) - PKGBUILDs for CachyOS
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser.
-- [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS &#43; Hyprland rice with flakes and home-manager
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
