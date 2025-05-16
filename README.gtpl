@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A lie can travel half way around the world while the truth is putting on its shoes." - Mark Twain*
+*"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 16 May 2025 | Nepali: Friday, 02 Jestha 2082*
+*English: Saturday, 17 May 2025 | Nepali: Saturday, 03 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
