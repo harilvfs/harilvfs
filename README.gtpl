@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela*
+*"My sun sets to rise again." - Robert Browning*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 17 May 2025 | Nepali: Saturday, 03 Jestha 2082*
+*English: Sunday, 18 May 2025 | Nepali: Sunday, 04 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
