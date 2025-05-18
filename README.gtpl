@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"My sun sets to rise again." - Robert Browning*
+*"A good teacher opens the door for you, but you must enter the room by yourself." - Zen Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 18 May 2025 | Nepali: Sunday, 04 Jestha 2082*
+*English: Monday, 19 May 2025 | Nepali: Monday, 05 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
