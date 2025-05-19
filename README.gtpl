@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A good teacher opens the door for you, but you must enter the room by yourself." - Zen Proverb*
+*"You can have it all. You just can't have it all at once. " - Oprah Winfrey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 19 May 2025 | Nepali: Monday, 05 Jestha 2082*
+*English: Tuesday, 20 May 2025 | Nepali: Tuesday, 06 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
