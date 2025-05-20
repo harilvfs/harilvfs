@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can have it all. You just can't have it all at once. " - Oprah Winfrey*
+*"A warrior does not give up what he loves, he finds the love in what he does." - Dan Millman*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 20 May 2025 | Nepali: Tuesday, 06 Jestha 2082*
+*English: Wednesday, 21 May 2025 | Nepali: Wednesday, 07 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
