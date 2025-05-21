@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A warrior does not give up what he loves, he finds the love in what he does." - Dan Millman*
+*"Life is what happens to you while you're busy making other plans." - John Lennon*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 21 May 2025 | Nepali: Wednesday, 07 Jestha 2082*
+*English: Thursday, 22 May 2025 | Nepali: Thursday, 08 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
