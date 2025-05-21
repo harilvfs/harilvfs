@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A warrior does not give up what he loves, he finds the love in what he does." - Dan Millman*
+*"Life is what happens to you while you're busy making other plans." - John Lennon*
 
 
 
-*English: Wednesday, 21 May 2025 | Nepali: Wednesday, 07 Jestha 2082*
+*English: Thursday, 22 May 2025 | Nepali: Thursday, 08 Jestha 2082*
 
 
 </div>
@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
-- [harilvfs/alacritty-theme](https://github.com/harilvfs/alacritty-theme) - Collection of Alacritty color schemes
-- [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
-- [lordgreg/taskcrafter](https://github.com/lordgreg/taskcrafter) - A modern, hackable task scheduler for developers
-- [mjsarfatti/beddu](https://github.com/mjsarfatti/beddu) - beddu.sh - A lightweight bash framework for interactive scripts and pretty output
+- [harilvfs/SwayNotificationCenter](https://github.com/harilvfs/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
+- [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
+- [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
