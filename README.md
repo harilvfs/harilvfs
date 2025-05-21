@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
+- [harilvfs/alacritty-theme](https://github.com/harilvfs/alacritty-theme) - Collection of Alacritty color schemes
+- [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
 - [lordgreg/taskcrafter](https://github.com/lordgreg/taskcrafter) - A modern, hackable task scheduler for developers
 - [mjsarfatti/beddu](https://github.com/mjsarfatti/beddu) - beddu.sh - A lightweight bash framework for interactive scripts and pretty output
-- [hudson-newey/vi-edit](https://github.com/hudson-newey/vi-edit) - We all edit (in vi).
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-- [outpoot/twoblade](https://github.com/outpoot/twoblade) - Interface and reference implementation of SHARP (Self-Hosted Address Routing Protocol) — a decentralized email system that uses the # symbol for addressing (e.g., user#domain.com). https://twoblade.com
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
