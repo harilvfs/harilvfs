@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [catppuccin/foot](https://github.com/catppuccin/foot) - 🦶 Soothing pastel theme for Foot
 - [harilvfs/SwayNotificationCenter](https://github.com/harilvfs/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
-- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
