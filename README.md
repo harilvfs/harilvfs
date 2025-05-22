@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
+- [harilvfs/catppuccin-fish](https://github.com/harilvfs/catppuccin-fish) - 🐟 Soothing pastel theme for the Fish Shell
+- [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
 - [harilvfs/not-for-you](https://github.com/harilvfs/not-for-you) - just f*cking use html
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-- [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
-- [catppuccin/foot](https://github.com/catppuccin/foot) - 🦶 Soothing pastel theme for Foot
-- [harilvfs/SwayNotificationCenter](https://github.com/harilvfs/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
