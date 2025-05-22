@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is what happens to you while you're busy making other plans." - John Lennon*
+*"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." - Carl Bard*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 22 May 2025 | Nepali: Thursday, 08 Jestha 2082*
+*English: Friday, 23 May 2025 | Nepali: Friday, 09 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
