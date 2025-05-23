@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." - Carl Bard*
+*"Perplexity is the beginning of knowledge." - Kahlil Gibran*
 
 
 
-*English: Friday, 23 May 2025 | Nepali: Friday, 09 Jestha 2082*
+*English: Saturday, 24 May 2025 | Nepali: Saturday, 10 Jestha 2082*
 
 
 </div>
@@ -36,8 +36,8 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/links](https://github.com/harilvfs/links) - Simple link page using a Hugo theme 🔗
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/links](https://github.com/harilvfs/links) - Simple link page using a Hugo theme 🔗
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
