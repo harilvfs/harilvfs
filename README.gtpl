@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." - Carl Bard*
+*"Perplexity is the beginning of knowledge." - Kahlil Gibran*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 23 May 2025 | Nepali: Friday, 09 Jestha 2082*
+*English: Saturday, 24 May 2025 | Nepali: Saturday, 10 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
