@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Perplexity is the beginning of knowledge." - Kahlil Gibran*
+*"It is ignorance that causes most mistakes." - Harry S. Truman*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 24 May 2025 | Nepali: Saturday, 10 Jestha 2082*
+*English: Sunday, 25 May 2025 | Nepali: Sunday, 11 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
