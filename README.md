@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [harilvfs/catppuccin-fish](https://github.com/harilvfs/catppuccin-fish) - 🐟 Soothing pastel theme for the Fish Shell
-- [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
-- [harilvfs/not-for-you](https://github.com/harilvfs/not-for-you) - just f*cking use html
-- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
+- [harilvfs/srinath10x-dotfiles](https://github.com/harilvfs/srinath10x-dotfiles) - Arch setup dotfiles: Streamlined for efficiency &amp; aesthetics. Customized configs for a seamless &amp; stylish experience! 🚀🎨
+- [Srinath10X/dotfiles](https://github.com/Srinath10X/dotfiles) - Arch setup dotfiles: Streamlined for efficiency &amp; aesthetics. Customized configs for a seamless &amp; stylish experience! 🚀🎨
+- [Srinath10X/portfolio](https://github.com/Srinath10X/portfolio) - 🚀 Welcome to my coding journey! Explore my portfolio with HTML, CSS, and JavaScript vibes, sprinkled with a dash of React magic. Dive into the simplicity of my work, and let&#39;s connect! 🌐💻✨
+- [harilvfs/termux-setup](https://github.com/harilvfs/termux-setup) - 🚀 Welcome to Termux-Setup, your swift path to a hassle-free Termux configuration! This tool automates the setup process, ensuring a quick and efficient installation of essential packages. 📦 Say goodbye to manual setups and embrace a seamless start to your Termux journey. Get your environment up and running in no time with Termux-Setup! 🔧✨
+- [Srinath10X/termux-setup](https://github.com/Srinath10X/termux-setup) - 🚀 Welcome to Termux-Setup, your swift path to a hassle-free Termux configuration! This tool automates the setup process, ensuring a quick and efficient installation of essential packages. 📦 Say goodbye to manual setups and embrace a seamless start to your Termux journey. Get your environment up and running in no time with Termux-Setup! 🔧✨
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
