@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It is ignorance that causes most mistakes." - Harry S. Truman*
+*"Don't hate the player. Change the game." - Steve Harvey*
 
 
 
-*English: Sunday, 25 May 2025 | Nepali: Sunday, 11 Jestha 2082*
+*English: Monday, 26 May 2025 | Nepali: Monday, 12 Jestha 2082*
 
 
 </div>
