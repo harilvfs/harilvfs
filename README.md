@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress 🚀
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/links](https://github.com/harilvfs/links) - Simple link page using a Hugo theme 🔗
-- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [tokyo-night/wallpapers](https://github.com/tokyo-night/wallpapers) - Matching wallpapers for your Tokyo Night setup.
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [harilvfs/srinath10x-dotfiles](https://github.com/harilvfs/srinath10x-dotfiles) - Arch setup dotfiles: Streamlined for efficiency &amp; aesthetics. Customized configs for a seamless &amp; stylish experience! 🚀🎨
 - [Srinath10X/dotfiles](https://github.com/Srinath10X/dotfiles) - Arch setup dotfiles: Streamlined for efficiency &amp; aesthetics. Customized configs for a seamless &amp; stylish experience! 🚀🎨
 - [Srinath10X/portfolio](https://github.com/Srinath10X/portfolio) - 🚀 Welcome to my coding journey! Explore my portfolio with HTML, CSS, and JavaScript vibes, sprinkled with a dash of React magic. Dive into the simplicity of my work, and let&#39;s connect! 🌐💻✨
-- [harilvfs/termux-setup](https://github.com/harilvfs/termux-setup) - 🚀 Welcome to Termux-Setup, your swift path to a hassle-free Termux configuration! This tool automates the setup process, ensuring a quick and efficient installation of essential packages. 📦 Say goodbye to manual setups and embrace a seamless start to your Termux journey. Get your environment up and running in no time with Termux-Setup! 🔧✨
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
