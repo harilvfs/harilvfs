@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Don't hate the player. Change the game." - Steve Harvey*
+*"Coming together is a beginning, staying together is progress, and working together is success. " - Henry Ford*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 26 May 2025 | Nepali: Monday, 12 Jestha 2082*
+*English: Tuesday, 27 May 2025 | Nepali: Tuesday, 13 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
