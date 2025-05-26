@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [refactor: removing normal prompt [ only using fzf ui ]](https://github.com/harilvfs/carch/pull/458) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.4.7](https://github.com/harilvfs/carch/pull/454) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Changelog v4.4.7](https://github.com/harilvfs/carch/pull/453) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update docs version to 4.4.7](https://github.com/carch-org/docs/pull/27) on [carch-org/docs](https://github.com/carch-org/docs)
 - [preview: Updated preview from release v4.4.6](https://github.com/harilvfs/carch/pull/451) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.4.6](https://github.com/harilvfs/carch/pull/450) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
