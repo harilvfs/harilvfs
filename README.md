@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Coming together is a beginning, staying together is progress, and working together is success. " - Henry Ford*
+*"You don't know who is important to you until you actually lose them." - Mahatma Gandhi*
 
 
 
-*English: Tuesday, 27 May 2025 | Nepali: Tuesday, 13 Jestha 2082*
+*English: Wednesday, 28 May 2025 | Nepali: Wednesday, 14 Jestha 2082*
 
 
 </div>
@@ -37,10 +37,10 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v5.0.0](https://github.com/harilvfs/carch/pull/461) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Changelog v5.0.0](https://github.com/harilvfs/carch/pull/460) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update docs version to 5.0.0](https://github.com/carch-org/docs/pull/28) on [carch-org/docs](https://github.com/carch-org/docs)
 - [refactor: removing normal prompt [ only using fzf ui ]](https://github.com/harilvfs/carch/pull/458) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v4.4.7](https://github.com/harilvfs/carch/pull/454) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v4.4.7](https://github.com/harilvfs/carch/pull/453) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update docs version to 4.4.7](https://github.com/carch-org/docs/pull/27) on [carch-org/docs](https://github.com/carch-org/docs)
-- [preview: Updated preview from release v4.4.6](https://github.com/harilvfs/carch/pull/451) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
