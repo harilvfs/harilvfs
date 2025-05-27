@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Coming together is a beginning, staying together is progress, and working together is success. " - Henry Ford*
+*"You don't know who is important to you until you actually lose them." - Mahatma Gandhi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 27 May 2025 | Nepali: Tuesday, 13 Jestha 2082*
+*English: Wednesday, 28 May 2025 | Nepali: Wednesday, 14 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
