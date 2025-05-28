@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You don't know who is important to you until you actually lose them." - Mahatma Gandhi*
+*"You don't get in life what you want; you get in life what you are." - Les Brown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 28 May 2025 | Nepali: Wednesday, 14 Jestha 2082*
+*English: Thursday, 29 May 2025 | Nepali: Thursday, 15 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
