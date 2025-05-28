@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You don't know who is important to you until you actually lose them." - Mahatma Gandhi*
+*"You don't get in life what you want; you get in life what you are." - Les Brown*
 
 
 
-*English: Wednesday, 28 May 2025 | Nepali: Wednesday, 14 Jestha 2082*
+*English: Thursday, 29 May 2025 | Nepali: Thursday, 15 Jestha 2082*
 
 
 </div>
@@ -36,19 +36,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [progit2-pt-pt/progit2](https://github.com/progit2-pt-pt/progit2) - Pro Git 2nd Edition
 - [tungstencube-git/radon](https://github.com/tungstencube-git/radon) - a package manager for git projects!
 - [acdcbyl/Dotfiles-arch](https://github.com/acdcbyl/Dotfiles-arch) - 
 - [tokyo-night/wallpapers](https://github.com/tokyo-night/wallpapers) - Matching wallpapers for your Tokyo Night setup.
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
-- [harilvfs/srinath10x-dotfiles](https://github.com/harilvfs/srinath10x-dotfiles) - Arch setup dotfiles: Streamlined for efficiency &amp; aesthetics. Customized configs for a seamless &amp; stylish experience! 🚀🎨
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
