@@ -36,11 +36,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [refactor: redoing the setup script](https://github.com/harilvfs/i3wmdotfiles/pull/15) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
 - [docs: use admonition syntax for important notes](https://github.com/mylinuxforwork/dotfiles/pull/948) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [refactor: split package functions into sourced scripts](https://github.com/harilvfs/carch/pull/465) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [rust: rounded script list &amp; help [ ui ]](https://github.com/harilvfs/carch/pull/464) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [chore(colors): embed colors.sh and adjust sourcing for runtime scripts](https://github.com/harilvfs/carch/pull/463) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: exit early if fzf is not installed](https://github.com/harilvfs/carch/pull/462) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
