@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [docs: use admonition syntax for important notes](https://github.com/mylinuxforwork/dotfiles/pull/948) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
+- [refactor: split package functions into sourced scripts](https://github.com/harilvfs/carch/pull/465) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [rust: rounded script list &amp; help [ ui ]](https://github.com/harilvfs/carch/pull/464) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [chore(colors): embed colors.sh and adjust sourcing for runtime scripts](https://github.com/harilvfs/carch/pull/463) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat: exit early if fzf is not installed](https://github.com/harilvfs/carch/pull/462) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [preview: Updated preview from release v5.0.0](https://github.com/harilvfs/carch/pull/461) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Changelog v5.0.0](https://github.com/harilvfs/carch/pull/460) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
