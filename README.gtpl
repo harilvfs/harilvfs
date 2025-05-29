@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You don't get in life what you want; you get in life what you are." - Les Brown*
+*"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." - Andrew Carnegie*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 29 May 2025 | Nepali: Thursday, 15 Jestha 2082*
+*English: Friday, 30 May 2025 | Nepali: Friday, 16 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
