@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [TitaniumBrain/rs-matrix](https://github.com/TitaniumBrain/rs-matrix) - A Rust implementation of the Matrix rain effect.
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [progit2-pt-pt/progit2](https://github.com/progit2-pt-pt/progit2) - Pro Git 2nd Edition
-- [tungstencube-git/radon](https://github.com/tungstencube-git/radon) - a package manager for git projects!
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
