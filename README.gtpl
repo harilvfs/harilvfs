@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." - Andrew Carnegie*
+*"The only limits in our life are those we impose on ourselves." - Bob Proctor*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 30 May 2025 | Nepali: Friday, 16 Jestha 2082*
+*English: Saturday, 31 May 2025 | Nepali: Saturday, 17 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
