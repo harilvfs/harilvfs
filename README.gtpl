@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The only limits in our life are those we impose on ourselves." - Bob Proctor*
+*"The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 31 May 2025 | Nepali: Saturday, 17 Jestha 2082*
+*English: Sunday, 01 June 2025 | Nepali: Sunday, 18 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
