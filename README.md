@@ -52,11 +52,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [Update docs version to 5.1.0](https://github.com/carch-org/docs/pull/29) on [carch-org/docs](https://github.com/carch-org/docs)
-- [docs: make setup links compatible with Fish shell](https://github.com/mylinuxforwork/dotfiles/pull/954) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [docs: rewritting wiki with vitepress ](https://github.com/mylinuxforwork/dotfiles/pull/953) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [refactor: redoing the setup script](https://github.com/harilvfs/i3wmdotfiles/pull/15) on [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles)
-- [docs: use admonition syntax for important notes](https://github.com/mylinuxforwork/dotfiles/pull/948) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
+- [changelog for v5.1.0](https://github.com/harilvfs/carch/pull/466) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update docs version to 5.1.0](https://github.com/carch-org/docs/pull/36) on [carch-org/docs](https://github.com/carch-org/docs)
+- [Update docs version to 5.1.0](https://github.com/carch-org/docs/pull/35) on [carch-org/docs](https://github.com/carch-org/docs)
+- [Update docs version to 5.1.0](https://github.com/carch-org/docs/pull/34) on [carch-org/docs](https://github.com/carch-org/docs)
+- [Update docs version to 5.1.0](https://github.com/carch-org/docs/pull/33) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
