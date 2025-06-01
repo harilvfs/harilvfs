@@ -36,10 +36,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
