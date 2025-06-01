@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi*
+*"Conscience is a man's compass. " - Vincent van Gogh*
 
 
 
-*English: Sunday, 01 June 2025 | Nepali: Sunday, 18 Jestha 2082*
+*English: Monday, 02 June 2025 | Nepali: Monday, 19 Jestha 2082*
 
 
 </div>
@@ -37,18 +37,18 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [dtolnay/paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs
 - [greed-d/.dotfiles](https://github.com/greed-d/.dotfiles) - My gorgeous rices ;)
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [armbian/os](https://github.com/armbian/os) - Armbian operating system rolling releases provides automated nightly builds of maintained targets
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 &amp; armhf
-- [harilvfs/frontend-fundamentals](https://github.com/harilvfs/frontend-fundamentals) - Essential principles for frontend development
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
