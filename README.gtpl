@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi*
+*"Conscience is a man's compass. " - Vincent van Gogh*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 01 June 2025 | Nepali: Sunday, 18 Jestha 2082*
+*English: Monday, 02 June 2025 | Nepali: Monday, 19 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
