@@ -44,11 +44,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [dtolnay/paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs
 - [greed-d/.dotfiles](https://github.com/greed-d/.dotfiles) - My gorgeous rices ;)
-- [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
