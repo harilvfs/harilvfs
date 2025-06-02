@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Conscience is a man's compass. " - Vincent van Gogh*
+*"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." - Richard Bach*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 02 June 2025 | Nepali: Monday, 19 Jestha 2082*
+*English: Tuesday, 03 June 2025 | Nepali: Tuesday, 20 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
