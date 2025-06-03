@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." - Richard Bach*
+*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 03 June 2025 | Nepali: Tuesday, 20 Jestha 2082*
+*English: Wednesday, 04 June 2025 | Nepali: Wednesday, 21 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
