@@ -66,3 +66,6 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://archlinux.org/feeds/news/
           plugin_rss_limit: 4
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://chalisehari.com.np
