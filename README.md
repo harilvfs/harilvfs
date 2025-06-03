@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<h4> GitHub Stats </h4>
+<h3> GitHub Stats </h3>
 
 </div>
 
