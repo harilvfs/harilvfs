@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't." - Richard Bach*
+*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
 
 
 
-*English: Tuesday, 03 June 2025 | Nepali: Tuesday, 20 Jestha 2082*
+*English: Wednesday, 04 June 2025 | Nepali: Wednesday, 21 Jestha 2082*
 
 
 </div>
@@ -40,10 +40,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v5.1.1](https://github.com/harilvfs/carch/pull/476) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.1.1](https://github.com/harilvfs/carch/pull/475) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update docs version to 5.1.1](https://github.com/carch-org/docs/pull/38) on [carch-org/docs](https://github.com/carch-org/docs)
 - [docs(update): redoing whole readme](https://github.com/harilvfs/carch/pull/471) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [preview: Updated preview from release v5.1.0](https://github.com/harilvfs/carch/pull/468) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [changelog for v5.1.0](https://github.com/harilvfs/carch/pull/467) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update docs version to 5.1.0](https://github.com/carch-org/docs/pull/37) on [carch-org/docs](https://github.com/carch-org/docs)
-- [changelog for v5.1.0](https://github.com/harilvfs/carch/pull/466) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
