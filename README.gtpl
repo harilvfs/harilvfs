@@ -56,3 +56,4 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
 - Discord    : <https://discord.com/invite/8NJWstnUHd>
+- Mail       : <mailto:harilvfs@chalisehari.com.np>
