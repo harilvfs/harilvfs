@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
+*"Winners are not people who never fail, but people who never quit." - Arnold Schwarzenegger*
 
 
 
-*English: Wednesday, 04 June 2025 | Nepali: Wednesday, 21 Jestha 2082*
+*English: Thursday, 05 June 2025 | Nepali: Thursday, 22 Jestha 2082*
 
 
 </div>
@@ -48,19 +48,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/dots-hyprland](https://github.com/harilvfs/dots-hyprland) - cooking...
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [philc/vimium](https://github.com/philc/vimium) - The hacker&#39;s browser.
 - [harilvfs/marktext](https://github.com/harilvfs/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [chore: make setup url compatible with fish shell](https://github.com/end-4/dots-hyprland/pull/1357) on [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
 - [chore: add pull request template](https://github.com/mylinuxforwork/dotfiles/pull/961) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [Update docs version to 5.1.1](https://github.com/carch-org/wiki/pull/6) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Revert &#34;Update docs version to 5.1.1&#34;](https://github.com/carch-org/wiki/pull/5) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Update docs version to 5.1.1](https://github.com/carch-org/wiki/pull/4) on [carch-org/wiki](https://github.com/carch-org/wiki)
-- [changelog for v5.1.1](https://github.com/harilvfs/carch/pull/481) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
