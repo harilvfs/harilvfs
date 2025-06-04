@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
+*"Winners are not people who never fail, but people who never quit." - Arnold Schwarzenegger*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 04 June 2025 | Nepali: Wednesday, 21 Jestha 2082*
+*English: Thursday, 05 June 2025 | Nepali: Thursday, 22 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
