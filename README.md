@@ -40,9 +40,9 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A Simple Script to Make Linux System Setup Easier 🧩
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.
 
@@ -56,7 +56,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [chore: make setup url compatible with fish shell](https://github.com/end-4/dots-hyprland/pull/1357) on [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+- [chore: add fish shell compatible setup link](https://github.com/end-4/dots-hyprland/pull/1357) on [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
 - [chore: add pull request template](https://github.com/mylinuxforwork/dotfiles/pull/961) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [Update docs version to 5.1.1](https://github.com/carch-org/wiki/pull/6) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Revert &#34;Update docs version to 5.1.1&#34;](https://github.com/carch-org/wiki/pull/5) on [carch-org/wiki](https://github.com/carch-org/wiki)
