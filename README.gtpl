@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Winners are not people who never fail, but people who never quit." - Arnold Schwarzenegger*
+*"Think and wonder, wonder and think." - Dr. Seuss*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 05 June 2025 | Nepali: Thursday, 22 Jestha 2082*
+*English: Saturday, 07 June 2025 | Nepali: Saturday, 24 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
