@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches
+- [PottierLoic/Fractouille](https://github.com/PottierLoic/Fractouille) - Mandelbrot in terminal :)
 - [ibhagwan/picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git) - 
 - [uint23/dotfiles](https://github.com/uint23/dotfiles) - 
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-- [Maybe4a6f7365/fastfetch-gif-support](https://github.com/Maybe4a6f7365/fastfetch-gif-support) - Displays Gifs inline 
-- [harilvfs/ssr](https://github.com/harilvfs/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
