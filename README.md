@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Think and wonder, wonder and think." - Dr. Seuss*
+*"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - Oprah Winfrey*
 
 
 
-*English: Saturday, 07 June 2025 | Nepali: Saturday, 24 Jestha 2082*
+*English: Sunday, 08 June 2025 | Nepali: Sunday, 25 Jestha 2082*
 
 
 </div>
@@ -40,11 +40,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/links](https://github.com/harilvfs/links) - Simple link page built using Hugo theme 🔗
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple CLI tool to automate Linux system setup 🧩
+- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
+- [harilvfs/links](https://github.com/harilvfs/links) - Simple link page built using Hugo theme 🔗
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
