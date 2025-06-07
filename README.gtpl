@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Think and wonder, wonder and think." - Dr. Seuss*
+*"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - Oprah Winfrey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 07 June 2025 | Nepali: Saturday, 24 Jestha 2082*
+*English: Sunday, 08 June 2025 | Nepali: Sunday, 25 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
