@@ -40,11 +40,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple CLI tool to automate Linux system setup 🧩
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 - [harilvfs/links](https://github.com/harilvfs/links) - Simple link page built using Hugo theme 🔗
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs version to 5.1.2](https://github.com/carch-org/wiki/pull/7) on [carch-org/wiki](https://github.com/carch-org/wiki)
+- [Update docs version to 5.1.2](https://github.com/carch-org/docs/pull/41) on [carch-org/docs](https://github.com/carch-org/docs)
+- [preview: Updated preview from release v5.1.2](https://github.com/harilvfs/carch/pull/491) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.1.2](https://github.com/harilvfs/carch/pull/490) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [chore: update project description](https://github.com/harilvfs/carch/pull/489) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: manual SSR build for Arch and Fedora](https://github.com/harilvfs/carch/pull/487) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: add zoxide ( a better cd )](https://github.com/mylinuxforwork/dotfiles/pull/965) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [chore: add fish shell compatible setup link](https://github.com/end-4/dots-hyprland/pull/1357) on [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-- [chore: add pull request template](https://github.com/mylinuxforwork/dotfiles/pull/961) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/+4unMy4BzvA9lOWZl>
