@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management and tracking system for plant enthusiasts
+- [danielbrendel/redhotsubs](https://github.com/danielbrendel/redhotsubs) - A free Reddit NSFW Client
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
-- [X11Libre/xserver](https://github.com/X11Libre/xserver) - 
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
