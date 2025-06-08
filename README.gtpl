@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." - Oprah Winfrey*
+*"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 08 June 2025 | Nepali: Sunday, 25 Jestha 2082*
+*English: Monday, 09 June 2025 | Nepali: Monday, 26 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
