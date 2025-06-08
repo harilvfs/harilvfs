@@ -41,18 +41,18 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple CLI tool to automate Linux system setup 🧩
-- [harilvfs/links](https://github.com/harilvfs/links) - Simple link page built using Hugo theme 🔗
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with &#39;simple&#39; pull requests....
+- [Digital-Chaos/dwm](https://github.com/Digital-Chaos/dwm) - dwm - Suckless dynamic window manager (mirror)
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [t3dotgg/t3-cloneathon](https://github.com/t3dotgg/t3-cloneathon) - 
-- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
-- [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave&#39;s Rust-based adblock engine
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
