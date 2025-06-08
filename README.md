@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [t3dotgg/t3-cloneathon](https://github.com/t3dotgg/t3-cloneathon) - 
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave&#39;s Rust-based adblock engine
-- [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
