@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson*
+*"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose." - Simon Sinek*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 09 June 2025 | Nepali: Monday, 26 Jestha 2082*
+*English: Tuesday, 10 June 2025 | Nepali: Tuesday, 27 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
