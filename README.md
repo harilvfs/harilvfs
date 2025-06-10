@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [xfce-mirror/xfwm4](https://github.com/xfce-mirror/xfwm4) - Mirror repository, PRs are not watched, please use Xfce&#39;s GitLab
 - [silnrsi/graphite](https://github.com/silnrsi/graphite) - Graphite is a &#34;smart font&#34; system developed specifically to handle the complexities of lesser-known languages of the world.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow.
-- [cenonym/trmt](https://github.com/cenonym/trmt) - 2D Turing machine (turmite) for your terminal.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
