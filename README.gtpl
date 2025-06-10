@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose." - Simon Sinek*
+*"Change yourself and you have done your part in changing the world." - Paramahansa Yogananda*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 10 June 2025 | Nepali: Tuesday, 27 Jestha 2082*
+*English: Wednesday, 11 June 2025 | Nepali: Wednesday, 28 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
