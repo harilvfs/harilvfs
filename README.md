@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Change yourself and you have done your part in changing the world." - Paramahansa Yogananda*
+*"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller*
 
 
 
-*English: Wednesday, 11 June 2025 | Nepali: Wednesday, 28 Jestha 2082*
+*English: Thursday, 12 June 2025 | Nepali: Thursday, 29 Jestha 2082*
 
 
 </div>
