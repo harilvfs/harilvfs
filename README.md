@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [harilvfs/codesnap](https://github.com/harilvfs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
-- [harilvfs/codesnap.nvim](https://github.com/harilvfs/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
-- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
-- [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
+- [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
+- [GNOME/vala](https://github.com/GNOME/vala) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala
+- [vala-lang/vala-language-server](https://github.com/vala-lang/vala-language-server) - Code Intelligence for Vala &amp; Genie
+- [danirabbit/refind-theme-elementary](https://github.com/danirabbit/refind-theme-elementary) - an elementary theme for rEFInd
+- [danirabbit/nimbus](https://github.com/danirabbit/nimbus) - A minimal weather applet
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
