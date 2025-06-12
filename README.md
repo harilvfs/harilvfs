@@ -40,7 +40,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple CLI tool to automate Linux system setup 🧩
+- [harilvfs/androidwallpapers](https://github.com/harilvfs/androidwallpapers) - Collection of wallpapers for Mobile devices.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [sangeeth-606/todoZ](https://github.com/sangeeth-606/todoZ) - 
 - [A7Lavinraj/assistant.nvim](https://github.com/A7Lavinraj/assistant.nvim) - A Lua-based Neovim plugin that enhances competitive programming workflows by integrating with the Competitive Companion browser extension
 - [A7Lavinraj/Lavin.dev](https://github.com/A7Lavinraj/Lavin.dev) - My portfolio website in vanilla web technologies
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [caelestia-dots/scripts](https://github.com/caelestia-dots/scripts) - A collection of scripts for my caelestia dotfiles
-- [waizui/anal.nvim](https://github.com/waizui/anal.nvim) - anal.nvim is a reminder of long-time-sitting.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
