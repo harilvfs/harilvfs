@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [A2Fais/.dotfiles](https://github.com/A2Fais/.dotfiles) - Personal dotfile config for unix 
 - [harilvfs/ratatui](https://github.com/harilvfs/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
 - [GNOME/vala](https://github.com/GNOME/vala) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala
 - [vala-lang/vala-language-server](https://github.com/vala-lang/vala-language-server) - Code Intelligence for Vala &amp; Genie
-- [danirabbit/refind-theme-elementary](https://github.com/danirabbit/refind-theme-elementary) - an elementary theme for rEFInd
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
