@@ -49,7 +49,7 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
 - [caelestia-dots/scripts](https://github.com/caelestia-dots/scripts) - A collection of scripts for my caelestia dotfiles
-- [waizui/anal.nvim](https://github.com/waizui/anal.nvim) - 
+- [waizui/anal.nvim](https://github.com/waizui/anal.nvim) - anal.nvim is a reminder of long-time-sitting.
 - [TeamWin/android_bootable_recovery](https://github.com/TeamWin/android_bootable_recovery) - 
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [A2Fais/.dotfiles](https://github.com/A2Fais/.dotfiles) - Personal dotfile config for unix 
