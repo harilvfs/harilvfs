@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller*
+*"Success does not consist in never making mistakes but in never making the same one a second time." - George Bernard Shaw*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 12 June 2025 | Nepali: Thursday, 29 Jestha 2082*
+*English: Friday, 13 June 2025 | Nepali: Friday, 30 Jestha 2082*
 <!-- DATE_END -->
 
 </div>
