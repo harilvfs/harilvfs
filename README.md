@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller*
+*"Success does not consist in never making mistakes but in never making the same one a second time." - George Bernard Shaw*
 
 
 
-*English: Thursday, 12 June 2025 | Nepali: Thursday, 29 Jestha 2082*
+*English: Friday, 13 June 2025 | Nepali: Friday, 30 Jestha 2082*
 
 
 </div>
@@ -42,9 +42,9 @@
 
 - [harilvfs/androidwallpapers](https://github.com/harilvfs/androidwallpapers) - Collection of wallpapers for Mobile devices.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress -- available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple CLI tool to automate Linux system setup 🧩
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
