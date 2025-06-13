@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Success does not consist in never making mistakes but in never making the same one a second time." - George Bernard Shaw*
+*"The friendship that can cease has never been real. " - St. Jerome*
 
 
 
-*English: Friday, 13 June 2025 | Nepali: Friday, 30 Jestha 2082*
+*English: Saturday, 14 June 2025 | Nepali: Saturday, 31 Jestha 2082*
 
 
 </div>
