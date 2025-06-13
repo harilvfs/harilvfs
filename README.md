@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [docker/roadmap](https://github.com/docker/roadmap) - Welcome to the Public Roadmap for All Things Docker! We welcome your ideas. 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [docker/nvim-dap-docker](https://github.com/docker/nvim-dap-docker) - Experimental Neovim DAP plugin for Docker Buildx
 - [sangeeth-606/todoZ](https://github.com/sangeeth-606/todoZ) - 
-- [A7Lavinraj/assistant.nvim](https://github.com/A7Lavinraj/assistant.nvim) - A Lua-based Neovim plugin that enhances competitive programming workflows by integrating with the Competitive Companion browser extension
-- [A7Lavinraj/Lavin.dev](https://github.com/A7Lavinraj/Lavin.dev) - My portfolio website in vanilla web technologies
-- [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
-- [caelestia-dots/scripts](https://github.com/caelestia-dots/scripts) - A collection of scripts for my caelestia dotfiles
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
