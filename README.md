@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [ad1822/hyprdots](https://github.com/ad1822/hyprdots) - AWESOME Hyprland Dotfiles
 - [docker/roadmap](https://github.com/docker/roadmap) - Welcome to the Public Roadmap for All Things Docker! We welcome your ideas. 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [docker/nvim-dap-docker](https://github.com/docker/nvim-dap-docker) - Experimental Neovim DAP plugin for Docker Buildx
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
