@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The friendship that can cease has never been real. " - St. Jerome*
+*"What the mind can conceive and believe, and the heart desire, you can achieve." - Norman Vincent Peale*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 14 June 2025 | Nepali: Saturday, 31 Jestha 2082*
+*English: Sunday, 15 June 2025 | Nepali: Sunday, 01 Asar 2082*
 <!-- DATE_END -->
 
 </div>
