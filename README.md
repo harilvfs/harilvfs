@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [siduck/quickcv](https://github.com/siduck/quickcv) - WIP quick cv / resume builder to create high quality beautiful resumes ( PDF )
+- [nvzone/floaterm](https://github.com/nvzone/floaterm) - Beautiful floating terminal manager for Neovim
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 - [harilvfs/shields.rs](https://github.com/harilvfs/shields.rs) - A high-performance badge rendering engine written in Rust. As same as shields.io.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [Jannchie/shields.rs](https://github.com/Jannchie/shields.rs) - A high-performance badge rendering engine written in Rust. As same as shields.io.
-- [steveklabnik/rue](https://github.com/steveklabnik/rue) - A programming language that is a minimal subset of Rust
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
