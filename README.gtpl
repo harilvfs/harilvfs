@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"What the mind can conceive and believe, and the heart desire, you can achieve." - Norman Vincent Peale*
+*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 15 June 2025 | Nepali: Sunday, 01 Asar 2082*
+*English: Monday, 16 June 2025 | Nepali: Monday, 02 Asar 2082*
 <!-- DATE_END -->
 
 </div>
