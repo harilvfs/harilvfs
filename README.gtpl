@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
+*"Help others achieve their dreams and you will achieve yours." - Les Brown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 16 June 2025 | Nepali: Monday, 02 Asar 2082*
+*English: Tuesday, 17 June 2025 | Nepali: Tuesday, 03 Asar 2082*
 <!-- DATE_END -->
 
 </div>
