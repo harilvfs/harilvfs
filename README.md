@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
+*"Help others achieve their dreams and you will achieve yours." - Les Brown*
 
 
 
-*English: Monday, 16 June 2025 | Nepali: Monday, 02 Asar 2082*
+*English: Tuesday, 17 June 2025 | Nepali: Tuesday, 03 Asar 2082*
 
 
 </div>
@@ -42,9 +42,9 @@
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [ratatui/ratatui-website](https://github.com/ratatui/ratatui-website) - Ratatui Documentation
+- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs version to 5.1.4](https://github.com/carch-org/docs/pull/44) on [carch-org/docs](https://github.com/carch-org/docs)
+- [Update docs version to 5.1.4](https://github.com/carch-org/wiki/pull/11) on [carch-org/wiki](https://github.com/carch-org/wiki)
+- [preview: Updated preview from release v5.1.4](https://github.com/harilvfs/carch/pull/503) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.1.4](https://github.com/harilvfs/carch/pull/502) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [chore: ignore badge.svg in typos check](https://github.com/ratatui/ratatui-website/pull/894) on [ratatui/ratatui-website](https://github.com/ratatui/ratatui-website)
-- [chore(badge): add built with ratatui badge](https://github.com/ratatui/ratatui-website/pull/893) on [ratatui/ratatui-website](https://github.com/ratatui/ratatui-website)
-- [feat(installer): rewrite install script in Go](https://github.com/harilvfs/carch/pull/500) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat(installer): rewrite install script in Go](https://github.com/harilvfs/carch/pull/499) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor(home): redoing the home page style](https://github.com/carch-org/docs/pull/43) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
