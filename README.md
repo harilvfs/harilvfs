@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Help others achieve their dreams and you will achieve yours." - Les Brown*
+*"Fear does not have any special power unless you empower it by submitting to it." - Les Brown*
 
 
 
-*English: Tuesday, 17 June 2025 | Nepali: Tuesday, 03 Asar 2082*
+*English: Wednesday, 18 June 2025 | Nepali: Wednesday, 04 Asar 2082*
 
 
 </div>
@@ -40,19 +40,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
+- [tidwall/resp](https://github.com/tidwall/resp) - Reader, Writer, and Server implementation for the Redis RESP Protocol.
 - [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer) - Install dotfiles easy, fast and secure. Or provide an installation application for your dotfiles. 
 - [harilvfs/ratatui-website](https://github.com/harilvfs/ratatui-website) - Ratatui Documentation
 - [siduck/quickcv](https://github.com/siduck/quickcv) - WIP quick cv / resume builder to create high quality beautiful resumes ( PDF )
-- [nvzone/floaterm](https://github.com/nvzone/floaterm) - Beautiful floating terminal manager for Neovim
-- [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
