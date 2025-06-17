@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Help others achieve their dreams and you will achieve yours." - Les Brown*
+*"Fear does not have any special power unless you empower it by submitting to it." - Les Brown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 17 June 2025 | Nepali: Tuesday, 03 Asar 2082*
+*English: Wednesday, 18 June 2025 | Nepali: Wednesday, 04 Asar 2082*
 <!-- DATE_END -->
 
 </div>
