@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Fear does not have any special power unless you empower it by submitting to it." - Les Brown*
+*"Go and do the things you can't. That is how you get to do them." - Pablo Picasso*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 18 June 2025 | Nepali: Wednesday, 04 Asar 2082*
+*English: Thursday, 19 June 2025 | Nepali: Thursday, 05 Asar 2082*
 <!-- DATE_END -->
 
 </div>
