@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Go and do the things you can't. That is how you get to do them." - Pablo Picasso*
+*"Longevity is a fleeting moment that lasts forever." - Vidal Sassoon*
 
 
 
-*English: Thursday, 19 June 2025 | Nepali: Thursday, 05 Asar 2082*
+*English: Friday, 20 June 2025 | Nepali: Friday, 06 Asar 2082*
 
 
 </div>
