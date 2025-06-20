@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Longevity is a fleeting moment that lasts forever." - Vidal Sassoon*
+*"Darkness is the absence of light." - Kamal Ravikant*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 20 June 2025 | Nepali: Friday, 06 Asar 2082*
+*English: Saturday, 21 June 2025 | Nepali: Saturday, 07 Asar 2082*
 <!-- DATE_END -->
 
 </div>
