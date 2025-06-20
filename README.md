@@ -40,11 +40,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
+- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs version to 5.1.5](https://github.com/carch-org/wiki/pull/12) on [carch-org/wiki](https://github.com/carch-org/wiki)
+- [Update docs version to 5.1.5](https://github.com/carch-org/docs/pull/45) on [carch-org/docs](https://github.com/carch-org/docs)
+- [preview: Updated preview from release v5.1.5](https://github.com/harilvfs/carch/pull/505) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.1.5](https://github.com/harilvfs/carch/pull/504) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update docs version to 5.1.4](https://github.com/carch-org/docs/pull/44) on [carch-org/docs](https://github.com/carch-org/docs)
-- [Update docs version to 5.1.4](https://github.com/carch-org/wiki/pull/11) on [carch-org/wiki](https://github.com/carch-org/wiki)
-- [preview: Updated preview from release v5.1.4](https://github.com/harilvfs/carch/pull/503) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [changelog for v5.1.4](https://github.com/harilvfs/carch/pull/502) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [chore: ignore badge.svg in typos check](https://github.com/ratatui/ratatui-website/pull/894) on [ratatui/ratatui-website](https://github.com/ratatui/ratatui-website)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
