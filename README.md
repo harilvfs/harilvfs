@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) - 
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+- [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [nodejs/mikeal](https://github.com/nodejs/mikeal) - In light of the the contributions that Mikeal made to Node.js and the larger ecosystem and his recent passing this repository will provide a place for people to contribute their condolences and memories of Mikeal.
-- [LadybirdBrowser/ladybird.org](https://github.com/LadybirdBrowser/ladybird.org) - 
-- [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
-- [tidwall/resp](https://github.com/tidwall/resp) - Reader, Writer, and Server implementation for the Redis RESP Protocol.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
