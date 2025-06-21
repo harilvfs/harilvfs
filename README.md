@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Jesterhearts/ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
-- [nydragon/nysh](https://github.com/nydragon/nysh) - 
-- [FridayFaerie/quickshell](https://github.com/FridayFaerie/quickshell) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
