@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [mylinuxforwork/qtile-starter](https://github.com/mylinuxforwork/qtile-starter) - 
-- [mylinuxforwork/dotfiles-uninstaller](https://github.com/mylinuxforwork/dotfiles-uninstaller) - Script to uninstall the ML4W Hyprland Dotfiles. 
-- [mylinuxforwork/chatgpt-cli](https://github.com/mylinuxforwork/chatgpt-cli) - Python script to access ChatGPT from the terminal with the OpenAI API
-- [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper) - My personal collection of wallpapers. Works great on all desktop environments.
-- [mylinuxforwork/dotfiles-sidebar](https://github.com/mylinuxforwork/dotfiles-sidebar) - 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+- [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
+- [nydragon/nysh](https://github.com/nydragon/nysh) - 
+- [FridayFaerie/quickshell](https://github.com/FridayFaerie/quickshell) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
