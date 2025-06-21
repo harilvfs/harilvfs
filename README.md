@@ -40,19 +40,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
+- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [mylinuxforwork/ml4w-flatpak-repo](https://github.com/mylinuxforwork/ml4w-flatpak-repo) - 
-- [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) - 
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [mylinuxforwork/qtile-starter](https://github.com/mylinuxforwork/qtile-starter) - 
+- [mylinuxforwork/dotfiles-uninstaller](https://github.com/mylinuxforwork/dotfiles-uninstaller) - Script to uninstall the ML4W Hyprland Dotfiles. 
+- [mylinuxforwork/chatgpt-cli](https://github.com/mylinuxforwork/chatgpt-cli) - Python script to access ChatGPT from the terminal with the OpenAI API
+- [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper) - My personal collection of wallpapers. Works great on all desktop environments.
+- [mylinuxforwork/dotfiles-sidebar](https://github.com/mylinuxforwork/dotfiles-sidebar) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
