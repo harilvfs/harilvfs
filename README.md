@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [nodejs/mikeal](https://github.com/nodejs/mikeal) - In light of the the contributions that Mikeal made to Node.js and the larger ecosystem and his recent passing this repository will provide a place for people to contribute their condolences and memories of Mikeal.
 - [LadybirdBrowser/ladybird.org](https://github.com/LadybirdBrowser/ladybird.org) - 
 - [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
 - [tidwall/resp](https://github.com/tidwall/resp) - Reader, Writer, and Server implementation for the Redis RESP Protocol.
-- [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer) - Install dotfiles easy, fast and secure. Or provide an installation application for your dotfiles. 
-- [harilvfs/ratatui-website](https://github.com/harilvfs/ratatui-website) - Ratatui Documentation
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
