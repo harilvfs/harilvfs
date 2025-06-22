@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Longevity is a fleeting moment that lasts forever." - Vidal Sassoon*
+*"I have never let my schooling interfere with my education." - Mark Twain*
 
 
 
-*English: Sunday, 22 June 2025 | Nepali: Sunday, 08 Asar 2082*
+*English: Monday, 23 June 2025 | Nepali: Monday, 09 Asar 2082*
 
 
 </div>
