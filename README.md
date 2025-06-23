@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"I have never let my schooling interfere with my education." - Mark Twain*
+*"Seek not the good in external things;seek it in yourselves." - Epictetus*
 
 
 
-*English: Monday, 23 June 2025 | Nepali: Monday, 09 Asar 2082*
+*English: Tuesday, 24 June 2025 | Nepali: Tuesday, 10 Asar 2082*
 
 
 </div>
