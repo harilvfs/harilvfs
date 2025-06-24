@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Seek not the good in external things;seek it in yourselves." - Epictetus*
+*"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 24 June 2025 | Nepali: Tuesday, 10 Asar 2082*
+*English: Wednesday, 25 June 2025 | Nepali: Wednesday, 11 Asar 2082*
 <!-- DATE_END -->
 
 </div>
