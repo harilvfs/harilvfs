@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [rust-dd/tako](https://github.com/rust-dd/tako) - Tako is a lightweight and minimalistic web framework built on Tokio and Hyper written in Rust.
 - [harilvfs/webvm](https://github.com/harilvfs/webvm) - Virtual Machine for the Web
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [acidburnmonkey/agemo](https://github.com/acidburnmonkey/agemo) - Hyprpaper gui  front end for Hyprland
-- [Jesterhearts/ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
