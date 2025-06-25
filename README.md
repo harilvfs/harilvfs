@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama*
+*"To lose your temper is only useful once a year." - Colin R. Davis*
 
 
 
-*English: Wednesday, 25 June 2025 | Nepali: Wednesday, 11 Asar 2082*
+*English: Thursday, 26 June 2025 | Nepali: Thursday, 12 Asar 2082*
 
 
 </div>
@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
-- [rust-dd/tako](https://github.com/rust-dd/tako) - Tako is a lightweight and minimalistic web framework built on Tokio and Hyper written in Rust.
-- [harilvfs/webvm](https://github.com/harilvfs/webvm) - Virtual Machine for the Web
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [acidburnmonkey/agemo](https://github.com/acidburnmonkey/agemo) - Hyprpaper gui  front end for Hyprland
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
+- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
