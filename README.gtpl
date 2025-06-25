@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The more you are motivated by Love, The more Fearless & Free your action will be." - Dalai Lama*
+*"To lose your temper is only useful once a year." - Colin R. Davis*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 25 June 2025 | Nepali: Wednesday, 11 Asar 2082*
+*English: Thursday, 26 June 2025 | Nepali: Thursday, 12 Asar 2082*
 <!-- DATE_END -->
 
 </div>
