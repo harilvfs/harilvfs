@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To lose your temper is only useful once a year." - Colin R. Davis*
+*"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." - Herbert Hoover*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 26 June 2025 | Nepali: Thursday, 12 Asar 2082*
+*English: Friday, 27 June 2025 | Nepali: Friday, 13 Asar 2082*
 <!-- DATE_END -->
 
 </div>
