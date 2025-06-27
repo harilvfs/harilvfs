@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." - Herbert Hoover*
+*"Choose to be optimistic, it feels better." - Dalai Lama*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 27 June 2025 | Nepali: Friday, 13 Asar 2082*
+*English: Saturday, 28 June 2025 | Nepali: Saturday, 14 Asar 2082*
 <!-- DATE_END -->
 
 </div>
