@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
+- [RohanAdwankar/taskim](https://github.com/RohanAdwankar/taskim) - TUI Task Manager with vim-ish motions
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [vancedapps/rv-manager](https://github.com/vancedapps/rv-manager) - Welcome to RV Manager, your go-to tool for managing RV apps and other modded APKs. RV Manager is inspired by the old popular app named Vanced Manager. We&#39;ve taken the concept and enhanced it to provide you with a seamless experience in managing and updating your favorite apps.
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
