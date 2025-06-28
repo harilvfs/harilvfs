@@ -41,10 +41,10 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [changelog for v5.1.5](https://github.com/harilvfs/carch/pull/506) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [docs: enabling devicon](https://github.com/mylinuxforwork/dotfiles/pull/998) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [docs: hide footer in showcase](https://github.com/mylinuxforwork/dotfiles/pull/997) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [Update docs version to 5.1.5](https://github.com/carch-org/wiki/pull/12) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Update docs version to 5.1.5](https://github.com/carch-org/docs/pull/45) on [carch-org/docs](https://github.com/carch-org/docs)
-- [preview: Updated preview from release v5.1.5](https://github.com/harilvfs/carch/pull/505) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
