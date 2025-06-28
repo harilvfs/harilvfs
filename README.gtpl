@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Choose to be optimistic, it feels better." - Dalai Lama*
+*"Don't hate the player. Change the game." - Steve Harvey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 28 June 2025 | Nepali: Saturday, 14 Asar 2082*
+*English: Sunday, 29 June 2025 | Nepali: Sunday, 15 Asar 2082*
 <!-- DATE_END -->
 
 </div>
