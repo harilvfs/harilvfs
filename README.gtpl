@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Don't hate the player. Change the game." - Steve Harvey*
+*"To become what you are not, behave as you do not." - T.S. Eliot*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 29 June 2025 | Nepali: Sunday, 15 Asar 2082*
+*English: Monday, 30 June 2025 | Nepali: Monday, 16 Asar 2082*
 <!-- DATE_END -->
 
 </div>
