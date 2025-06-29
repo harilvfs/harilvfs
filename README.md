@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't hate the player. Change the game." - Steve Harvey*
+*"To become what you are not, behave as you do not." - T.S. Eliot*
 
 
 
-*English: Sunday, 29 June 2025 | Nepali: Sunday, 15 Asar 2082*
+*English: Monday, 30 June 2025 | Nepali: Monday, 16 Asar 2082*
 
 
 </div>
@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
 - [LouWii/XiaomiADBFastbootTools](https://github.com/LouWii/XiaomiADBFastbootTools) - A simple tool for Xiaomi devices, utilising ADB and Fastboot
 - [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - Easy app for managing your files without ads, respecting your privacy &amp; security
-- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
-- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
