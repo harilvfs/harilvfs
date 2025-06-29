@@ -41,18 +41,18 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
+- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [harilvfs/androidwallpapers](https://github.com/harilvfs/androidwallpapers) - Collection of wallpapers for Mobile devices.
 - [harilvfs/links](https://github.com/harilvfs/links) - Simple link page built using Hugo theme 🔗
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Alberto97/AlwaysOnDisplayToggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - An Android quick setting to toggle Always on Display
+- [BLumia/pineapple-lock-screen](https://github.com/BLumia/pineapple-lock-screen) - Turn the screen off without using the physical power button.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-- [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
-- [LouWii/XiaomiADBFastbootTools](https://github.com/LouWii/XiaomiADBFastbootTools) - A simple tool for Xiaomi devices, utilising ADB and Fastboot
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
