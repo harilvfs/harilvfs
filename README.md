@@ -40,19 +40,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - SwayWM Dotfiles For Arch Linux 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM patches with my custom config 🛠️
-- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-based portfolio site built with React and TypeScript.
+- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - Sway Dotfiles Based on Garuda Linux Sway Edition 
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
+- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-style portfolio site built with React and TypeScript.
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3 window manager Arch &amp; Fedora
+- [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3wm
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [catppuccin/alacritty](https://github.com/catppuccin/alacritty) - 🌴 Soothing pastel theme for Alacritty
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) - package compiler and linker metadata toolkit
 - [kaniini/libucontext](https://github.com/kaniini/libucontext) - ucontext implementation featuring glibc-compatible ABI
 - [kaniini/wayback](https://github.com/kaniini/wayback) - experimental X11 compatibility layer
-- [Alberto97/AlwaysOnDisplayToggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - An Android quick setting to toggle Always on Display
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
