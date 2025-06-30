@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"To become what you are not, behave as you do not." - T.S. Eliot*
+*"There is always room in your life for thinking bigger, pushing limits and imagining the impossible." - Tony Robbins*
 
 
 
-*English: Monday, 30 June 2025 | Nepali: Monday, 16 Asar 2082*
+*English: Tuesday, 01 July 2025 | Nepali: Tuesday, 17 Asar 2082*
 
 
 </div>
@@ -48,19 +48,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/omarchy](https://github.com/harilvfs/omarchy) - Opinionated Arch/Hyprland Setup
 - [X11Libre/ci-images-netbsd](https://github.com/X11Libre/ci-images-netbsd) - CI images for NetBSD targets
 - [X11Libre/ports-gentoo](https://github.com/X11Libre/ports-gentoo) - Xlibre ports / packaging for Gentoo
 - [b-aaz/xlibre-ports](https://github.com/b-aaz/xlibre-ports) - 
 - [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [chore: add MIT license file](https://github.com/basecamp/omarchy/pull/20) on [basecamp/omarchy](https://github.com/basecamp/omarchy)
 - [Update docs version to 5.1.6](https://github.com/carch-org/wiki/pull/13) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Update docs version to 5.1.6](https://github.com/carch-org/docs/pull/46) on [carch-org/docs](https://github.com/carch-org/docs)
 - [preview: Updated preview from release v5.1.6](https://github.com/harilvfs/carch/pull/508) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [changelog for v5.1.6](https://github.com/harilvfs/carch/pull/507) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [changelog for v5.1.5](https://github.com/harilvfs/carch/pull/506) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
