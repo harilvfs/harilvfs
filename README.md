@@ -40,27 +40,27 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - Sway Dotfiles Based on Garuda Linux Sway Edition 
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
-- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-style portfolio site built with React and TypeScript.
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
+- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3wm
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
+- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-style portfolio site built with React and TypeScript.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [X11Libre/ci-images-netbsd](https://github.com/X11Libre/ci-images-netbsd) - CI images for NetBSD targets
+- [X11Libre/ports-gentoo](https://github.com/X11Libre/ports-gentoo) - Xlibre ports / packaging for Gentoo
+- [b-aaz/xlibre-ports](https://github.com/b-aaz/xlibre-ports) - 
 - [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [catppuccin/alacritty](https://github.com/catppuccin/alacritty) - 🌴 Soothing pastel theme for Alacritty
-- [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) - package compiler and linker metadata toolkit
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs version to 5.1.6](https://github.com/carch-org/wiki/pull/13) on [carch-org/wiki](https://github.com/carch-org/wiki)
+- [Update docs version to 5.1.6](https://github.com/carch-org/docs/pull/46) on [carch-org/docs](https://github.com/carch-org/docs)
+- [preview: Updated preview from release v5.1.6](https://github.com/harilvfs/carch/pull/508) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.1.6](https://github.com/harilvfs/carch/pull/507) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [changelog for v5.1.5](https://github.com/harilvfs/carch/pull/506) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [docs: enabling devicon](https://github.com/mylinuxforwork/dotfiles/pull/998) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [docs: hide footer in showcase](https://github.com/mylinuxforwork/dotfiles/pull/997) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [Update docs version to 5.1.5](https://github.com/carch-org/wiki/pull/12) on [carch-org/wiki](https://github.com/carch-org/wiki)
-- [Update docs version to 5.1.5](https://github.com/carch-org/docs/pull/45) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
