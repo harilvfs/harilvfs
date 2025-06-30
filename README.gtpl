@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To become what you are not, behave as you do not." - T.S. Eliot*
+*"There is always room in your life for thinking bigger, pushing limits and imagining the impossible." - Tony Robbins*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 30 June 2025 | Nepali: Monday, 16 Asar 2082*
+*English: Tuesday, 01 July 2025 | Nepali: Tuesday, 17 Asar 2082*
 <!-- DATE_END -->
 
 </div>
