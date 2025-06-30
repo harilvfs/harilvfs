@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) - package compiler and linker metadata toolkit
+- [kaniini/libucontext](https://github.com/kaniini/libucontext) - ucontext implementation featuring glibc-compatible ABI
+- [kaniini/wayback](https://github.com/kaniini/wayback) - experimental X11 compatibility layer
 - [Alberto97/AlwaysOnDisplayToggle](https://github.com/Alberto97/AlwaysOnDisplayToggle) - An Android quick setting to toggle Always on Display
 - [BLumia/pineapple-lock-screen](https://github.com/BLumia/pineapple-lock-screen) - Turn the screen off without using the physical power button.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
-- [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
