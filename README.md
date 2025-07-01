@@ -41,10 +41,10 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [harilvfs/swaydotfiles](https://github.com/harilvfs/swaydotfiles) - Sway Dotfiles Based on Garuda Linux Sway Edition 
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [harilvfs/web](https://github.com/harilvfs/web) - Terminal-style portfolio site built with React and TypeScript.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
