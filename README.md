@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"There is always room in your life for thinking bigger, pushing limits and imagining the impossible." - Tony Robbins*
+*"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop." - Mother Teresa*
 
 
 
-*English: Tuesday, 01 July 2025 | Nepali: Tuesday, 17 Asar 2082*
+*English: Wednesday, 02 July 2025 | Nepali: Wednesday, 18 Asar 2082*
 
 
 </div>
