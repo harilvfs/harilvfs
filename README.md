@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Abhra00/suckless-flexi](https://github.com/Abhra00/suckless-flexi) - 
 - [harilvfs/omarchy](https://github.com/harilvfs/omarchy) - Opinionated Arch/Hyprland Setup
 - [X11Libre/ci-images-netbsd](https://github.com/X11Libre/ci-images-netbsd) - CI images for NetBSD targets
 - [X11Libre/ports-gentoo](https://github.com/X11Libre/ports-gentoo) - Xlibre ports / packaging for Gentoo
 - [b-aaz/xlibre-ports](https://github.com/b-aaz/xlibre-ports) - 
-- [yargs/yargs](https://github.com/yargs/yargs) -  yargs the modern, pirate-themed successor to optimist.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
