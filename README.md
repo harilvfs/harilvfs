@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [feat(setup): remove i3wm &amp; sway setup scripts from tui](https://github.com/harilvfs/carch/pull/510) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [chore: add MIT license file](https://github.com/basecamp/omarchy/pull/20) on [basecamp/omarchy](https://github.com/basecamp/omarchy)
 - [Update docs version to 5.1.6](https://github.com/carch-org/wiki/pull/13) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Update docs version to 5.1.6](https://github.com/carch-org/docs/pull/46) on [carch-org/docs](https://github.com/carch-org/docs)
 - [preview: Updated preview from release v5.1.6](https://github.com/harilvfs/carch/pull/508) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [changelog for v5.1.6](https://github.com/harilvfs/carch/pull/507) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
