@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop." - Mother Teresa*
+*"I am not absentminded. It is the presence of mind that makes me unaware of everything else." - Gilbert Chesterton*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 02 July 2025 | Nepali: Wednesday, 18 Asar 2082*
+*English: Thursday, 03 July 2025 | Nepali: Thursday, 19 Asar 2082*
 <!-- DATE_END -->
 
 </div>
