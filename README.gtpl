@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I am not absentminded. It is the presence of mind that makes me unaware of everything else." - Gilbert Chesterton*
+*"All leaders are readers." - Jim Rohn*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 03 July 2025 | Nepali: Thursday, 19 Asar 2082*
+*English: Friday, 04 July 2025 | Nepali: Friday, 20 Asar 2082*
 <!-- DATE_END -->
 
 </div>
