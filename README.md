@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Limak15/limos](https://github.com/Limak15/limos) - 
+- [flashthb/Hyprland-Gruvbox](https://github.com/flashthb/Hyprland-Gruvbox) - A theme based on other Gruvbox creations to be able to modify and create some good dotfiles.
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio&#39;s FIGlet tree
 - [probonopd/LIVEstep](https://github.com/probonopd/LIVEstep) - Experimental Live ISO based on FreeBSD with GNUstep and other components.
-- [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) - Files important enough for version control
-- [Abhra00/suckless-flexi](https://github.com/Abhra00/suckless-flexi) - 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
