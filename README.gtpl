@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"All leaders are readers." - Jim Rohn*
+*"You can't get to a place that you don't believe exists." - Unknown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 04 July 2025 | Nepali: Friday, 20 Asar 2082*
+*English: Saturday, 05 July 2025 | Nepali: Saturday, 21 Asar 2082*
 <!-- DATE_END -->
 
 </div>
