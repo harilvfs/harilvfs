@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can't get to a place that you don't believe exists." - Unknown*
+*"Fishing is much more than fish." - Herbert Hoover*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 05 July 2025 | Nepali: Saturday, 21 Asar 2082*
+*English: Sunday, 06 July 2025 | Nepali: Sunday, 22 Asar 2082*
 <!-- DATE_END -->
 
 </div>
