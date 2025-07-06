@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Fishing is much more than fish." - Herbert Hoover*
+*"The less you open your heart to others, the more your heart suffers." - Deepak Chopra*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 06 July 2025 | Nepali: Sunday, 22 Asar 2082*
+*English: Monday, 07 July 2025 | Nepali: Monday, 23 Asar 2082*
 <!-- DATE_END -->
 
 </div>
