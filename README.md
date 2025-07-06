@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [docs: fix typo](https://github.com/mylinuxforwork/dotfiles/pull/1014) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [refactor(ui): new tui design](https://github.com/harilvfs/carch/pull/515) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat(ui): change fullscreen preview to a popup](https://github.com/harilvfs/carch/pull/514) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [docs(readme): cleanup](https://github.com/mylinuxforwork/dotfiles-installer/pull/5) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
 - [feat(script): add check for git](https://github.com/mylinuxforwork/dotfiles-installer/pull/4) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
-- [fix(docs): typos styling and layout](https://github.com/mylinuxforwork/dotfiles-installer/pull/3) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
