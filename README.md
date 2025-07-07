@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [docs: fix nwg-displays install guide on fedora](https://github.com/mylinuxforwork/dotfiles/pull/1016) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [docs: fix typo](https://github.com/mylinuxforwork/dotfiles/pull/1014) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-- [refactor(ui): new tui design](https://github.com/harilvfs/carch/pull/515) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat(ui): change fullscreen preview to a popup](https://github.com/harilvfs/carch/pull/514) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [docs(readme): cleanup](https://github.com/mylinuxforwork/dotfiles-installer/pull/5) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
+- [Update docs version to 5.2.1](https://github.com/carch-org/wiki/pull/16) on [carch-org/wiki](https://github.com/carch-org/wiki)
+- [Update docs version to 5.2.1](https://github.com/carch-org/docs/pull/49) on [carch-org/docs](https://github.com/carch-org/docs)
+- [preview: Updated preview from release v5.2.1](https://github.com/harilvfs/carch/pull/521) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.2.1](https://github.com/harilvfs/carch/pull/520) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [preview: Updated preview from release v5.2.1-pre](https://github.com/harilvfs/carch/pull/519) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
