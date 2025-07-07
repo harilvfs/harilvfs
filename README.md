@@ -40,11 +40,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.
 - [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-style portfolio site built with React and TypeScript.
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site built with React &amp; TypeScript.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [docs: fix nwg-displays install guide on fedora](https://github.com/mylinuxforwork/dotfiles/pull/1016) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [docs: fix typo](https://github.com/mylinuxforwork/dotfiles/pull/1014) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [refactor(ui): new tui design](https://github.com/harilvfs/carch/pull/515) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat(ui): change fullscreen preview to a popup](https://github.com/harilvfs/carch/pull/514) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [docs(readme): cleanup](https://github.com/mylinuxforwork/dotfiles-installer/pull/5) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
-- [feat(script): add check for git](https://github.com/mylinuxforwork/dotfiles-installer/pull/4) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
