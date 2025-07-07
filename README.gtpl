@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The less you open your heart to others, the more your heart suffers." - Deepak Chopra*
+*"I wasn't brave, I just didn't have time to be scared." - Amelia Earhart*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 07 July 2025 | Nepali: Monday, 23 Asar 2082*
+*English: Tuesday, 08 July 2025 | Nepali: Tuesday, 24 Asar 2082*
 <!-- DATE_END -->
 
 </div>
