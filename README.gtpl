@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I wasn't brave, I just didn't have time to be scared." - Amelia Earhart*
+*"You are always your own best guru, your own best teacher, the answers are always inside you." - Sathya Sai Baba*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 08 July 2025 | Nepali: Tuesday, 24 Asar 2082*
+*English: Wednesday, 09 July 2025 | Nepali: Wednesday, 25 Asar 2082*
 <!-- DATE_END -->
 
 </div>
