@@ -48,19 +48,19 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk
 - [Appaxaap/Focus](https://github.com/Appaxaap/Focus) - Offline-first Eisenhower Matrix productivity app
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [harilvfs/dotfiles-installer](https://github.com/harilvfs/dotfiles-installer) - Install dotfiles easy, fast and secure. Or provide an installation application for your dotfiles. 
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [fix: typos changelog](https://github.com/mylinuxforwork/dotfiles/pull/1025) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [fix(docs): typo](https://github.com/mylinuxforwork/dotfiles/pull/1020) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [ci: add typo checker](https://github.com/mylinuxforwork/dotfiles-installer/pull/6) on [mylinuxforwork/dotfiles-installer](https://github.com/mylinuxforwork/dotfiles-installer)
 - [ci: add typo checker](https://github.com/mylinuxforwork/dotfiles/pull/1019) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 - [Update docs version to 5.2.1](https://github.com/carch-org/wiki/pull/16) on [carch-org/wiki](https://github.com/carch-org/wiki)
-- [Update docs version to 5.2.1](https://github.com/carch-org/docs/pull/49) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
