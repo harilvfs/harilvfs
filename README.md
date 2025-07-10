@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Walking with a friend in the dark is better than walking alone in the light." - Helen Keller*
+*"It's your outlook on life that counts." - Betty White*
 
 
 
-*English: Thursday, 10 July 2025 | Nepali: Thursday, 26 Asar 2082*
+*English: Friday, 11 July 2025 | Nepali: Friday, 27 Asar 2082*
 
 
 </div>
