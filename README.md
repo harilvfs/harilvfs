@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [Appaxaap/Focus](https://github.com/Appaxaap/Focus) - Offline-first Eisenhower Matrix productivity app
+- [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [harilvfs/dotfiles-installer](https://github.com/harilvfs/dotfiles-installer) - Install dotfiles easy, fast and secure. Or provide an installation application for your dotfiles. 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [Limak15/limos](https://github.com/Limak15/limos) - 
-- [flashthb/Hyprland-Gruvbox](https://github.com/flashthb/Hyprland-Gruvbox) - A theme based on other Gruvbox creations to be able to modify and create some good dotfiles.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
