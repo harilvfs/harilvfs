@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It is better to fail in originality than to succeed in imitation." - Herman Melville*
+*"The person who cannot control his words shows that he cannot control himself." - Robert Greene*
 
 
 
-*English: Saturday, 12 July 2025 | Nepali: Saturday, 28 Asar 2082*
+*English: Sunday, 13 July 2025 | Nepali: Sunday, 29 Asar 2082*
 
 
 </div>
