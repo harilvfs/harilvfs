@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [feat: initial support for opensuse](https://github.com/harilvfs/carch/pull/524) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update docs version to 5.2.2](https://github.com/carch-org/wiki/pull/17) on [carch-org/wiki](https://github.com/carch-org/wiki)
 - [Update docs version to 5.2.2](https://github.com/carch-org/docs/pull/50) on [carch-org/docs](https://github.com/carch-org/docs)
 - [preview: Updated preview from release v5.2.2](https://github.com/harilvfs/carch/pull/523) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [changelog for v5.2.2](https://github.com/harilvfs/carch/pull/522) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [fix: mistyped app launchur](https://github.com/mylinuxforwork/dotfiles/pull/1028) on [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
