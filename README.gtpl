@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The person who cannot control his words shows that he cannot control himself." - Robert Greene*
+*"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind." - F. Scott Fitzgerald*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 13 July 2025 | Nepali: Sunday, 29 Asar 2082*
+*English: Monday, 14 July 2025 | Nepali: Monday, 30 Asar 2082*
 <!-- DATE_END -->
 
 </div>
