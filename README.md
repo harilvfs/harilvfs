@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [developedbyed/marko.nvim](https://github.com/developedbyed/marko.nvim) - 
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [carch-org/carch](https://github.com/carch-org/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩 [ This repo is only for testing purpose ]
 - [senzenn/rust-dice](https://github.com/senzenn/rust-dice) - 
 - [tsoding/nothing](https://github.com/tsoding/nothing) - A simple platformer about nothing
-- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
