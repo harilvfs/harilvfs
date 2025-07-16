@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Anger begins with folly, and ends with repentance. " - Beverly Sills*
+*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 16 July 2025 | Nepali: Wednesday, 32 Asar 2082*
+*English: Thursday, 17 July 2025 | Nepali: Thursday, 01 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
