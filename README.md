@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison*
+*"If you believe you can, you can. If you believe you can't, then, well you can't." - Celestine Chua*
 
 
 
-*English: Thursday, 17 July 2025 | Nepali: Thursday, 01 Shrawan 2082*
+*English: Friday, 18 July 2025 | Nepali: Friday, 02 Shrawan 2082*
 
 
 </div>
