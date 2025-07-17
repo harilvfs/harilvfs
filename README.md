@@ -52,7 +52,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [developedbyed/marko.nvim](https://github.com/developedbyed/marko.nvim) - 
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-- [carch-org/carch](https://github.com/carch-org/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩 [ This repo is only for testing purpose ]
+- [carch-org/carch](https://github.com/carch-org/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩 [ This repo is only for testing purpose ]. Check official repo https://github.com/harilvfs/carch
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
