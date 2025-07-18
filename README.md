@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If you believe you can, you can. If you believe you can't, then, well you can't." - Celestine Chua*
+*"Love is not about possession. Love is about appreciation." - Osho*
 
 
 
-*English: Friday, 18 July 2025 | Nepali: Friday, 02 Shrawan 2082*
+*English: Saturday, 19 July 2025 | Nepali: Saturday, 03 Shrawan 2082*
 
 
 </div>
