@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Love is not about possession. Love is about appreciation." - Osho*
+*"A change is brought about because ordinary people do extraordinary things." - Barack Obama*
 
 
 
-*English: Saturday, 19 July 2025 | Nepali: Saturday, 03 Shrawan 2082*
+*English: Sunday, 20 July 2025 | Nepali: Sunday, 04 Shrawan 2082*
 
 
 </div>
