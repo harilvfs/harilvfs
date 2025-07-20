@@ -56,7 +56,7 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
-- [test](https://github.com/harilvfs/carch/pull/530) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [feat(tui): run scripts inside popup tui using portable pty](https://github.com/harilvfs/carch/pull/530) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [adding xtask](https://github.com/carch-org/docs/pull/53) on [carch-org/docs](https://github.com/carch-org/docs)
 - [chore: update commands](https://github.com/carch-org/docs/pull/52) on [carch-org/docs](https://github.com/carch-org/docs)
 - [Update docs version to 5.2.3](https://github.com/carch-org/docs/pull/51) on [carch-org/docs](https://github.com/carch-org/docs)
