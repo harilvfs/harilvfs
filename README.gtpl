@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A change is brought about because ordinary people do extraordinary things." - Barack Obama*
+*"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold." - Chinese Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 20 July 2025 | Nepali: Sunday, 04 Shrawan 2082*
+*English: Monday, 21 July 2025 | Nepali: Monday, 05 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
