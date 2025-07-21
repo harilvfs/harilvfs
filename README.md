@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold." - Chinese Proverb*
+*"What is a friend? A single soul dwelling in two bodies." - Aristotle*
 
 
 
-*English: Monday, 21 July 2025 | Nepali: Monday, 05 Shrawan 2082*
+*English: Tuesday, 22 July 2025 | Nepali: Tuesday, 06 Shrawan 2082*
 
 
 </div>
