@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"What is a friend? A single soul dwelling in two bodies." - Aristotle*
+*"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!" - Tony Robbins*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 22 July 2025 | Nepali: Tuesday, 06 Shrawan 2082*
+*English: Wednesday, 23 July 2025 | Nepali: Wednesday, 07 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
