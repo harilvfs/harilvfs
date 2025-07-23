@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!" - Tony Robbins*
+*"Not all readers are leaders, but all leaders are readers." - Harry S. Truman*
 
 
 
-*English: Wednesday, 23 July 2025 | Nepali: Wednesday, 07 Shrawan 2082*
+*English: Thursday, 24 July 2025 | Nepali: Thursday, 08 Shrawan 2082*
 
 
 </div>
@@ -42,9 +42,9 @@
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch Package Builds 📦
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
 - [harilvfs/web](https://github.com/harilvfs/web) - Terminal-style portfolio site built with React and TypeScript.
-- [carch-org/wiki](https://github.com/carch-org/wiki) - Carch Wiki ⭐ Built with Starlight &amp; Astro
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [preview: Updated preview from release v5.2.4](https://github.com/harilvfs/carch/pull/534) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.2.4](https://github.com/harilvfs/carch/pull/533) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [Update docs version to 5.2.4](https://github.com/carch-org/docs/pull/57) on [carch-org/docs](https://github.com/carch-org/docs)
 - [ui: redesign docs with TUI-inspired style](https://github.com/carch-org/docs/pull/56) on [carch-org/docs](https://github.com/carch-org/docs)
 - [chore: update progress](https://github.com/carch-org/docs/pull/55) on [carch-org/docs](https://github.com/carch-org/docs)
-- [feat: removing fzf deps](https://github.com/carch-org/pkgs/pull/18) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
-- [feat: removing fzf deps](https://github.com/carch-org/docs/pull/54) on [carch-org/docs](https://github.com/carch-org/docs)
-- [feat(tui): run scripts inside popup tui using portable pty](https://github.com/harilvfs/carch/pull/530) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
