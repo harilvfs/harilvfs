@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [ui: redesign docs with TUI-inspired style](https://github.com/carch-org/docs/pull/56) on [carch-org/docs](https://github.com/carch-org/docs)
 - [chore: update progress](https://github.com/carch-org/docs/pull/55) on [carch-org/docs](https://github.com/carch-org/docs)
 - [feat: removing fzf deps](https://github.com/carch-org/pkgs/pull/18) on [carch-org/pkgs](https://github.com/carch-org/pkgs)
 - [feat: removing fzf deps](https://github.com/carch-org/docs/pull/54) on [carch-org/docs](https://github.com/carch-org/docs)
 - [feat(tui): run scripts inside popup tui using portable pty](https://github.com/harilvfs/carch/pull/530) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [adding xtask](https://github.com/carch-org/docs/pull/53) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
