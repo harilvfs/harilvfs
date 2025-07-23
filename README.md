@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [shreyash0x3/dotfiles-web](https://github.com/shreyash0x3/dotfiles-web) - 
 - [arrowpc/palettum](https://github.com/arrowpc/palettum) - Web app and CLI tool that lets you recolor images, GIFs, and videos with any custom palette of your choosing
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
-- [OpenCut-app/ffmpeg-rust](https://github.com/OpenCut-app/ffmpeg-rust) - ffmpeg-rust
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
