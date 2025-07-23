@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.63m added, 5.03m removed
+                                    8.01m added, 6.48m removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    767 views in last two weeks
+                                    763 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -254,13 +254,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/web</span>
+                            <span class="diff-handle">harilvfs/hyprland</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/dwm</span>
+                            <span class="diff-handle">harilvfs/carch</span>
                         </div>
                     </section>
                     <section>
@@ -295,8 +295,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +133k</span>
-                                <span class="deleted">  -148k</span>
+                                <span class="added"> +1.06m</span>
+                                <span class="deleted"> -1.16m</span>
                             </div>
                             <span> </span>
                         </div>
@@ -307,8 +307,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +70.5k</span>
-                                <span class="deleted"> -28.5k</span>
+                                <span class="added">  +526k</span>
+                                <span class="deleted">  -446k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -374,20 +374,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.07mb of code in 825 edited files across 467 commits over last 10 days</small>
+                <small>estimation from 1.04mb of code in 770 edited files across 433 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="613.1145391137135" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="613.1145391137135" y="0" width="274.17728786898164" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="887.2918269826952" y="0" width="15.926656372466582" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="903.2184833551618" y="0" width="10.949087876116266" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="914.167571231278" y="0" width="3.5053959614799868" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="917.6729671927579" y="0" width="1.7300371508508003" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="919.4030043436088" y="0" width="0.3656989099359415" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="919.7687032535447" y="0" width="0.2312967464552109" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="608.0185748321421" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="608.0185748321421" y="0" width="279.77086419753084" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="887.789439029673" y="0" width="16.24556205328135" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="904.0350010829542" y="0" width="11.168325752653239" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="915.2033268356075" y="0" width="3.5755858782759367" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="918.7789127138834" y="0" width="0.6121377517868746" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="919.3910504656702" y="0" width="0.3730214424951267" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="919.7640719081654" y="0" width="0.23592809183452457" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -787,8 +787,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                                <text x="60" y="60" dominant-baseline="central">93</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
+                                <text x="60" y="60" dominant-baseline="central">92</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2030,12 +2030,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#530 test</span>
+                                        <span class="issue">#18 feat: removing fzf deps</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">harilvfs/carch</span></div>
-                                    <div>11 files changed <span class="code">++519 --154</span></div>
+                                    <div> in <span class="repo">carch-org/pkgs</span></div>
+                                    <div>3 files changed <span class="code">++0 --9</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2048,9 +2048,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">tui</span>
+                                        <span class="code">deps</span>
                                         in
-                                        <span class="repo">harilvfs/carch</span>
+                                        <span class="repo">carch-org/pkgs</span>
                                     </div>
                                 </div>
                             </section>
@@ -2063,12 +2063,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#53 adding xtask</span>
+                                        <span class="issue">#54 feat: removing fzf deps</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">carch-org/docs</span></div>
-                                    <div>10 files changed <span class="code">++20 --20</span></div>
+                                    <div>10 files changed <span class="code">++30 --30</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2081,7 +2081,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">xtask</span>
+                                        <span class="code">deps</span>
                                         in
                                         <span class="repo">carch-org/docs</span>
                                     </div>
@@ -2096,12 +2096,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#52 chore: update commands</span>
+                                        <span class="issue">#530 test</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">carch-org/docs</span></div>
-                                    <div>20 files changed <span class="code">++130 --101</span></div>
+                                    <div> in <span class="repo">harilvfs/carch</span></div>
+                                    <div>11 files changed <span class="code">++519 --154</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2269,7 +2269,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2025, 10:25:46 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2025, 11:12:19 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
