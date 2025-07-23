@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!" - Tony Robbins*
+*"Not all readers are leaders, but all leaders are readers." - Harry S. Truman*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 23 July 2025 | Nepali: Wednesday, 07 Shrawan 2082*
+*English: Thursday, 24 July 2025 | Nepali: Thursday, 08 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
