@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Not all readers are leaders, but all leaders are readers." - Harry S. Truman*
+*"Life is a journey, not a destination." - Dan Millman*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 24 July 2025 | Nepali: Thursday, 08 Shrawan 2082*
+*English: Friday, 25 July 2025 | Nepali: Friday, 09 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
