@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is a journey, not a destination." - Dan Millman*
+*"Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 25 July 2025 | Nepali: Friday, 09 Shrawan 2082*
+*English: Saturday, 26 July 2025 | Nepali: Saturday, 10 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
