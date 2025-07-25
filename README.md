@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [harilvfs/mado](https://github.com/harilvfs/mado) - A fast Markdown linter written in Rust.
 - [akiomik/seiun](https://github.com/akiomik/seiun) - An experimental ATP/Bluesky client app for Android
 - [akiomik/hubot-chatwork](https://github.com/akiomik/hubot-chatwork) - A hubot adapter for chatwork
 - [akiomik/nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr
 - [akiomik/vimeo-dl](https://github.com/akiomik/vimeo-dl) - A cli tool to download private videos on vimeo. Written in golang.
-- [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
