@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [libsugar/tuplers](https://github.com/libsugar/tuplers) - Provides many useful tools related to tuples
 - [panter-dsd/tatuin](https://github.com/panter-dsd/tatuin) - Tatuin (Task Aggregator TUI for N providers)
 - [harilvfs/vitepress-theme-tui](https://github.com/harilvfs/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [harilvfs/mado](https://github.com/harilvfs/mado) - A fast Markdown linter written in Rust.
-- [akiomik/seiun](https://github.com/akiomik/seiun) - An experimental ATP/Bluesky client app for Android
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
