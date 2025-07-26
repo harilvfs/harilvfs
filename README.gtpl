@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino*
+*"Tradition is the illusion of permanence. " - Woody Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 26 July 2025 | Nepali: Saturday, 10 Shrawan 2082*
+*English: Sunday, 27 July 2025 | Nepali: Sunday, 11 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
