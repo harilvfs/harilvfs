@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Tradition is the illusion of permanence. " - Woody Allen*
+*"The difference between treason and patriotism is only a matter of dates." - Alexandre Dumas*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 27 July 2025 | Nepali: Sunday, 11 Shrawan 2082*
+*English: Monday, 28 July 2025 | Nepali: Monday, 12 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
