@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Tradition is the illusion of permanence. " - Woody Allen*
+*"The difference between treason and patriotism is only a matter of dates." - Alexandre Dumas*
 
 
 
-*English: Sunday, 27 July 2025 | Nepali: Sunday, 11 Shrawan 2082*
+*English: Monday, 28 July 2025 | Nepali: Monday, 12 Shrawan 2082*
 
 
 </div>
@@ -40,10 +40,10 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/web](https://github.com/harilvfs/web) - PPS
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
