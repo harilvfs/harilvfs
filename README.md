@@ -40,11 +40,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch Package Builds 📦
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site
 - [harilvfs/web](https://github.com/harilvfs/web) - PPS
-- [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs version to 5.2.5](https://github.com/carch-org/docs/pull/60) on [carch-org/docs](https://github.com/carch-org/docs)
+- [preview: Updated preview from release v5.2.5](https://github.com/harilvfs/carch/pull/540) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.2.5](https://github.com/harilvfs/carch/pull/539) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: remove all shenanigans](https://github.com/harilvfs/blog-site/pull/14) on [harilvfs/blog-site](https://github.com/harilvfs/blog-site)
 - [feat(tui): add scrolling to description popup](https://github.com/harilvfs/carch/pull/538) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat: add description functionality for scripts](https://github.com/harilvfs/carch/pull/537) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [docs: add install guide for bun](https://github.com/enzonotario/vitepress-theme-tui/pull/1) on [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui)
-- [docs(readme): add install guide for archlinux](https://github.com/akiomik/mado/pull/186) on [akiomik/mado](https://github.com/akiomik/mado)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
