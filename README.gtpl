@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The difference between treason and patriotism is only a matter of dates." - Alexandre Dumas*
+*"Better to live until you die." - Dan Millman*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 28 July 2025 | Nepali: Monday, 12 Shrawan 2082*
+*English: Tuesday, 29 July 2025 | Nepali: Tuesday, 13 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
