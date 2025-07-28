@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [feat: adding new commands](https://github.com/carch-org/docs/pull/62) on [carch-org/docs](https://github.com/carch-org/docs)
+- [feat(commands): add cli commands for theme selection](https://github.com/harilvfs/carch/pull/542) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat(ui): implement theme switching 🌈](https://github.com/harilvfs/carch/pull/541) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [Update docs version to 5.2.5](https://github.com/carch-org/docs/pull/60) on [carch-org/docs](https://github.com/carch-org/docs)
 - [preview: Updated preview from release v5.2.5](https://github.com/harilvfs/carch/pull/540) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [changelog for v5.2.5](https://github.com/harilvfs/carch/pull/539) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: remove all shenanigans](https://github.com/harilvfs/blog-site/pull/14) on [harilvfs/blog-site](https://github.com/harilvfs/blog-site)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
