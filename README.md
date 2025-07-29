@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [JoshuaPostel/texaform](https://github.com/JoshuaPostel/texaform) - A factory game automated by your code
 - [stabldev/torrra](https://github.com/stabldev/torrra) - A Python tool that lets you find and download torrents without leaving your CLI. 
 - [es-js/esjs](https://github.com/es-js/esjs) - JavaScript con sintaxis en Español | Lenguaje de programación en Español basado en JavaScript
 - [eu-digital-identity-wallet/av-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/av-app-android-wallet-ui) - 
 - [trflynn89/libfly](https://github.com/trflynn89/libfly) - C&#43;&#43; utility library
-- [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
