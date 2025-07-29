@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Better to live until you die." - Dan Millman*
+*"It's wise to tell the truth. It's even wiser to tell it kindly." - Maxime Lagace*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 29 July 2025 | Nepali: Tuesday, 13 Shrawan 2082*
+*English: Wednesday, 30 July 2025 | Nepali: Wednesday, 14 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
