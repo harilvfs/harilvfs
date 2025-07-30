@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It's wise to tell the truth. It's even wiser to tell it kindly." - Maxime Lagace*
+*"It isn't that they can't see the solution. It is that they can't see the problem." - Gilbert Chesterton*
 
 
 
-*English: Wednesday, 30 July 2025 | Nepali: Wednesday, 14 Shrawan 2082*
+*English: Thursday, 31 July 2025 | Nepali: Thursday, 15 Shrawan 2082*
 
 
 </div>
@@ -40,11 +40,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
+- [harilvfs/blog-site](https://github.com/harilvfs/blog-site) - Simple blog site
+- [harilvfs/web](https://github.com/harilvfs/web) - PPS
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
@@ -56,11 +56,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [refactor: redoing the whole site](https://github.com/harilvfs/blog-site/pull/15) on [harilvfs/blog-site](https://github.com/harilvfs/blog-site)
 - [feat: add themes](https://github.com/carch-org/docs/pull/63) on [carch-org/docs](https://github.com/carch-org/docs)
 - [feat: adding new commands](https://github.com/carch-org/docs/pull/62) on [carch-org/docs](https://github.com/carch-org/docs)
 - [feat(commands): add cli commands for theme selection](https://github.com/harilvfs/carch/pull/542) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [feat(ui): implement theme switching 🌈](https://github.com/harilvfs/carch/pull/541) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update docs version to 5.2.5](https://github.com/carch-org/docs/pull/60) on [carch-org/docs](https://github.com/carch-org/docs)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
