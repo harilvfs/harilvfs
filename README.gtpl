@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It's wise to tell the truth. It's even wiser to tell it kindly." - Maxime Lagace*
+*"It isn't that they can't see the solution. It is that they can't see the problem." - Gilbert Chesterton*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 30 July 2025 | Nepali: Wednesday, 14 Shrawan 2082*
+*English: Thursday, 31 July 2025 | Nepali: Thursday, 15 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
