@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
+- [SeaDve/Noteworthy](https://github.com/SeaDve/Noteworthy) - Modern, Fast, and Version-Controlled Markdown Notes App
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [sst/opentui](https://github.com/sst/opentui) - 
-- [TripleRestriction/bspwmPhysics](https://github.com/TripleRestriction/bspwmPhysics) - Janky physics written for bspwm.
-- [ajdlinux/PRBot](https://github.com/ajdlinux/PRBot) - 
-- [penberg/awesome-os](https://github.com/penberg/awesome-os) - A curated list of resources on operating system design and implementation.
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
