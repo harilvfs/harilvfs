@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [sst/opentui](https://github.com/sst/opentui) - 
+- [TripleRestriction/bspwmPhysics](https://github.com/TripleRestriction/bspwmPhysics) - Janky physics written for bspwm.
 - [ajdlinux/PRBot](https://github.com/ajdlinux/PRBot) - 
 - [penberg/awesome-os](https://github.com/penberg/awesome-os) - A curated list of resources on operating system design and implementation.
-- [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
-- [subsurface/libdc](https://github.com/subsurface/libdc) - Subsurface version of libdivecomputer, upstream at github.com/libdivecomputer/libdivecomputer
-- [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
