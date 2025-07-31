@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It isn't that they can't see the solution. It is that they can't see the problem." - Gilbert Chesterton*
+*"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi*
 
 
 
-*English: Thursday, 31 July 2025 | Nepali: Thursday, 15 Shrawan 2082*
+*English: Friday, 01 August 2025 | Nepali: Friday, 16 Shrawan 2082*
 
 
 </div>
@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [webtui/webtui](https://github.com/webtui/webtui) - 
+- [IroncladDev/dotfiles](https://github.com/IroncladDev/dotfiles) - My dotfiles
 - [shanejonas/jsonrpc-debugger](https://github.com/shanejonas/jsonrpc-debugger) - A terminal-based TUI JSON-RPC debugger with interception capabilities, built with Rust and ratatui. Inspect, modify, and debug JSON-RPC requests and responses in real-time.
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android 
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
-- [shorya-1012/rstop](https://github.com/shorya-1012/rstop) - A simple TUI that graphs system memory and cpu usage
-- [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - ⌨️ Minimal terminal-based typing speed test
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
