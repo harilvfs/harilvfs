@@ -44,23 +44,23 @@
 - [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
 - [harilvfs/web](https://github.com/harilvfs/web) - PPS
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
+- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch Package Builds 📦
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [shanejonas/jsonrpc-debugger](https://github.com/shanejonas/jsonrpc-debugger) - A terminal-based TUI JSON-RPC debugger with interception capabilities, built with Rust and ratatui. Inspect, modify, and debug JSON-RPC requests and responses in real-time.
 - [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android 
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [shorya-1012/rstop](https://github.com/shorya-1012/rstop) - A simple TUI that graphs system memory and cpu usage
 - [ashish0kumar/typtea](https://github.com/ashish0kumar/typtea) - ⌨️ Minimal terminal-based typing speed test
-- [akinoiro/ssh-list](https://github.com/akinoiro/ssh-list) - 🧑‍💻 SSH connection manager with a TUI interface
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
+- [Update docs version to 5.2.6](https://github.com/carch-org/docs/pull/64) on [carch-org/docs](https://github.com/carch-org/docs)
+- [preview: Updated preview from release v5.2.6](https://github.com/harilvfs/carch/pull/546) on [harilvfs/carch](https://github.com/harilvfs/carch)
+- [changelog for v5.2.6](https://github.com/harilvfs/carch/pull/545) on [harilvfs/carch](https://github.com/harilvfs/carch)
 - [refactor: redoing the whole site](https://github.com/harilvfs/blog-site/pull/15) on [harilvfs/blog-site](https://github.com/harilvfs/blog-site)
 - [feat: add themes](https://github.com/carch-org/docs/pull/63) on [carch-org/docs](https://github.com/carch-org/docs)
-- [feat: adding new commands](https://github.com/carch-org/docs/pull/62) on [carch-org/docs](https://github.com/carch-org/docs)
-- [feat(commands): add cli commands for theme selection](https://github.com/harilvfs/carch/pull/542) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [feat(ui): implement theme switching 🌈](https://github.com/harilvfs/carch/pull/541) on [harilvfs/carch](https://github.com/harilvfs/carch)
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
