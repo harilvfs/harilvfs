@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It isn't that they can't see the solution. It is that they can't see the problem." - Gilbert Chesterton*
+*"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 31 July 2025 | Nepali: Thursday, 15 Shrawan 2082*
+*English: Friday, 01 August 2025 | Nepali: Friday, 16 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
