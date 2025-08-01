@@ -48,11 +48,11 @@
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [binnewbs/arch-hyprland](https://github.com/binnewbs/arch-hyprland) - My personal hyprland rice dotfiles
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [IroncladDev/dotfiles](https://github.com/IroncladDev/dotfiles) - My dotfiles
 - [shanejonas/jsonrpc-debugger](https://github.com/shanejonas/jsonrpc-debugger) - A terminal-based TUI JSON-RPC debugger with interception capabilities, built with Rust and ratatui. Inspect, modify, and debug JSON-RPC requests and responses in real-time.
-- [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android 
 
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
 
