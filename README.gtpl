@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi*
+*"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 01 August 2025 | Nepali: Friday, 16 Shrawan 2082*
+*English: Saturday, 02 August 2025 | Nepali: Saturday, 17 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
