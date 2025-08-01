@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi*
+*"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln*
 
 
 
-*English: Friday, 01 August 2025 | Nepali: Friday, 16 Shrawan 2082*
+*English: Saturday, 02 August 2025 | Nepali: Saturday, 17 Shrawan 2082*
 
 
 </div>
@@ -41,8 +41,8 @@
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
 
 - [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
+- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
 - [harilvfs/i3wmdotfiles](https://github.com/harilvfs/i3wmdotfiles) - Dotfiles for the i3wm
 
