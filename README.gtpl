@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln*
+*"A good character is the best tombstone. Carve your name on hearts, not on marble." - Charles Spurgeon*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 02 August 2025 | Nepali: Saturday, 17 Shrawan 2082*
+*English: Sunday, 03 August 2025 | Nepali: Sunday, 18 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
