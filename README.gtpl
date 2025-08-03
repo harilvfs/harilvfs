@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A good character is the best tombstone. Carve your name on hearts, not on marble." - Charles Spurgeon*
+*"The more often a stupidity is repeated, the more it gets the appearance of wisdom." - Voltaire*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 03 August 2025 | Nepali: Sunday, 18 Shrawan 2082*
+*English: Monday, 04 August 2025 | Nepali: Monday, 19 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
