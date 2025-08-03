@@ -32,30 +32,6 @@
 
 
 
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif' width="30"> Currently working on: </strong>
-
-- [harilvfs/assets](https://github.com/harilvfs/assets) - Storing images &amp; stuffs  🖼️
-- [carch-org/docs](https://github.com/carch-org/docs) - Carch Docs Built with VitePress - available in: 🇺🇸 • 🇳🇵 • 🇮🇳 • 🇨🇳 • 🇪🇸 • 🇦🇪 • 🇫🇷 • 🇰🇷 • 🇩🇪 • 🇷🇺
-- [harilvfs/carch](https://github.com/harilvfs/carch) - A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [carch-org/pkgs](https://github.com/carch-org/pkgs) - Carch Package Builds 📦
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) -   DWM with everything pre-patched with my custom config 🛠️
-
-<strong><img src='https://github.com/harilvfs/assets/blob/main/images/Crystal%20Ball.png' width="30"> Recent Stars: </strong>
-
-- [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
-- [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [n1ghtmare/tiny-dc](https://github.com/n1ghtmare/tiny-dc) - A tiny but mighty TUI directory changer
-- [reviewdog/action-shfmt](https://github.com/reviewdog/action-shfmt) - Run shfmt with reviewdog
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-
-<strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' width="30"> My recent Pull Requests: </strong>
-
-- [refactor: re-structure packages scripts](https://github.com/harilvfs/carch/pull/549) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor(scripts): centralize distro detection and simplify scripts](https://github.com/harilvfs/carch/pull/548) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [refactor: adjust with new repo structure](https://github.com/carch-org/docs/pull/65) on [carch-org/docs](https://github.com/carch-org/docs)
-- [refactor(project): Restructure into a multi-crate workspace](https://github.com/harilvfs/carch/pull/547) on [harilvfs/carch](https://github.com/harilvfs/carch)
-- [Update docs version to 5.2.6](https://github.com/carch-org/docs/pull/64) on [carch-org/docs](https://github.com/carch-org/docs)
-
 <strong><img src='https://github.com/harilvfs/assets/blob/main/github-gifs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png' width="30"> Reach me:</strong>
 - Telegram   : <https://t.me/harilvfs>
 - Discord    : <https://discord.com/invite/8NJWstnUHd>
