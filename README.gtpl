@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The more often a stupidity is repeated, the more it gets the appearance of wisdom." - Voltaire*
+*"What is a friend? A single soul dwelling in two bodies." - Aristotle*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 04 August 2025 | Nepali: Monday, 19 Shrawan 2082*
+*English: Tuesday, 05 August 2025 | Nepali: Tuesday, 20 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
