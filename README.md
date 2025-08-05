@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"What is a friend? A single soul dwelling in two bodies." - Aristotle*
+*"As soon as you truly commit to making something happen, the 'how' will reveal itself." - Tony Robbins*
 
 
 
-*English: Tuesday, 05 August 2025 | Nepali: Tuesday, 20 Shrawan 2082*
+*English: Wednesday, 06 August 2025 | Nepali: Wednesday, 21 Shrawan 2082*
 
 
 </div>
