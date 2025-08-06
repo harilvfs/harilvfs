@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    7.81m added, 5.94m removed
+                                    3.49m added, 2.07m removed
                                 </div>
                             </section>
                             <section>
@@ -242,19 +242,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/themes</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">harilvfs/icons</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">harilvfs/hyprland</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -262,20 +250,20 @@
                             </svg>
                             <span class="diff-handle">harilvfs/backup</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">harilvfs/web</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">harilvfs/linscript</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +3.61m</span>
-                                <span class="deleted"> -3.01m</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -291,12 +279,24 @@
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +445k</span>
+                                <span class="deleted"> -8.25k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +1.06m</span>
-                                <span class="deleted"> -1.16m</span>
+                                <span class="added">  +133k</span>
+                                <span class="deleted">  -149k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -304,11 +304,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +445k</span>
-                                <span class="deleted"> -8.25k</span>
+                                <span class="added"> +99.5k</span>
+                                <span class="deleted"> -96.1k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -374,20 +374,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.03mb of code in 731 edited files across 268 commits over last 8 days</small>
+                <small>estimation from 1.03mb of code in 732 edited files across 269 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="785.0913317552836" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="785.0913317552836" y="0" width="90.34291192615404" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="875.4342436814376" y="0" width="35.62544223574029" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="911.0596859171778" y="0" width="4.310146181713287" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="915.369832098891" y="0" width="1.5766923736075409" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="916.9465244724986" y="0" width="1.5189323559605317" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="918.4654568284591" y="0" width="1.0271916651819424" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="919.4926484936411" y="0" width="0.5073515063588621" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="785.1366420539648" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="785.1366420539648" y="0" width="90.31256944055718" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="875.4492114945219" y="0" width="35.613477108151706" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="911.0626886026736" y="0" width="4.308698580062524" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="915.3713871827362" y="0" width="1.5761628271869428" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="916.9475500099231" y="0" width="1.518422208765243" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="918.4659722186883" y="0" width="1.0268466735534736" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="919.4928188922418" y="0" width="0.5071811077581747" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -795,8 +795,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <text x="60" y="60" dominant-baseline="central">98</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2278,7 +2278,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 09:29:25 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 10:29:48 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
