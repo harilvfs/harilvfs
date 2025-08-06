@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"As soon as you truly commit to making something happen, the 'how' will reveal itself." - Tony Robbins*
+*"It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - Tony Robbins*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 06 August 2025 | Nepali: Wednesday, 21 Shrawan 2082*
+*English: Thursday, 07 August 2025 | Nepali: Thursday, 22 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
