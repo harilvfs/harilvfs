@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - Tony Robbins*
+*"There is a difference between giving directions and giving direction." - Simon Sinek*
 
 
 
-*English: Thursday, 07 August 2025 | Nepali: Thursday, 22 Shrawan 2082*
+*English: Friday, 08 August 2025 | Nepali: Friday, 23 Shrawan 2082*
 
 
 </div>
