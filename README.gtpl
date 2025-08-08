@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"There is a difference between giving directions and giving direction." - Simon Sinek*
+*"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner." - Arnold Schwarzenegger*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 08 August 2025 | Nepali: Friday, 23 Shrawan 2082*
+*English: Saturday, 09 August 2025 | Nepali: Saturday, 24 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
