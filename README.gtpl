@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner." - Arnold Schwarzenegger*
+*"Life moves on and so should we." - Spencer Johnson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 09 August 2025 | Nepali: Saturday, 24 Shrawan 2082*
+*English: Sunday, 10 August 2025 | Nepali: Sunday, 25 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
