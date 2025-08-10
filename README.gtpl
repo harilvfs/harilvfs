@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life moves on and so should we." - Spencer Johnson*
+*"There are no shortcuts to any place worth going." - Beverly Sills*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 10 August 2025 | Nepali: Sunday, 25 Shrawan 2082*
+*English: Monday, 11 August 2025 | Nepali: Monday, 26 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
