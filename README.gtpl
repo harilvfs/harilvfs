@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"There are no shortcuts to any place worth going." - Beverly Sills*
+*"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." - James Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 11 August 2025 | Nepali: Monday, 26 Shrawan 2082*
+*English: Tuesday, 12 August 2025 | Nepali: Tuesday, 27 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
