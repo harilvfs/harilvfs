@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." - James Allen*
+*"Life begins where fear ends." - Osho*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 12 August 2025 | Nepali: Tuesday, 27 Shrawan 2082*
+*English: Wednesday, 13 August 2025 | Nepali: Wednesday, 28 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
