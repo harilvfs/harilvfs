@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life begins where fear ends." - Osho*
+*"The man who does not value himself, cannot value anything or anyone." - Ayn Rand*
 
 
 
-*English: Wednesday, 13 August 2025 | Nepali: Wednesday, 28 Shrawan 2082*
+*English: Thursday, 14 August 2025 | Nepali: Thursday, 29 Shrawan 2082*
 
 
 </div>
