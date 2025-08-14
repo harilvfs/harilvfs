@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The man who does not value himself, cannot value anything or anyone." - Ayn Rand*
+*"If you don't have time to do it right, when will you have time to do it over?" - John Wooden*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 14 August 2025 | Nepali: Thursday, 29 Shrawan 2082*
+*English: Friday, 15 August 2025 | Nepali: Friday, 30 Shrawan 2082*
 <!-- DATE_END -->
 
 </div>
