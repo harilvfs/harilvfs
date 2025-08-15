@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If you don't have time to do it right, when will you have time to do it over?" - John Wooden*
+*"In the midst of movement and chaos, keep stillness inside of you." - Deepak Chopra*
 
 
 
-*English: Friday, 15 August 2025 | Nepali: Friday, 30 Shrawan 2082*
+*English: Saturday, 16 August 2025 | Nepali: Saturday, 31 Shrawan 2082*
 
 
 </div>
