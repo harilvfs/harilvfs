@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"In the midst of movement and chaos, keep stillness inside of you." - Deepak Chopra*
+*"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 16 August 2025 | Nepali: Saturday, 31 Shrawan 2082*
+*English: Sunday, 17 August 2025 | Nepali: Sunday, 01 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
