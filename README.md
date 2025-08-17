@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking*
+*"A single dream is more powerful than a thousand realities." - J.R.R. Tolkien*
 
 
 
-*English: Sunday, 17 August 2025 | Nepali: Sunday, 01 Bhadau 2082*
+*English: Monday, 18 August 2025 | Nepali: Monday, 02 Bhadau 2082*
 
 
 </div>
