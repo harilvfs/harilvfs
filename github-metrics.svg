@@ -191,7 +191,7 @@ No longer active here since Aug 7, 2025</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.88m added, 1.95m removed
+                                    5.20m added, 4.23m removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@ No longer active here since Aug 7, 2025</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    753 views in last two weeks
+                                    752 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -243,25 +243,25 @@ No longer active here since Aug 7, 2025</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/icons</span>
+                            <span class="diff-handle">harilvfs/themes</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">harilvfs/web</span>
+                            <span class="diff-handle">harilvfs/hyprland</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">harilvfs/backup</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">harilvfs/blog-site</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">harilvfs/blogs</span>
                         </div>
                     </section>
                     <section>
@@ -272,8 +272,8 @@ No longer active here since Aug 7, 2025</div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +2.69m</span>
-                                <span class="deleted"> -1.77m</span>
+                                <span class="added"> +3.61m</span>
+                                <span class="deleted"> -3.01m</span>
                             </div>
                             <span> </span>
                         </div>
@@ -284,8 +284,20 @@ No longer active here since Aug 7, 2025</div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +133k</span>
-                                <span class="deleted">  -149k</span>
+                                <span class="added"> +1.06m</span>
+                                <span class="deleted"> -1.16m</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +445k</span>
+                                <span class="deleted"> -8.25k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -298,18 +310,6 @@ No longer active here since Aug 7, 2025</div>
                             <div class="diff-stats">
                                 <span class="added">   +32k</span>
                                 <span class="deleted"> -24.2k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added">   +20k</span>
-                                <span class="deleted"> -3.25k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -375,19 +375,18 @@ No longer active here since Aug 7, 2025</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 554kb of code in 506 edited files across 170 commits over last 14 days</small>
+                <small>estimation from 516kb of code in 493 edited files across 166 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="676.9863279669929" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="676.9863279669929" y="0" width="115.36283472210987" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="792.3491626891029" y="0" width="90.42213413154276" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="882.7712968206456" y="0" width="22.860448183803896" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="905.6317450044495" y="0" width="9.377882048377963" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="915.0096270528273" y="0" width="3.620904457568158" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="918.6305315103955" y="0" width="1.369468489604401" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="747.871020787531" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="747.871020787531" y="0" width="125.50163547643305" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="873.372656263964" y="0" width="25.254079754052945" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="898.626736018017" y="0" width="11.67944661912167" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="910.3061826371387" y="0" width="8.180956977139077" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="918.4871396142778" y="0" width="1.5128603857222014" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -404,12 +403,6 @@ No longer active here since Aug 7, 2025</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         RenderScript
@@ -418,13 +411,13 @@ No longer active here since Aug 7, 2025</div>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TSX
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        TSX
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2262,7 +2255,7 @@ No longer active here since Aug 7, 2025</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2025, 21:06:55 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Aug 2025, 22:11:25 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
