@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A little progress each day adds up to big results." - Unknown*
+*"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts." - Charles Dickens*
 
 
 
-*English: Tuesday, 19 August 2025 | Nepali: Tuesday, 03 Bhadau 2082*
+*English: Wednesday, 20 August 2025 | Nepali: Wednesday, 04 Bhadau 2082*
 
 
 </div>
