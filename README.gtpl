@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts." - Charles Dickens*
+*"Don't be afraid to give up the good to go for the great." - John D. Rockefeller*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 20 August 2025 | Nepali: Wednesday, 04 Bhadau 2082*
+*English: Thursday, 21 August 2025 | Nepali: Thursday, 05 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
