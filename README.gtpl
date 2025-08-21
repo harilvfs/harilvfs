@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Don't be afraid to give up the good to go for the great." - John D. Rockefeller*
+*"The glow of one warm thought is to me worth more than money." - Thomas Jefferson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 21 August 2025 | Nepali: Thursday, 05 Bhadau 2082*
+*English: Friday, 22 August 2025 | Nepali: Friday, 06 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
