@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The glow of one warm thought is to me worth more than money." - Thomas Jefferson*
+*"What keeps life fascinating is the constant creativity of the soul." - Deepak Chopra*
 
 
 
-*English: Friday, 22 August 2025 | Nepali: Friday, 06 Bhadau 2082*
+*English: Saturday, 23 August 2025 | Nepali: Saturday, 07 Bhadau 2082*
 
 
 </div>
