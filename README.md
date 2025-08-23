@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"What keeps life fascinating is the constant creativity of the soul." - Deepak Chopra*
+*"Being entirely honest with oneself is a good exercise." - Sigmund Freud*
 
 
 
-*English: Saturday, 23 August 2025 | Nepali: Saturday, 07 Bhadau 2082*
+*English: Sunday, 24 August 2025 | Nepali: Sunday, 08 Bhadau 2082*
 
 
 </div>
