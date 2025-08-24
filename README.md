@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Being entirely honest with oneself is a good exercise." - Sigmund Freud*
+*"Wrong does not cease to be wrong because the majority share in it." - Leo Tolstoy*
 
 
 
-*English: Sunday, 24 August 2025 | Nepali: Sunday, 08 Bhadau 2082*
+*English: Monday, 25 August 2025 | Nepali: Monday, 09 Bhadau 2082*
 
 
 </div>
