@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Wrong does not cease to be wrong because the majority share in it." - Leo Tolstoy*
+*"We forge the chains we wear in life." - Charles Dickens*
 
 
 
-*English: Monday, 25 August 2025 | Nepali: Monday, 09 Bhadau 2082*
+*English: Tuesday, 26 August 2025 | Nepali: Tuesday, 10 Bhadau 2082*
 
 
 </div>
