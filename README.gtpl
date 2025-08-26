@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"We forge the chains we wear in life." - Charles Dickens*
+*"I don't walk away from things that I think are unfinished." - Arnold Schwarzenegger*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 26 August 2025 | Nepali: Tuesday, 10 Bhadau 2082*
+*English: Wednesday, 27 August 2025 | Nepali: Wednesday, 11 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
