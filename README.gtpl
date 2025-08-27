@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I don't walk away from things that I think are unfinished." - Arnold Schwarzenegger*
+*"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." - Norman Vincent Peale*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 27 August 2025 | Nepali: Wednesday, 11 Bhadau 2082*
+*English: Thursday, 28 August 2025 | Nepali: Thursday, 12 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
