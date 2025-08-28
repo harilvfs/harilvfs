@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy." - Norman Vincent Peale*
+*"We are all like the bright moon, we still have our darker side.  " - Kahlil Gibran*
 
 
 
-*English: Thursday, 28 August 2025 | Nepali: Thursday, 12 Bhadau 2082*
+*English: Friday, 29 August 2025 | Nepali: Friday, 13 Bhadau 2082*
 
 
 </div>
