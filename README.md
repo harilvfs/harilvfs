@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"We are all like the bright moon, we still have our darker side.  " - Kahlil Gibran*
+*"All human wisdom is contained in these two words - Wait and Hope" - Alexandre Dumas*
 
 
 
-*English: Friday, 29 August 2025 | Nepali: Friday, 13 Bhadau 2082*
+*English: Saturday, 30 August 2025 | Nepali: Saturday, 14 Bhadau 2082*
 
 
 </div>
