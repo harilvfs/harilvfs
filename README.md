@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"All human wisdom is contained in these two words - Wait and Hope" - Alexandre Dumas*
+*"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand*
 
 
 
-*English: Saturday, 30 August 2025 | Nepali: Saturday, 14 Bhadau 2082*
+*English: Sunday, 31 August 2025 | Nepali: Sunday, 15 Bhadau 2082*
 
 
 </div>
