@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you don't know, the thing to do is not to get scared, but to learn." - Ayn Rand*
+*"Rather than love, than money, than fame, give me truth." - Henry David Thoreau*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 31 August 2025 | Nepali: Sunday, 15 Bhadau 2082*
+*English: Monday, 01 September 2025 | Nepali: Monday, 16 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
