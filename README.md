@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Rather than love, than money, than fame, give me truth." - Henry David Thoreau*
+*"To a mind that is still, the entire universe surrenders." - Zhuangzi*
 
 
 
-*English: Monday, 01 September 2025 | Nepali: Monday, 16 Bhadau 2082*
+*English: Tuesday, 02 September 2025 | Nepali: Tuesday, 17 Bhadau 2082*
 
 
 </div>
