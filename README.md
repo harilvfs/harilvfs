@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"To a mind that is still, the entire universe surrenders." - Zhuangzi*
+*"Unless a man is master of his soul, all other kinds of mastery amount to little." - Theodore Roosevelt*
 
 
 
-*English: Tuesday, 02 September 2025 | Nepali: Tuesday, 17 Bhadau 2082*
+*English: Wednesday, 03 September 2025 | Nepali: Wednesday, 18 Bhadau 2082*
 
 
 </div>
