@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." - John Tukey*
+*"It isn't what you do, but how you do it." - John Wooden*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 04 September 2025 | Nepali: Thursday, 19 Bhadau 2082*
+*English: Friday, 05 September 2025 | Nepali: Friday, 20 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
