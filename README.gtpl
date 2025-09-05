@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It isn't what you do, but how you do it." - John Wooden*
+*"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking." - Steve Jobs*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 05 September 2025 | Nepali: Friday, 20 Bhadau 2082*
+*English: Saturday, 06 September 2025 | Nepali: Saturday, 21 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
