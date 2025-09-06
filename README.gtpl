@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking." - Steve Jobs*
+*"Do not be so open-minded that your brains fall out." - Gilbert Chesterton*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 06 September 2025 | Nepali: Saturday, 21 Bhadau 2082*
+*English: Sunday, 07 September 2025 | Nepali: Sunday, 22 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
