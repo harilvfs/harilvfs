@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Do not be so open-minded that your brains fall out." - Gilbert Chesterton*
+*"The smallest act of kindness is worth more than the greatest intention.  " - Kahlil Gibran*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 07 September 2025 | Nepali: Sunday, 22 Bhadau 2082*
+*English: Monday, 08 September 2025 | Nepali: Monday, 23 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
