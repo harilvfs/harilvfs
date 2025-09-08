@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The smallest act of kindness is worth more than the greatest intention.  " - Kahlil Gibran*
+*"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity." - Og Mandino*
 
 
 
-*English: Monday, 08 September 2025 | Nepali: Monday, 23 Bhadau 2082*
+*English: Tuesday, 09 September 2025 | Nepali: Tuesday, 24 Bhadau 2082*
 
 
 </div>
