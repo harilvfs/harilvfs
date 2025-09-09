@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity." - Og Mandino*
+*"Animals don't hate, and we're supposed to be better than them." - Elvis Presley*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 09 September 2025 | Nepali: Tuesday, 24 Bhadau 2082*
+*English: Wednesday, 10 September 2025 | Nepali: Wednesday, 25 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
