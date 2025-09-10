@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Animals don't hate, and we're supposed to be better than them." - Elvis Presley*
+*"Don't wait for extraordinary opportunities. Seize common occasions and make them great." - Orison Swett Marden*
 
 
 
-*English: Wednesday, 10 September 2025 | Nepali: Wednesday, 25 Bhadau 2082*
+*English: Thursday, 11 September 2025 | Nepali: Thursday, 26 Bhadau 2082*
 
 
 </div>
