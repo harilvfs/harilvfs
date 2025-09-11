@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't wait for extraordinary opportunities. Seize common occasions and make them great." - Orison Swett Marden*
+*"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions." - Steve Maraboli*
 
 
 
-*English: Thursday, 11 September 2025 | Nepali: Thursday, 26 Bhadau 2082*
+*English: Friday, 12 September 2025 | Nepali: Friday, 27 Bhadau 2082*
 
 
 </div>
