@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions." - Steve Maraboli*
+*"When you repeat a mistake, it is not a mistake anymore: it is a decision." - Paulo Coelho*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 12 September 2025 | Nepali: Friday, 27 Bhadau 2082*
+*English: Saturday, 13 September 2025 | Nepali: Saturday, 28 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
