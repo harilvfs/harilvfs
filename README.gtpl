@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"When you repeat a mistake, it is not a mistake anymore: it is a decision." - Paulo Coelho*
+*"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided." - Tony Robbins*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 13 September 2025 | Nepali: Saturday, 28 Bhadau 2082*
+*English: Sunday, 14 September 2025 | Nepali: Sunday, 29 Bhadau 2082*
 <!-- DATE_END -->
 
 </div>
