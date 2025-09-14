@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided." - Tony Robbins*
+*"Goodness is the only investment that never fails." - Henry David Thoreau*
 
 
 
-*English: Sunday, 14 September 2025 | Nepali: Sunday, 29 Bhadau 2082*
+*English: Monday, 15 September 2025 | Nepali: Monday, 30 Bhadau 2082*
 
 
 </div>
