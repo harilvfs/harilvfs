@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Goodness is the only investment that never fails." - Henry David Thoreau*
+*"Believe you can and you will be halfway there." - Lolly Daskal*
 
 
 
-*English: Monday, 15 September 2025 | Nepali: Monday, 30 Bhadau 2082*
+*English: Tuesday, 16 September 2025 | Nepali: Tuesday, 31 Bhadau 2082*
 
 
 </div>
