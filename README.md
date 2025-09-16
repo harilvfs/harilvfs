@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Believe you can and you will be halfway there." - Lolly Daskal*
+*"There are people who have money and people who are rich." - Coco Chanel*
 
 
 
-*English: Tuesday, 16 September 2025 | Nepali: Tuesday, 31 Bhadau 2082*
+*English: Wednesday, 17 September 2025 | Nepali: Wednesday, 01 Aswin 2082*
 
 
 </div>
