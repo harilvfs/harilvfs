@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Night is a more quiet time to work. It aids thought." - Alexander Graham Bell*
+*"You can do two things at once, but you can't focus effectively on two things at once." - Gary Keller*
 
 
 
-*English: Thursday, 18 September 2025 | Nepali: Thursday, 02 Aswin 2082*
+*English: Friday, 19 September 2025 | Nepali: Friday, 03 Aswin 2082*
 
 
 </div>
