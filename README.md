@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You can do two things at once, but you can't focus effectively on two things at once." - Gary Keller*
+*"A gentleman accepts the responsibility of his actions and bears the burden of their consequences." - William Faulkner*
 
 
 
-*English: Friday, 19 September 2025 | Nepali: Friday, 03 Aswin 2082*
+*English: Saturday, 20 September 2025 | Nepali: Saturday, 04 Aswin 2082*
 
 
 </div>
