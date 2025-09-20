@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A gentleman accepts the responsibility of his actions and bears the burden of their consequences." - William Faulkner*
+*"We suffer more often in imagination than in reality.  " - Seneca*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 20 September 2025 | Nepali: Saturday, 04 Aswin 2082*
+*English: Sunday, 21 September 2025 | Nepali: Sunday, 05 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
