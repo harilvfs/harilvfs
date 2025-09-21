@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"We suffer more often in imagination than in reality.  " - Seneca*
+*"Expect the best of yourself, and then do what is necessary to make it a reality." - Ralph Marston*
 
 
 
-*English: Sunday, 21 September 2025 | Nepali: Sunday, 05 Aswin 2082*
+*English: Monday, 22 September 2025 | Nepali: Monday, 06 Aswin 2082*
 
 
 </div>
