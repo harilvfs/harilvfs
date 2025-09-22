@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Expect the best of yourself, and then do what is necessary to make it a reality." - Ralph Marston*
+*"Curiosity is the most powerful thing you own." - James Cameron*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 22 September 2025 | Nepali: Monday, 06 Aswin 2082*
+*English: Tuesday, 23 September 2025 | Nepali: Tuesday, 07 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
