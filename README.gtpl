@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Curiosity is the most powerful thing you own." - James Cameron*
+*"We cannot expect to be happy always... by experiencing evil as well as good we become wise." - Hans Christian Andersen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 23 September 2025 | Nepali: Tuesday, 07 Aswin 2082*
+*English: Wednesday, 24 September 2025 | Nepali: Wednesday, 08 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
