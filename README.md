@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"We cannot expect to be happy always... by experiencing evil as well as good we become wise." - Hans Christian Andersen*
+*"Take care of your cents: dollars will take care of themselves." - Thomas Jefferson*
 
 
 
-*English: Wednesday, 24 September 2025 | Nepali: Wednesday, 08 Aswin 2082*
+*English: Thursday, 25 September 2025 | Nepali: Thursday, 09 Aswin 2082*
 
 
 </div>
