@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Take care of your cents: dollars will take care of themselves." - Thomas Jefferson*
+*"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time." - Steve Jobs*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 25 September 2025 | Nepali: Thursday, 09 Aswin 2082*
+*English: Friday, 26 September 2025 | Nepali: Friday, 10 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
