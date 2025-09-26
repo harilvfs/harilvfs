@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time." - Steve Jobs*
+*"The friend is the man who knows all about you, and still likes you." - Elbert Hubbard*
 
 
 
-*English: Friday, 26 September 2025 | Nepali: Friday, 10 Aswin 2082*
+*English: Saturday, 27 September 2025 | Nepali: Saturday, 11 Aswin 2082*
 
 
 </div>
