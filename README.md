@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The friend is the man who knows all about you, and still likes you." - Elbert Hubbard*
+*"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon*
 
 
 
-*English: Saturday, 27 September 2025 | Nepali: Saturday, 11 Aswin 2082*
+*English: Sunday, 28 September 2025 | Nepali: Sunday, 12 Aswin 2082*
 
 
 </div>
