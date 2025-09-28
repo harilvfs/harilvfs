@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon*
+*"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." - Zig Ziglar*
 
 
 
-*English: Sunday, 28 September 2025 | Nepali: Sunday, 12 Aswin 2082*
+*English: Monday, 29 September 2025 | Nepali: Monday, 13 Aswin 2082*
 
 
 </div>
