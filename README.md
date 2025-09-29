@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win." - Zig Ziglar*
+*"All know that the drop merges into the ocean, but few know that the ocean merges into the drop." - Kabir*
 
 
 
-*English: Monday, 29 September 2025 | Nepali: Monday, 13 Aswin 2082*
+*English: Tuesday, 30 September 2025 | Nepali: Tuesday, 14 Aswin 2082*
 
 
 </div>
