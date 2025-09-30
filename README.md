@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"All know that the drop merges into the ocean, but few know that the ocean merges into the drop." - Kabir*
+*"To know even one life has breathed easier because you have lived. This is to have succeeded." - Ralph Waldo Emerson*
 
 
 
-*English: Tuesday, 30 September 2025 | Nepali: Tuesday, 14 Aswin 2082*
+*English: Wednesday, 01 October 2025 | Nepali: Wednesday, 15 Aswin 2082*
 
 
 </div>
