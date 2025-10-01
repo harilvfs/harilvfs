@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To know even one life has breathed easier because you have lived. This is to have succeeded." - Ralph Waldo Emerson*
+*"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." - Unknown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 01 October 2025 | Nepali: Wednesday, 15 Aswin 2082*
+*English: Thursday, 02 October 2025 | Nepali: Thursday, 16 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
