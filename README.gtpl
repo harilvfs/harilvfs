@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." - Unknown*
+*"It's what you do in the present that will redeem the past and thereby change the future." - Paulo Coelho*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 02 October 2025 | Nepali: Thursday, 16 Aswin 2082*
+*English: Friday, 03 October 2025 | Nepali: Friday, 17 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
