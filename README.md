@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It's what you do in the present that will redeem the past and thereby change the future." - Paulo Coelho*
+*"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." - Criss Jami*
 
 
 
-*English: Friday, 03 October 2025 | Nepali: Friday, 17 Aswin 2082*
+*English: Saturday, 04 October 2025 | Nepali: Saturday, 18 Aswin 2082*
 
 
 </div>
