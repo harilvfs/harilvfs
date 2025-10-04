@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." - Criss Jami*
+*"Time goes from present to past." - Shunryu Suzuki*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 04 October 2025 | Nepali: Saturday, 18 Aswin 2082*
+*English: Sunday, 05 October 2025 | Nepali: Sunday, 19 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
