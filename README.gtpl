@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Time goes from present to past." - Shunryu Suzuki*
+*"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored." - Earl Nightingale*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 05 October 2025 | Nepali: Sunday, 19 Aswin 2082*
+*English: Monday, 06 October 2025 | Nepali: Monday, 20 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
