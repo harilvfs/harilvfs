@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored." - Earl Nightingale*
+*"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." - Elvis Presley*
 
 
 
-*English: Monday, 06 October 2025 | Nepali: Monday, 20 Aswin 2082*
+*English: Tuesday, 07 October 2025 | Nepali: Tuesday, 21 Aswin 2082*
 
 
 </div>
