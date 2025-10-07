@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do." - Elvis Presley*
+*"Empty yourself of everything - let the mind become still." - Lao Tzu*
 
 
 
-*English: Tuesday, 07 October 2025 | Nepali: Tuesday, 21 Aswin 2082*
+*English: Wednesday, 08 October 2025 | Nepali: Wednesday, 22 Aswin 2082*
 
 
 </div>
