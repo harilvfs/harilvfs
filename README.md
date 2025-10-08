@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Empty yourself of everything - let the mind become still." - Lao Tzu*
+*"Doing what you love is the cornerstone of having abundance in your life. " - Wayne Dyer*
 
 
 
-*English: Wednesday, 08 October 2025 | Nepali: Wednesday, 22 Aswin 2082*
+*English: Thursday, 09 October 2025 | Nepali: Thursday, 23 Aswin 2082*
 
 
 </div>
