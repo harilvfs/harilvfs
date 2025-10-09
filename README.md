@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Doing what you love is the cornerstone of having abundance in your life. " - Wayne Dyer*
+*"Nothing is more creative...nor destructive...than a brilliant mind with a purpose." - Dan Brown*
 
 
 
-*English: Thursday, 09 October 2025 | Nepali: Thursday, 23 Aswin 2082*
+*English: Friday, 10 October 2025 | Nepali: Friday, 24 Aswin 2082*
 
 
 </div>
