@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Nothing is more creative...nor destructive...than a brilliant mind with a purpose." - Dan Brown*
+*"Big people don't make people feel small." - Robin Sharma*
 
 
 
-*English: Friday, 10 October 2025 | Nepali: Friday, 24 Aswin 2082*
+*English: Saturday, 11 October 2025 | Nepali: Saturday, 25 Aswin 2082*
 
 
 </div>
