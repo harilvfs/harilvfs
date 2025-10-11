@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Big people don't make people feel small." - Robin Sharma*
+*"A man is literally what he thinks." - James Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 11 October 2025 | Nepali: Saturday, 25 Aswin 2082*
+*English: Sunday, 12 October 2025 | Nepali: Sunday, 26 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
