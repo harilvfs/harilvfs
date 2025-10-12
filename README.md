@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A man is literally what he thinks." - James Allen*
+*"Pain doesn't last. And when it's gone, we have something to show for it. Growth." - Kamal Ravikant*
 
 
 
-*English: Sunday, 12 October 2025 | Nepali: Sunday, 26 Aswin 2082*
+*English: Monday, 13 October 2025 | Nepali: Monday, 27 Aswin 2082*
 
 
 </div>
