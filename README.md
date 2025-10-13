@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Pain doesn't last. And when it's gone, we have something to show for it. Growth." - Kamal Ravikant*
+*"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed." - Deepak Chopra*
 
 
 
-*English: Monday, 13 October 2025 | Nepali: Monday, 27 Aswin 2082*
+*English: Tuesday, 14 October 2025 | Nepali: Tuesday, 28 Aswin 2082*
 
 
 </div>
