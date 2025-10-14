@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed." - Deepak Chopra*
+*"We need a backbone, not a wishbone." - Joyce Meyer*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 14 October 2025 | Nepali: Tuesday, 28 Aswin 2082*
+*English: Wednesday, 15 October 2025 | Nepali: Wednesday, 29 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
