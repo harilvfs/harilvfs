@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"We need a backbone, not a wishbone." - Joyce Meyer*
+*"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." - Dale Carnegie*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 15 October 2025 | Nepali: Wednesday, 29 Aswin 2082*
+*English: Thursday, 16 October 2025 | Nepali: Thursday, 30 Aswin 2082*
 <!-- DATE_END -->
 
 </div>
