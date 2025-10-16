@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." - Dale Carnegie*
+*"Love your enemies, for they tell you your faults." - Benjamin Franklin*
 
 
 
-*English: Thursday, 16 October 2025 | Nepali: Thursday, 30 Aswin 2082*
+*English: Friday, 17 October 2025 | Nepali: Friday, 31 Aswin 2082*
 
 
 </div>
