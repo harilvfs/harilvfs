@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Love your enemies, for they tell you your faults." - Benjamin Franklin*
+*"The world would go on even without you. Don't take yourself so seriously." - Norman Vincent Peale*
 
 
 
-*English: Friday, 17 October 2025 | Nepali: Friday, 31 Aswin 2082*
+*English: Saturday, 18 October 2025 | Nepali: Saturday, 01 Kartik 2082*
 
 
 </div>
