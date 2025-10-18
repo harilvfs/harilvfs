@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The world would go on even without you. Don't take yourself so seriously." - Norman Vincent Peale*
+*"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 18 October 2025 | Nepali: Saturday, 01 Kartik 2082*
+*English: Sunday, 19 October 2025 | Nepali: Sunday, 02 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
