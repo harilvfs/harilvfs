@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The constant assertion of belief is an indication of fear." - Jiddu Krishnamurti*
+*"Be not afraid of growing slowly, be afraid only of standing still. " - Chinese Proverb*
 
 
 
-*English: Sunday, 19 October 2025 | Nepali: Sunday, 02 Kartik 2082*
+*English: Monday, 20 October 2025 | Nepali: Monday, 03 Kartik 2082*
 
 
 </div>
