@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Be not afraid of growing slowly, be afraid only of standing still. " - Chinese Proverb*
+*"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." - Nelson Mandela*
 
 
 
-*English: Monday, 20 October 2025 | Nepali: Monday, 03 Kartik 2082*
+*English: Tuesday, 21 October 2025 | Nepali: Tuesday, 04 Kartik 2082*
 
 
 </div>
