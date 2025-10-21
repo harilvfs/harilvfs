@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." - Nelson Mandela*
+*"If we did all the things we are capable of, we would literally astound ourselves." - Thomas Edison*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 21 October 2025 | Nepali: Tuesday, 04 Kartik 2082*
+*English: Wednesday, 22 October 2025 | Nepali: Wednesday, 05 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
