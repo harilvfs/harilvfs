@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If we did all the things we are capable of, we would literally astound ourselves." - Thomas Edison*
+*"There's more to life than being a passenger." - Amelia Earhart*
 
 
 
-*English: Wednesday, 22 October 2025 | Nepali: Wednesday, 05 Kartik 2082*
+*English: Thursday, 23 October 2025 | Nepali: Thursday, 06 Kartik 2082*
 
 
 </div>
