@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"There's more to life than being a passenger." - Amelia Earhart*
+*"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed." - Lily Tomlin*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 23 October 2025 | Nepali: Thursday, 06 Kartik 2082*
+*English: Friday, 24 October 2025 | Nepali: Friday, 07 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
