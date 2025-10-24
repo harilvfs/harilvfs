@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed." - Lily Tomlin*
+*"Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill*
 
 
 
-*English: Friday, 24 October 2025 | Nepali: Friday, 07 Kartik 2082*
+*English: Saturday, 25 October 2025 | Nepali: Saturday, 08 Kartik 2082*
 
 
 </div>
