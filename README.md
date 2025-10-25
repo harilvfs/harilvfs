@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill*
+*"Try all things, hold fast that which is good." - John Locke*
 
 
 
-*English: Saturday, 25 October 2025 | Nepali: Saturday, 08 Kartik 2082*
+*English: Sunday, 26 October 2025 | Nepali: Sunday, 09 Kartik 2082*
 
 
 </div>
