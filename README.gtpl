@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Try all things, hold fast that which is good." - John Locke*
+*"Everything has beauty but not everyone sees it." - Confucius*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 26 October 2025 | Nepali: Sunday, 09 Kartik 2082*
+*English: Monday, 27 October 2025 | Nepali: Monday, 10 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
