@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Everything has beauty but not everyone sees it." - Confucius*
+*"Debt is the slavery of the free." - Publilius Syrus*
 
 
 
-*English: Monday, 27 October 2025 | Nepali: Monday, 10 Kartik 2082*
+*English: Tuesday, 28 October 2025 | Nepali: Tuesday, 11 Kartik 2082*
 
 
 </div>
