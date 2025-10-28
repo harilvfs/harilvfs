@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Debt is the slavery of the free." - Publilius Syrus*
+*"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Dan Millman*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 28 October 2025 | Nepali: Tuesday, 11 Kartik 2082*
+*English: Wednesday, 29 October 2025 | Nepali: Wednesday, 12 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
