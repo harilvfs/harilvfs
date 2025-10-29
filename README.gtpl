@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Dan Millman*
+*"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry." - Tony Robbins*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 29 October 2025 | Nepali: Wednesday, 12 Kartik 2082*
+*English: Thursday, 30 October 2025 | Nepali: Thursday, 13 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
