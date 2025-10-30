@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry." - Tony Robbins*
+*"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." - Deepak Chopra*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 30 October 2025 | Nepali: Thursday, 13 Kartik 2082*
+*English: Friday, 31 October 2025 | Nepali: Friday, 14 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
