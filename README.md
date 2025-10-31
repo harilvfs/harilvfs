@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends." - Deepak Chopra*
+*"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." - Brian Tracy*
 
 
 
-*English: Friday, 31 October 2025 | Nepali: Friday, 14 Kartik 2082*
+*English: Saturday, 01 November 2025 | Nepali: Saturday, 15 Kartik 2082*
 
 
 </div>
