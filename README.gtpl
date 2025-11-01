@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." - Brian Tracy*
+*"Wit is educated insolence." - Aristotle*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 01 November 2025 | Nepali: Saturday, 15 Kartik 2082*
+*English: Sunday, 02 November 2025 | Nepali: Sunday, 16 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
