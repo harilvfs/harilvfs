@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Wit is educated insolence." - Aristotle*
+*"Fear is your worst enemy. Risk is your best friend." - Gurbaksh Chahal*
 
 
 
-*English: Sunday, 02 November 2025 | Nepali: Sunday, 16 Kartik 2082*
+*English: Monday, 03 November 2025 | Nepali: Monday, 17 Kartik 2082*
 
 
 </div>
