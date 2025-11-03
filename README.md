@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Fear is your worst enemy. Risk is your best friend." - Gurbaksh Chahal*
+*"You can only be afraid of what you think you know." - Jiddu Krishnamurti*
 
 
 
-*English: Monday, 03 November 2025 | Nepali: Monday, 17 Kartik 2082*
+*English: Tuesday, 04 November 2025 | Nepali: Tuesday, 18 Kartik 2082*
 
 
 </div>
