@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can only be afraid of what you think you know." - Jiddu Krishnamurti*
+*"Life is not just the passing of time. Life is the collection of experiences and their intensity." - Jim Rohn*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 04 November 2025 | Nepali: Tuesday, 18 Kartik 2082*
+*English: Wednesday, 05 November 2025 | Nepali: Wednesday, 19 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
