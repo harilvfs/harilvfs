@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is not just the passing of time. Life is the collection of experiences and their intensity." - Jim Rohn*
+*"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold." - Elon Musk*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 05 November 2025 | Nepali: Wednesday, 19 Kartik 2082*
+*English: Thursday, 06 November 2025 | Nepali: Thursday, 20 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
