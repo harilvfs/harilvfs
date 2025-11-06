@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold." - Elon Musk*
+*"Men do not attract which they want but that which they are." - James Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 06 November 2025 | Nepali: Thursday, 20 Kartik 2082*
+*English: Friday, 07 November 2025 | Nepali: Friday, 21 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
