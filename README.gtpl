@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Men do not attract which they want but that which they are." - James Allen*
+*"All cruelty springs from weakness.  " - Seneca*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 07 November 2025 | Nepali: Friday, 21 Kartik 2082*
+*English: Saturday, 08 November 2025 | Nepali: Saturday, 22 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
