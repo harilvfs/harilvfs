@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"All cruelty springs from weakness.  " - Seneca*
+*"To travel is to be alive, but to get somewhere is to be dead." - Alan Watts*
 
 
 
-*English: Saturday, 08 November 2025 | Nepali: Saturday, 22 Kartik 2082*
+*English: Sunday, 09 November 2025 | Nepali: Sunday, 23 Kartik 2082*
 
 
 </div>
