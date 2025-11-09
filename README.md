@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"To travel is to be alive, but to get somewhere is to be dead." - Alan Watts*
+*"Each time we don't say what we wanna say, we're dying." - Yoko Ono*
 
 
 
-*English: Sunday, 09 November 2025 | Nepali: Sunday, 23 Kartik 2082*
+*English: Monday, 10 November 2025 | Nepali: Monday, 24 Kartik 2082*
 
 
 </div>
