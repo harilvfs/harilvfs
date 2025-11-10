@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Each time we don't say what we wanna say, we're dying." - Yoko Ono*
+*"Educating the mind without educating the heart is no education at all." - Aristotle*
 
 
 
-*English: Monday, 10 November 2025 | Nepali: Monday, 24 Kartik 2082*
+*English: Tuesday, 11 November 2025 | Nepali: Tuesday, 25 Kartik 2082*
 
 
 </div>
