@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Educating the mind without educating the heart is no education at all." - Aristotle*
+*"Pleasure can be supported by an illusion; but happiness rests upon truth. " - Nicolas Chamfort*
 
 
 
-*English: Tuesday, 11 November 2025 | Nepali: Tuesday, 25 Kartik 2082*
+*English: Wednesday, 12 November 2025 | Nepali: Wednesday, 26 Kartik 2082*
 
 
 </div>
