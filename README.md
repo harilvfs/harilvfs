@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Pleasure can be supported by an illusion; but happiness rests upon truth. " - Nicolas Chamfort*
+*"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " - Franz Kafka*
 
 
 
-*English: Wednesday, 12 November 2025 | Nepali: Wednesday, 26 Kartik 2082*
+*English: Thursday, 13 November 2025 | Nepali: Thursday, 27 Kartik 2082*
 
 
 </div>
