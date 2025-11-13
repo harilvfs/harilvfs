@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " - Franz Kafka*
+*"None are more hopelessly enslaved than those who falsely believe they are free." - Johann Wolfgang von Goethe*
 
 
 
-*English: Thursday, 13 November 2025 | Nepali: Thursday, 27 Kartik 2082*
+*English: Friday, 14 November 2025 | Nepali: Friday, 28 Kartik 2082*
 
 
 </div>
