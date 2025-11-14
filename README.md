@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"None are more hopelessly enslaved than those who falsely believe they are free." - Johann Wolfgang von Goethe*
+*"We suffer more often in imagination than in reality." - Seneca*
 
 
 
-*English: Friday, 14 November 2025 | Nepali: Friday, 28 Kartik 2082*
+*English: Saturday, 15 November 2025 | Nepali: Saturday, 29 Kartik 2082*
 
 
 </div>
