@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"We suffer more often in imagination than in reality." - Seneca*
+*"If you can see it in your mind, you can hold it in your mind." - Steve Harvey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 15 November 2025 | Nepali: Saturday, 29 Kartik 2082*
+*English: Sunday, 16 November 2025 | Nepali: Sunday, 30 Kartik 2082*
 <!-- DATE_END -->
 
 </div>
