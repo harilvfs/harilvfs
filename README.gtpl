@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you can see it in your mind, you can hold it in your mind." - Steve Harvey*
+*"Don´t hesitate or allow yourself to make excuses. Just get out and do it." - Christopher McCandless*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 16 November 2025 | Nepali: Sunday, 30 Kartik 2082*
+*English: Monday, 17 November 2025 | Nepali: Monday, 01 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
