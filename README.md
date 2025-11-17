@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don´t hesitate or allow yourself to make excuses. Just get out and do it." - Christopher McCandless*
+*"The journey is what brings us happiness not the destination." - Dan Millman*
 
 
 
-*English: Monday, 17 November 2025 | Nepali: Monday, 01 Mangsir 2082*
+*English: Tuesday, 18 November 2025 | Nepali: Tuesday, 02 Mangsir 2082*
 
 
 </div>
