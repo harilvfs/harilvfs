@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The journey is what brings us happiness not the destination." - Dan Millman*
+*"Question everything. Learn something. Answer nothing." - Euripides*
 
 
 
-*English: Tuesday, 18 November 2025 | Nepali: Tuesday, 02 Mangsir 2082*
+*English: Wednesday, 19 November 2025 | Nepali: Wednesday, 03 Mangsir 2082*
 
 
 </div>
