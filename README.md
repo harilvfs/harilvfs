@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Question everything. Learn something. Answer nothing." - Euripides*
+*"Dream big and dare to fail." - Norman Vaughan*
 
 
 
-*English: Wednesday, 19 November 2025 | Nepali: Wednesday, 03 Mangsir 2082*
+*English: Thursday, 20 November 2025 | Nepali: Thursday, 04 Mangsir 2082*
 
 
 </div>
