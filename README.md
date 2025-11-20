@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Dream big and dare to fail." - Norman Vaughan*
+*"You can put lipstick on a pig. It's still a pig." - Barack Obama*
 
 
 
-*English: Thursday, 20 November 2025 | Nepali: Thursday, 04 Mangsir 2082*
+*English: Friday, 21 November 2025 | Nepali: Friday, 05 Mangsir 2082*
 
 
 </div>
