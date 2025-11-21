@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can put lipstick on a pig. It's still a pig." - Barack Obama*
+*"You don't get in life what you want; you get in life what you are." - Les Brown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 21 November 2025 | Nepali: Friday, 05 Mangsir 2082*
+*English: Saturday, 22 November 2025 | Nepali: Saturday, 06 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
