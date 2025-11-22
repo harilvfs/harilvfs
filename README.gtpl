@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You don't get in life what you want; you get in life what you are." - Les Brown*
+*"You can only lose something that you have, but you cannot lose something that you are." - Eckhart Tolle*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 22 November 2025 | Nepali: Saturday, 06 Mangsir 2082*
+*English: Sunday, 23 November 2025 | Nepali: Sunday, 07 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
