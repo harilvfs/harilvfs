@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You can only lose something that you have, but you cannot lose something that you are." - Eckhart Tolle*
+*"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." - Naval Ravikant*
 
 
 
-*English: Sunday, 23 November 2025 | Nepali: Sunday, 07 Mangsir 2082*
+*English: Monday, 24 November 2025 | Nepali: Monday, 08 Mangsir 2082*
 
 
 </div>
