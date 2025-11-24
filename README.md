@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." - Naval Ravikant*
+*"Everything you can imagine is real." - Pablo Picasso*
 
 
 
-*English: Monday, 24 November 2025 | Nepali: Monday, 08 Mangsir 2082*
+*English: Tuesday, 25 November 2025 | Nepali: Tuesday, 09 Mangsir 2082*
 
 
 </div>
