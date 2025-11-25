@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Everything you can imagine is real." - Pablo Picasso*
+*"Many roads lead to the path, but basically there are only two: reason and practice. " - Bodhidharma*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 25 November 2025 | Nepali: Tuesday, 09 Mangsir 2082*
+*English: Wednesday, 26 November 2025 | Nepali: Wednesday, 10 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
