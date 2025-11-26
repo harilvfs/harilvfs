@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Many roads lead to the path, but basically there are only two: reason and practice. " - Bodhidharma*
+*"If we are not able to smile, then the world will not have peace." - Thich Nhat Hanh*
 
 
 
-*English: Wednesday, 26 November 2025 | Nepali: Wednesday, 10 Mangsir 2082*
+*English: Thursday, 27 November 2025 | Nepali: Thursday, 11 Mangsir 2082*
 
 
 </div>
