@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If we are not able to smile, then the world will not have peace." - Thich Nhat Hanh*
+*"A very little key will open a very heavy door." - Charles Dickens*
 
 
 
-*English: Thursday, 27 November 2025 | Nepali: Thursday, 11 Mangsir 2082*
+*English: Friday, 28 November 2025 | Nepali: Friday, 12 Mangsir 2082*
 
 
 </div>
