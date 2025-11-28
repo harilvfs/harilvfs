@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A very little key will open a very heavy door." - Charles Dickens*
+*"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 28 November 2025 | Nepali: Friday, 12 Mangsir 2082*
+*English: Saturday, 29 November 2025 | Nepali: Saturday, 13 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
