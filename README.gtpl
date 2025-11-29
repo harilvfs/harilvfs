@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Learn from the rejection and turn it into an opportunity!" - Mary Engelbreit*
+*"Be willing to be a beginner every single morning." - Meister Eckhart*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 29 November 2025 | Nepali: Saturday, 13 Mangsir 2082*
+*English: Sunday, 30 November 2025 | Nepali: Sunday, 14 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
