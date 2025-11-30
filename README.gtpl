@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Be willing to be a beginner every single morning." - Meister Eckhart*
+*"Tragedy is a tool for the living to gain wisdom, not a guide by which to live." - Robert F. Kennedy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 30 November 2025 | Nepali: Sunday, 14 Mangsir 2082*
+*English: Monday, 01 December 2025 | Nepali: Monday, 15 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
