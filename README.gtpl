@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Tragedy is a tool for the living to gain wisdom, not a guide by which to live." - Robert F. Kennedy*
+*"Let each man exercise the art he knows." - Aristophanes*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 01 December 2025 | Nepali: Monday, 15 Mangsir 2082*
+*English: Tuesday, 02 December 2025 | Nepali: Tuesday, 16 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
