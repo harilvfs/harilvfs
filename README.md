@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Let each man exercise the art he knows." - Aristophanes*
+*"Believe and you're halfway there." - Harry S. Truman*
 
 
 
-*English: Tuesday, 02 December 2025 | Nepali: Tuesday, 16 Mangsir 2082*
+*English: Wednesday, 03 December 2025 | Nepali: Wednesday, 17 Mangsir 2082*
 
 
 </div>
