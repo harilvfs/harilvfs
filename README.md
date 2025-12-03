@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Believe and you're halfway there." - Harry S. Truman*
+*"Knowing is not enough, we must apply. Willing is not enough, we must do." - Johann Wolfgang von Goethe*
 
 
 
-*English: Wednesday, 03 December 2025 | Nepali: Wednesday, 17 Mangsir 2082*
+*English: Thursday, 04 December 2025 | Nepali: Thursday, 18 Mangsir 2082*
 
 
 </div>
