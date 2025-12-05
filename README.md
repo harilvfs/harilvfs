@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If you can't, you must. If you must, you can." - Tony Robbins*
+*"Action is the foundational key to all success." - Pablo Picasso*
 
 
 
-*English: Friday, 05 December 2025 | Nepali: Friday, 19 Mangsir 2082*
+*English: Saturday, 06 December 2025 | Nepali: Saturday, 20 Mangsir 2082*
 
 
 </div>
