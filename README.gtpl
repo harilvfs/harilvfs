@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Action is the foundational key to all success." - Pablo Picasso*
+*"Heaven is right where you are standing." - Morihei Ueshiba*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 06 December 2025 | Nepali: Saturday, 20 Mangsir 2082*
+*English: Sunday, 07 December 2025 | Nepali: Sunday, 21 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
