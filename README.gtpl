@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Heaven is right where you are standing." - Morihei Ueshiba*
+*"Trust, like the soul, never returns once it is gone." - Publilius Syrus*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 07 December 2025 | Nepali: Sunday, 21 Mangsir 2082*
+*English: Monday, 08 December 2025 | Nepali: Monday, 22 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
