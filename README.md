@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Trust, like the soul, never returns once it is gone." - Publilius Syrus*
+*"To love means loving the unlovable." - Gilbert Chesterton*
 
 
 
-*English: Monday, 08 December 2025 | Nepali: Monday, 22 Mangsir 2082*
+*English: Tuesday, 09 December 2025 | Nepali: Tuesday, 23 Mangsir 2082*
 
 
 </div>
