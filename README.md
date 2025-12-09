@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"To love means loving the unlovable." - Gilbert Chesterton*
+*"Nothing ever goes away until it has taught us what we need to know." - Pema Chodron*
 
 
 
-*English: Tuesday, 09 December 2025 | Nepali: Tuesday, 23 Mangsir 2082*
+*English: Wednesday, 10 December 2025 | Nepali: Wednesday, 24 Mangsir 2082*
 
 
 </div>
