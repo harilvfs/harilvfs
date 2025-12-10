@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Nothing ever goes away until it has taught us what we need to know." - Pema Chodron*
+*"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. " - Henry Ford*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 10 December 2025 | Nepali: Wednesday, 24 Mangsir 2082*
+*English: Thursday, 11 December 2025 | Nepali: Thursday, 25 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
