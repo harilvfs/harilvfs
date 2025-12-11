@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. " - Henry Ford*
+*"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." - Steve Maraboli*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 11 December 2025 | Nepali: Thursday, 25 Mangsir 2082*
+*English: Friday, 12 December 2025 | Nepali: Friday, 26 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
