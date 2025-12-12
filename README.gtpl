@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." - Steve Maraboli*
+*"People tend to complicate their own lives, as if living weren't already complicated enough." - Carlos Ruiz Zafon*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 12 December 2025 | Nepali: Friday, 26 Mangsir 2082*
+*English: Saturday, 13 December 2025 | Nepali: Saturday, 27 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
