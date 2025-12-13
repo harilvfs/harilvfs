@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"People tend to complicate their own lives, as if living weren't already complicated enough." - Carlos Ruiz Zafon*
+*"Art is the signature of civilizations. " - Beverly Sills*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 13 December 2025 | Nepali: Saturday, 27 Mangsir 2082*
+*English: Sunday, 14 December 2025 | Nepali: Sunday, 28 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
