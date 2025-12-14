@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Art is the signature of civilizations. " - Beverly Sills*
+*"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." - Wayne Gretzky*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 14 December 2025 | Nepali: Sunday, 28 Mangsir 2082*
+*English: Monday, 15 December 2025 | Nepali: Monday, 29 Mangsir 2082*
 <!-- DATE_END -->
 
 </div>
