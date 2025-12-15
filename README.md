@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." - Wayne Gretzky*
+*"You just can't beat the person who never gives up. " - Babe Ruth*
 
 
 
-*English: Monday, 15 December 2025 | Nepali: Monday, 29 Mangsir 2082*
+*English: Tuesday, 16 December 2025 | Nepali: Tuesday, 01 Poush 2082*
 
 
 </div>
