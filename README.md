@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You just can't beat the person who never gives up. " - Babe Ruth*
+*"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy*
 
 
 
-*English: Tuesday, 16 December 2025 | Nepali: Tuesday, 01 Poush 2082*
+*English: Wednesday, 17 December 2025 | Nepali: Wednesday, 02 Poush 2082*
 
 
 </div>
