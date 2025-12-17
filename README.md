@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy*
+*It does not matter how slowly you go as long as you do not stop. - Confucius*
 
 
 
-*English: Wednesday, 17 December 2025 | Nepali: Wednesday, 02 Poush 2082*
+*English: Thursday, 18 December 2025 | Nepali: Thursday, 03 Poush 2082*
 
 
 </div>
