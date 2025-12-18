@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*It does not matter how slowly you go as long as you do not stop. - Confucius*
+*"What's the point in being smart enough to read, if everything you read makes you dumb?" - C. Sean McGee*
 
 
 
-*English: Thursday, 18 December 2025 | Nepali: Thursday, 03 Poush 2082*
+*English: Friday, 19 December 2025 | Nepali: Friday, 04 Poush 2082*
 
 
 </div>
