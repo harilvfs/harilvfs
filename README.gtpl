@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I have no methods; all I do is accept people as they are." - Joan Rivers*
+*"What the caterpillar calls the end of the world, the master calls a butterfly." - Richard Bach*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 20 December 2025 | Nepali: Saturday, 05 Poush 2082*
+*English: Sunday, 21 December 2025 | Nepali: Sunday, 06 Poush 2082*
 <!-- DATE_END -->
 
 </div>
