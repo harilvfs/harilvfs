@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"What the caterpillar calls the end of the world, the master calls a butterfly." - Richard Bach*
+*"It is only depth of character that determines the profundity with which we face life." - Ming-Dao Deng*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 21 December 2025 | Nepali: Sunday, 06 Poush 2082*
+*English: Monday, 22 December 2025 | Nepali: Monday, 07 Poush 2082*
 <!-- DATE_END -->
 
 </div>
