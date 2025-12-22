@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It is only depth of character that determines the profundity with which we face life." - Ming-Dao Deng*
+*"A rational person can find peace by cultivating indifference to things outside of their control." - Naval Ravikant*
 
 
 
-*English: Monday, 22 December 2025 | Nepali: Monday, 07 Poush 2082*
+*English: Tuesday, 23 December 2025 | Nepali: Tuesday, 08 Poush 2082*
 
 
 </div>
