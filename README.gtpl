@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A rational person can find peace by cultivating indifference to things outside of their control." - Naval Ravikant*
+*"The goal is not to show how great you are to others, but how vulnerable you are to yourself." - Maxime Lagace*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 23 December 2025 | Nepali: Tuesday, 08 Poush 2082*
+*English: Wednesday, 24 December 2025 | Nepali: Wednesday, 09 Poush 2082*
 <!-- DATE_END -->
 
 </div>
