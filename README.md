@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The goal is not to show how great you are to others, but how vulnerable you are to yourself." - Maxime Lagace*
+*"If the only prayer you ever say in your entire life is thank you, it will be enough." - Meister Eckhart*
 
 
 
-*English: Wednesday, 24 December 2025 | Nepali: Wednesday, 09 Poush 2082*
+*English: Thursday, 25 December 2025 | Nepali: Thursday, 10 Poush 2082*
 
 
 </div>
