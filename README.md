@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If the only prayer you ever say in your entire life is thank you, it will be enough." - Meister Eckhart*
+*"Thinking is the hardest work there is, which is probably the reason why so few engage in it." - Henry Ford*
 
 
 
-*English: Thursday, 25 December 2025 | Nepali: Thursday, 10 Poush 2082*
+*English: Friday, 26 December 2025 | Nepali: Friday, 11 Poush 2082*
 
 
 </div>
