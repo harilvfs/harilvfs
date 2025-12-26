@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Thinking is the hardest work there is, which is probably the reason why so few engage in it." - Henry Ford*
+*"Self-control is strength." - James Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 26 December 2025 | Nepali: Friday, 11 Poush 2082*
+*English: Saturday, 27 December 2025 | Nepali: Saturday, 12 Poush 2082*
 <!-- DATE_END -->
 
 </div>
