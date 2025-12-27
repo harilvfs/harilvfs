@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Self-control is strength." - James Allen*
+*"We will now discuss in a little more detail the Struggle for Existence." - Charles Darwin*
 
 
 
-*English: Saturday, 27 December 2025 | Nepali: Saturday, 12 Poush 2082*
+*English: Sunday, 28 December 2025 | Nepali: Sunday, 13 Poush 2082*
 
 
 </div>
