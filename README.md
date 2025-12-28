@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"We will now discuss in a little more detail the Struggle for Existence." - Charles Darwin*
+*"Do good, live in the most positive and joyful way possible every day." - Roy T. Bennett*
 
 
 
-*English: Sunday, 28 December 2025 | Nepali: Sunday, 13 Poush 2082*
+*English: Monday, 29 December 2025 | Nepali: Monday, 14 Poush 2082*
 
 
 </div>
