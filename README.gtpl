@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Do good, live in the most positive and joyful way possible every day." - Roy T. Bennett*
+*"Life doesn't get easier or more forgiving, we get stronger and more resilient." - Steve Maraboli*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 29 December 2025 | Nepali: Monday, 14 Poush 2082*
+*English: Tuesday, 30 December 2025 | Nepali: Tuesday, 15 Poush 2082*
 <!-- DATE_END -->
 
 </div>
