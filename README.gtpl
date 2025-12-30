@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life doesn't get easier or more forgiving, we get stronger and more resilient." - Steve Maraboli*
+*"Just living is not enough... one must have sunshine, freedom, and a little flower. " - Hans Christian Andersen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 30 December 2025 | Nepali: Tuesday, 15 Poush 2082*
+*English: Wednesday, 31 December 2025 | Nepali: Wednesday, 16 Poush 2082*
 <!-- DATE_END -->
 
 </div>
