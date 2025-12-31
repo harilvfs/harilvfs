@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Just living is not enough... one must have sunshine, freedom, and a little flower. " - Hans Christian Andersen*
+*"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to." - Kahlil Gibran*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 31 December 2025 | Nepali: Wednesday, 16 Poush 2082*
+*English: Thursday, 01 January 2026 | Nepali: Thursday, 17 Poush 2082*
 <!-- DATE_END -->
 
 </div>
