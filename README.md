@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to." - Kahlil Gibran*
+*"You can't let your failures define you. You have to let your failures teach you." - Barack Obama*
 
 
 
-*English: Thursday, 01 January 2026 | Nepali: Thursday, 17 Poush 2082*
+*English: Friday, 02 January 2026 | Nepali: Friday, 18 Poush 2082*
 
 
 </div>
