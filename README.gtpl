@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can't let your failures define you. You have to let your failures teach you." - Barack Obama*
+*"The key to success is to focus our conscious mind on things we desire not things we fear. " - Brian Tracy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 02 January 2026 | Nepali: Friday, 18 Poush 2082*
+*English: Saturday, 03 January 2026 | Nepali: Saturday, 19 Poush 2082*
 <!-- DATE_END -->
 
 </div>
