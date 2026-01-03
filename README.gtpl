@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The key to success is to focus our conscious mind on things we desire not things we fear. " - Brian Tracy*
+*"Don't let the silly little dramas of each day get you down. For you are here to do great things." - Ralph Marston*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 03 January 2026 | Nepali: Saturday, 19 Poush 2082*
+*English: Sunday, 04 January 2026 | Nepali: Sunday, 20 Poush 2082*
 <!-- DATE_END -->
 
 </div>
