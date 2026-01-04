@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't let the silly little dramas of each day get you down. For you are here to do great things." - Ralph Marston*
+*"He who fails to plan, plans to fail." - Unknown*
 
 
 
-*English: Sunday, 04 January 2026 | Nepali: Sunday, 20 Poush 2082*
+*English: Monday, 05 January 2026 | Nepali: Monday, 21 Poush 2082*
 
 
 </div>
