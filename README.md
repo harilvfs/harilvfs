@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"He who fails to plan, plans to fail." - Unknown*
+*"You can never get enough of what you don't need to make you happy." - Eric Hoffer*
 
 
 
-*English: Monday, 05 January 2026 | Nepali: Monday, 21 Poush 2082*
+*English: Tuesday, 06 January 2026 | Nepali: Tuesday, 22 Poush 2082*
 
 
 </div>
