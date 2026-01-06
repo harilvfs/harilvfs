@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You can never get enough of what you don't need to make you happy." - Eric Hoffer*
+*"Character is doing what you don't want to do but know you should do." - Joyce Meyer*
 
 
 
-*English: Tuesday, 06 January 2026 | Nepali: Tuesday, 22 Poush 2082*
+*English: Wednesday, 07 January 2026 | Nepali: Wednesday, 23 Poush 2082*
 
 
 </div>
