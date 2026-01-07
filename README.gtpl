@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Character is doing what you don't want to do but know you should do." - Joyce Meyer*
+*"A hero is an ordinary person doing things in an extra ordinary way." - Christopher Reeve*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 07 January 2026 | Nepali: Wednesday, 23 Poush 2082*
+*English: Thursday, 08 January 2026 | Nepali: Thursday, 24 Poush 2082*
 <!-- DATE_END -->
 
 </div>
