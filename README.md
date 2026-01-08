@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A hero is an ordinary person doing things in an extra ordinary way." - Christopher Reeve*
+*"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking*
 
 
 
-*English: Thursday, 08 January 2026 | Nepali: Thursday, 24 Poush 2082*
+*English: Friday, 09 January 2026 | Nepali: Friday, 25 Poush 2082*
 
 
 </div>
