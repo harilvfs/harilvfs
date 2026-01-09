@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking*
+*"Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale*
 
 
 
-*English: Friday, 09 January 2026 | Nepali: Friday, 25 Poush 2082*
+*English: Saturday, 10 January 2026 | Nepali: Saturday, 26 Poush 2082*
 
 
 </div>
