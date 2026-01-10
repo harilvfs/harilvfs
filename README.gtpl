@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale*
+*"You have the potential for greatness." - Steve Harvey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 10 January 2026 | Nepali: Saturday, 26 Poush 2082*
+*English: Sunday, 11 January 2026 | Nepali: Sunday, 27 Poush 2082*
 <!-- DATE_END -->
 
 </div>
