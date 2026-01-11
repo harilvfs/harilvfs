@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You have the potential for greatness." - Steve Harvey*
+*"Great acts are made up of small deeds." - Lao Tzu*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 11 January 2026 | Nepali: Sunday, 27 Poush 2082*
+*English: Monday, 12 January 2026 | Nepali: Monday, 28 Poush 2082*
 <!-- DATE_END -->
 
 </div>
