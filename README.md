@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Great acts are made up of small deeds." - Lao Tzu*
+*"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - Roy T. Bennett*
 
 
 
-*English: Monday, 12 January 2026 | Nepali: Monday, 28 Poush 2082*
+*English: Tuesday, 13 January 2026 | Nepali: Tuesday, 29 Poush 2082*
 
 
 </div>
