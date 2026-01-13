@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform." - Roy T. Bennett*
+*"People seldom do what they believe in. They do what is convenient, then repent." - Bob Dylan*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 13 January 2026 | Nepali: Tuesday, 29 Poush 2082*
+*English: Wednesday, 14 January 2026 | Nepali: Wednesday, 30 Poush 2082*
 <!-- DATE_END -->
 
 </div>
