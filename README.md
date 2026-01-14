@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"People seldom do what they believe in. They do what is convenient, then repent." - Bob Dylan*
+*"Life happens in the river, not the shore." - Maxime Lagace*
 
 
 
-*English: Wednesday, 14 January 2026 | Nepali: Wednesday, 30 Poush 2082*
+*English: Thursday, 15 January 2026 | Nepali: Thursday, 01 Magh 2082*
 
 
 </div>
