@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life happens in the river, not the shore." - Maxime Lagace*
+*"The best time to plant a tree was 20 years ago. The second best time is now." - Zen Proverb*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 15 January 2026 | Nepali: Thursday, 01 Magh 2082*
+*English: Friday, 16 January 2026 | Nepali: Friday, 02 Magh 2082*
 <!-- DATE_END -->
 
 </div>
