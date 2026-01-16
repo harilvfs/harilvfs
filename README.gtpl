@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The best time to plant a tree was 20 years ago. The second best time is now." - Zen Proverb*
+*"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 16 January 2026 | Nepali: Friday, 02 Magh 2082*
+*English: Saturday, 17 January 2026 | Nepali: Saturday, 03 Magh 2082*
 <!-- DATE_END -->
 
 </div>
