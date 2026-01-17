@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A man is but a product of his thoughts. What he thinks he becomes." - Mahatma Gandhi*
+*"Don't wish it were easier, wish you were better." - Jim Rohn*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 17 January 2026 | Nepali: Saturday, 03 Magh 2082*
+*English: Sunday, 18 January 2026 | Nepali: Sunday, 04 Magh 2082*
 <!-- DATE_END -->
 
 </div>
