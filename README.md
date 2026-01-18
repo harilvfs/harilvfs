@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't wish it were easier, wish you were better." - Jim Rohn*
+*"Friends ask you questions; enemies question you." - Criss Jami*
 
 
 
-*English: Sunday, 18 January 2026 | Nepali: Sunday, 04 Magh 2082*
+*English: Monday, 19 January 2026 | Nepali: Monday, 05 Magh 2082*
 
 
 </div>
