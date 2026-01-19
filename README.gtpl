@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Friends ask you questions; enemies question you." - Criss Jami*
+*"It's easier to lose than to win.  " - Wayne Gretzky*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 19 January 2026 | Nepali: Monday, 05 Magh 2082*
+*English: Tuesday, 20 January 2026 | Nepali: Tuesday, 06 Magh 2082*
 <!-- DATE_END -->
 
 </div>
