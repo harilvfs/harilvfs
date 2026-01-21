@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Normality is a paved road: It's comfortable to walk, but no flowers grow on it." - Vincent van Gogh*
+*"Everything that is done in the world is done by hope." - Martin Luther*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 21 January 2026 | Nepali: Wednesday, 07 Magh 2082*
+*English: Thursday, 22 January 2026 | Nepali: Thursday, 08 Magh 2082*
 <!-- DATE_END -->
 
 </div>
