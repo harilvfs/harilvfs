@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Everything that is done in the world is done by hope." - Martin Luther*
+*"Dance first. Think later. It's the natural order." - Samuel Beckett*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 22 January 2026 | Nepali: Thursday, 08 Magh 2082*
+*English: Friday, 23 January 2026 | Nepali: Friday, 09 Magh 2082*
 <!-- DATE_END -->
 
 </div>
