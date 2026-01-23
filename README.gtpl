@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Dance first. Think later. It's the natural order." - Samuel Beckett*
+*"Thinking is the hardest work there is. That is why so few people engage in it." - Robert Kiyosaki*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 23 January 2026 | Nepali: Friday, 09 Magh 2082*
+*English: Saturday, 24 January 2026 | Nepali: Saturday, 10 Magh 2082*
 <!-- DATE_END -->
 
 </div>
