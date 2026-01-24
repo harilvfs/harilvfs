@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Thinking is the hardest work there is. That is why so few people engage in it." - Robert Kiyosaki*
+*"A thing must be loved before it is lovable." - Gilbert Chesterton*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Saturday, 24 January 2026 | Nepali: Saturday, 10 Magh 2082*
+*English: Sunday, 25 January 2026 | Nepali: Sunday, 11 Magh 2082*
 <!-- DATE_END -->
 
 </div>
