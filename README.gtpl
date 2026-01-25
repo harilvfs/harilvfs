@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A thing must be loved before it is lovable." - Gilbert Chesterton*
+*"Honesty is the first chapter in the book of wisdom." - Thomas Jefferson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Sunday, 25 January 2026 | Nepali: Sunday, 11 Magh 2082*
+*English: Monday, 26 January 2026 | Nepali: Monday, 12 Magh 2082*
 <!-- DATE_END -->
 
 </div>
