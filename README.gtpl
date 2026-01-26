@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Honesty is the first chapter in the book of wisdom." - Thomas Jefferson*
+*"To be truly ignorant, be content with your own knowledge." - Zhuangzi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Monday, 26 January 2026 | Nepali: Monday, 12 Magh 2082*
+*English: Tuesday, 27 January 2026 | Nepali: Tuesday, 13 Magh 2082*
 <!-- DATE_END -->
 
 </div>
