@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To be truly ignorant, be content with your own knowledge." - Zhuangzi*
+*"Before anything else, preparation is the key to success." - Alexander Graham Bell*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Tuesday, 27 January 2026 | Nepali: Tuesday, 13 Magh 2082*
+*English: Wednesday, 28 January 2026 | Nepali: Wednesday, 14 Magh 2082*
 <!-- DATE_END -->
 
 </div>
