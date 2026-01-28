@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Before anything else, preparation is the key to success." - Alexander Graham Bell*
+*"The chief enemy of creativity is good sense." - Pablo Picasso*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Wednesday, 28 January 2026 | Nepali: Wednesday, 14 Magh 2082*
+*English: Thursday, 29 January 2026 | Nepali: Thursday, 15 Magh 2082*
 <!-- DATE_END -->
 
 </div>
