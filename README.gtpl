@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The chief enemy of creativity is good sense." - Pablo Picasso*
+*"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." - Steve Jobs*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Thursday, 29 January 2026 | Nepali: Thursday, 15 Magh 2082*
+*English: Friday, 30 January 2026 | Nepali: Friday, 16 Magh 2082*
 <!-- DATE_END -->
 
 </div>
