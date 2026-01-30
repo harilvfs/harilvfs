@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." - Steve Jobs*
+*"It is passion that makes man live; wisdom makes one only last." - Nicolas Chamfort*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*English: Friday, 30 January 2026 | Nepali: Friday, 16 Magh 2082*
+*English: Saturday, 31 January 2026 | Nepali: Saturday, 17 Magh 2082*
 <!-- DATE_END -->
 
 </div>
