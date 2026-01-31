@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It is passion that makes man live; wisdom makes one only last." - Nicolas Chamfort*
+*"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them." - Roy T. Bennett*
 
 
 
-*English: Saturday, 31 January 2026 | Nepali: Saturday, 17 Magh 2082*
+*English: Sunday, 01 February 2026 | Nepali: Sunday, 18 Magh 2082*
 
 
 </div>
