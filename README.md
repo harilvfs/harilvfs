@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them." - Roy T. Bennett*
+*"If you've never eaten while crying you don t know what life tastes like." - Johann Wolfgang von Goethe*
 
 
 
-*English: Sunday, 01 February 2026 | Nepali: Sunday, 18 Magh 2082*
+*English: Monday, 02 February 2026 | Nepali: Monday, 19 Magh 2082*
 
 
 </div>
