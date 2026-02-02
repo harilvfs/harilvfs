@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you've never eaten while crying you don t know what life tastes like." - Johann Wolfgang von Goethe*
+*"What worries you, masters you." - John Locke*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->

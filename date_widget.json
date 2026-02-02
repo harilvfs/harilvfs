@@ -1,0 +1,15 @@
+{
+  "nepali_date": "Monday, 19 Magh 2082",
+  "english_date": "Monday, 02 February 2026",
+  "update_timestamp": "2026-02-02T10:42:55.800351+05:45",
+  "formatted_display": "English: Monday, 02 February 2026 | Nepali: Monday, 19 Magh 2082",
+  "short_english": "02 Feb 2026",
+  "short_nepali": "19 Mag 2082",
+  "weekday_english": "Monday",
+  "weekday_nepali": "Monday",
+  "quote": "What worries you, masters you.",
+  "quote_author": "John Locke",
+  "formatted_quote": "\"What worries you, masters you.\" - John Locke",
+  "quote_status": "success",
+  "has_quote_error": false
+}
