@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"What worries you, masters you." - John Locke*
+*"Anything becomes interesting if you look at it long enough.." - Gustave Flaubert*
 
 
 
-*English: Monday, 02 February 2026 | Nepali: Monday, 19 Magh 2082*
+*🇬🇧 Monday, 02 February 2026 | 🇳🇵 Monday, 19 Magh 2082*
 
 
 </div>
