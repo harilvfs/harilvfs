@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Anything becomes interesting if you look at it long enough.." - Gustave Flaubert*
+*"Happiness must be grown in one's own garden." - Mary Engelbreit*
 
 
 
-*🇬🇧 Monday, 02 February 2026 | 🇳🇵 Monday, 19 Magh 2082*
+*🇬🇧 Tuesday, 03 February 2026 | 🇳🇵 Tuesday, 20 Magh 2082*
 
 
 </div>
