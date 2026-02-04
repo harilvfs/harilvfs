@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"We can change our lives. We can do, have, and be exactly what we wish." - Tony Robbins*
+*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
 
 
 
-*🇬🇧 Wednesday, 04 February 2026 | 🇳🇵 Wednesday, 21 Magh 2082*
+*🇬🇧 Thursday, 05 February 2026 | 🇳🇵 Thursday, 22 Magh 2082*
 
 
 </div>
