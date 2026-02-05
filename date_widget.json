@@ -1,15 +1,15 @@
 {
-  "nepali_date": "Thursday, 22 Magh 2082",
-  "english_date": "Thursday, 05 February 2026",
-  "update_timestamp": "2026-02-05T00:53:42.257931+05:45",
-  "formatted_display": "English: Thursday, 05 February 2026 | Nepali: Thursday, 22 Magh 2082",
-  "short_english": "05 Feb 2026",
-  "short_nepali": "22 Mag 2082",
-  "weekday_english": "Thursday",
-  "weekday_nepali": "Thursday",
-  "quote": "A clever person turns great troubles into little ones, and little ones into none at all. ",
-  "quote_author": "Chinese Proverb",
-  "formatted_quote": "\"A clever person turns great troubles into little ones, and little ones into none at all. \" - Chinese Proverb",
-  "quote_status": "success",
-  "has_quote_error": false
+  "nepali_date": "Friday, 23 Magh 2082",
+  "english_date": "Friday, 06 February 2026",
+  "update_timestamp": "2026-02-06T00:52:27.824912+05:45",
+  "formatted_display": "English: Friday, 06 February 2026 | Nepali: Friday, 23 Magh 2082",
+  "short_english": "06 Feb 2026",
+  "short_nepali": "23 Mag 2082",
+  "weekday_english": "Friday",
+  "weekday_nepali": "Friday",
+  "quote": "oops api fail check repo :(",
+  "quote_author": "API Error",
+  "formatted_quote": "oops api fail check repo :(",
+  "quote_status": "error",
+  "has_quote_error": true
 }

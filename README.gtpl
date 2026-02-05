@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A clever person turns great troubles into little ones, and little ones into none at all. " - Chinese Proverb*
+*oops api fail check repo :(*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 05 February 2026 | 🇳🇵 Thursday, 22 Magh 2082*
+*🇬🇧 Friday, 06 February 2026 | 🇳🇵 Friday, 23 Magh 2082*
 <!-- DATE_END -->
 
 </div>
