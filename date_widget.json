@@ -1,15 +1,15 @@
 {
-  "nepali_date": "Friday, 23 Magh 2082",
-  "english_date": "Friday, 06 February 2026",
-  "update_timestamp": "2026-02-06T00:52:27.824912+05:45",
-  "formatted_display": "English: Friday, 06 February 2026 | Nepali: Friday, 23 Magh 2082",
-  "short_english": "06 Feb 2026",
-  "short_nepali": "23 Mag 2082",
-  "weekday_english": "Friday",
-  "weekday_nepali": "Friday",
-  "quote": "oops api fail check repo :(",
-  "quote_author": "API Error",
-  "formatted_quote": "oops api fail check repo :(",
-  "quote_status": "error",
-  "has_quote_error": true
+  "nepali_date": "Saturday, 24 Magh 2082",
+  "english_date": "Saturday, 07 February 2026",
+  "update_timestamp": "2026-02-07T00:52:58.887390+05:45",
+  "formatted_display": "English: Saturday, 07 February 2026 | Nepali: Saturday, 24 Magh 2082",
+  "short_english": "07 Feb 2026",
+  "short_nepali": "24 Mag 2082",
+  "weekday_english": "Saturday",
+  "weekday_nepali": "Saturday",
+  "quote": "If fear is too strong, the genius is suppressed.",
+  "quote_author": "Robert Kiyosaki",
+  "formatted_quote": "\"If fear is too strong, the genius is suppressed.\" - Robert Kiyosaki",
+  "quote_status": "success",
+  "has_quote_error": false
 }
