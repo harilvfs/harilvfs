@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*oops api fail check repo :(*
+*"If fear is too strong, the genius is suppressed." - Robert Kiyosaki*
 
 
 
-*🇬🇧 Friday, 06 February 2026 | 🇳🇵 Friday, 23 Magh 2082*
+*🇬🇧 Saturday, 07 February 2026 | 🇳🇵 Saturday, 24 Magh 2082*
 
 
 </div>
