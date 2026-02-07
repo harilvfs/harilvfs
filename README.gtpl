@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If fear is too strong, the genius is suppressed." - Robert Kiyosaki*
+*"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." - Gurbaksh Chahal*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 07 February 2026 | 🇳🇵 Saturday, 24 Magh 2082*
+*🇬🇧 Sunday, 08 February 2026 | 🇳🇵 Sunday, 25 Magh 2082*
 <!-- DATE_END -->
 
 </div>
