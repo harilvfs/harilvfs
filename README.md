@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." - Gurbaksh Chahal*
+*"The greatest of empires, is the empire over one's self." - Publilius Syrus*
 
 
 
-*🇬🇧 Sunday, 08 February 2026 | 🇳🇵 Sunday, 25 Magh 2082*
+*🇬🇧 Monday, 09 February 2026 | 🇳🇵 Monday, 26 Magh 2082*
 
 
 </div>
