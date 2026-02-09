@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The greatest of empires, is the empire over one's self." - Publilius Syrus*
+*"Convinced myself, I seek not to convince." - Edgar Allan Poe*
 
 
 
-*🇬🇧 Monday, 09 February 2026 | 🇳🇵 Monday, 26 Magh 2082*
+*🇬🇧 Tuesday, 10 February 2026 | 🇳🇵 Tuesday, 27 Magh 2082*
 
 
 </div>
