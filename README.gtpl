@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Convinced myself, I seek not to convince." - Edgar Allan Poe*
+*"The world only exists in your eyes. You can make it as big or as small as you want." - F. Scott Fitzgerald*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 10 February 2026 | 🇳🇵 Tuesday, 27 Magh 2082*
+*🇬🇧 Wednesday, 11 February 2026 | 🇳🇵 Wednesday, 28 Magh 2082*
 <!-- DATE_END -->
 
 </div>
