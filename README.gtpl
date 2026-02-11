@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The world only exists in your eyes. You can make it as big or as small as you want." - F. Scott Fitzgerald*
+*"The biggest challenge after success is shutting up about it." - Criss Jami*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 11 February 2026 | 🇳🇵 Wednesday, 28 Magh 2082*
+*🇬🇧 Thursday, 12 February 2026 | 🇳🇵 Thursday, 29 Magh 2082*
 <!-- DATE_END -->
 
 </div>
