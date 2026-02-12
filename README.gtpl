@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The biggest challenge after success is shutting up about it." - Criss Jami*
+*"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 12 February 2026 | 🇳🇵 Thursday, 29 Magh 2082*
+*🇬🇧 Friday, 13 February 2026 | 🇳🇵 Friday, 01 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
