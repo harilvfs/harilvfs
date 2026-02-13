@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The moment you stop to think about whether you love someone, you've already stopped loving that person forever." - Carlos Ruiz Zafon*
+*"Everyone must choose one of two pains: The pain of discipline or the pain of regret." - Jim Rohn*
 
 
 
-*🇬🇧 Friday, 13 February 2026 | 🇳🇵 Friday, 01 Falgun 2082*
+*🇬🇧 Saturday, 14 February 2026 | 🇳🇵 Saturday, 02 Falgun 2082*
 
 
 </div>
