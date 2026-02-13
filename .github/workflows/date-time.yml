@@ -96,7 +96,6 @@ jobs:
               flags=re.DOTALL
           )
           
-          # ONLY THIS LINE CHANGED - added flags instead of "English:"/"Nepali:"
           updated_content = re.sub(
               r"<!-- DATE_START -->.*?<!-- DATE_END -->",
               f"<!-- DATE_START -->\n*🇬🇧 {english_date} | 🇳🇵 {nepali_date}*\n<!-- DATE_END -->",
