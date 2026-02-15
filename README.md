@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Dreams are the touchstones of our characters." - Henry David Thoreau*
+*"Simplicity is a difficult thing to achieve.  " - Charlie Chaplin*
 
 
 
-*🇬🇧 Sunday, 15 February 2026 | 🇳🇵 Sunday, 03 Falgun 2082*
+*🇬🇧 Monday, 16 February 2026 | 🇳🇵 Monday, 04 Falgun 2082*
 
 
 </div>
