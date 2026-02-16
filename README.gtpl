@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Simplicity is a difficult thing to achieve.  " - Charlie Chaplin*
+*"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this." - Henry David Thoreau*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 16 February 2026 | 🇳🇵 Monday, 04 Falgun 2082*
+*🇬🇧 Tuesday, 17 February 2026 | 🇳🇵 Tuesday, 05 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
