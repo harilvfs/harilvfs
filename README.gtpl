@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people." - Jack Butcher*
+*"Life is too short to waste your time on people who don't respect, appreciate, and value you." - Roy T. Bennett*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 18 February 2026 | 🇳🇵 Wednesday, 06 Falgun 2082*
+*🇬🇧 Thursday, 19 February 2026 | 🇳🇵 Thursday, 07 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
