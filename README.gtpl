@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is too short to waste your time on people who don't respect, appreciate, and value you." - Roy T. Bennett*
+*"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." - Sonia Ricotti*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 19 February 2026 | 🇳🇵 Thursday, 07 Falgun 2082*
+*🇬🇧 Friday, 20 February 2026 | 🇳🇵 Friday, 08 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
