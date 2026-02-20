@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." - Sonia Ricotti*
+*"He who has overcome his fears will truly be free." - Aristotle*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 20 February 2026 | 🇳🇵 Friday, 08 Falgun 2082*
+*🇬🇧 Saturday, 21 February 2026 | 🇳🇵 Saturday, 09 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
