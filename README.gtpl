@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"He who has overcome his fears will truly be free." - Aristotle*
+*"The biggest adventure is what lies ahead." - J.R.R. Tolkien*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 21 February 2026 | 🇳🇵 Saturday, 09 Falgun 2082*
+*🇬🇧 Sunday, 22 February 2026 | 🇳🇵 Sunday, 10 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
