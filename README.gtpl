@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The biggest adventure is what lies ahead." - J.R.R. Tolkien*
+*"Sometimes good things fall apart so better things can fall together." - Marilyn Monroe*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 22 February 2026 | 🇳🇵 Sunday, 10 Falgun 2082*
+*🇬🇧 Monday, 23 February 2026 | 🇳🇵 Monday, 11 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
