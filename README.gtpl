@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Sometimes good things fall apart so better things can fall together." - Marilyn Monroe*
+*"When you judge others, you do not define them, you define yourself." - Earl Nightingale*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 23 February 2026 | 🇳🇵 Monday, 11 Falgun 2082*
+*🇬🇧 Tuesday, 24 February 2026 | 🇳🇵 Tuesday, 12 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
