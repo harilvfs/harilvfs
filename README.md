@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"When you judge others, you do not define them, you define yourself." - Earl Nightingale*
+*"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about." - Naval Ravikant*
 
 
 
-*🇬🇧 Tuesday, 24 February 2026 | 🇳🇵 Tuesday, 12 Falgun 2082*
+*🇬🇧 Wednesday, 25 February 2026 | 🇳🇵 Wednesday, 13 Falgun 2082*
 
 
 </div>
