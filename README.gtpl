@@ -58,6 +58,6 @@
 -->
 
 <strong>Reach me:</strong>
-- ~~Telegram   : https://t.me/harilvfs~~ (inactive)
-- ~~Discord    : https://discord.com/invite/8NJWstnUHd~~ (inactive)
+- Telegram   : https://t.me/harilvfs
+- Discord    : https://discord.com/invite/8NJWstnUHd
 - Mail       : <mailto:harilvfs@chalisehari.com.np>
