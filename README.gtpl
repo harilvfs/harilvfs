@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" - Robert Kiyosaki*
+*"He who fails to plan, plans to fail." - Unknown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 26 February 2026 | 🇳🇵 Thursday, 14 Falgun 2082*
+*🇬🇧 Friday, 27 February 2026 | 🇳🇵 Friday, 15 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
