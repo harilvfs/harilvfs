@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"He who fails to plan, plans to fail." - Unknown*
+*"Insanity: doing the same thing over and over again and expecting different results." - Albert Einstein*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 27 February 2026 | 🇳🇵 Friday, 15 Falgun 2082*
+*🇬🇧 Saturday, 28 February 2026 | 🇳🇵 Saturday, 16 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
