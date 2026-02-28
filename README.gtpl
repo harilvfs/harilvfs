@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Insanity: doing the same thing over and over again and expecting different results." - Albert Einstein*
+*"Life is the art of drawing sufficient conclusions from insufficient premises." - Samuel Butler*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 28 February 2026 | 🇳🇵 Saturday, 16 Falgun 2082*
+*🇬🇧 Sunday, 01 March 2026 | 🇳🇵 Sunday, 17 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
