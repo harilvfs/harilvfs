@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life is the art of drawing sufficient conclusions from insufficient premises." - Samuel Butler*
+*"In order for you to be the BEST you can be for others, first you must be BEST for yourself." - Jeffrey Gitomer*
 
 
 
-*🇬🇧 Sunday, 01 March 2026 | 🇳🇵 Sunday, 17 Falgun 2082*
+*🇬🇧 Monday, 02 March 2026 | 🇳🇵 Monday, 18 Falgun 2082*
 
 
 </div>
