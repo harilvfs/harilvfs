@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"In order for you to be the BEST you can be for others, first you must be BEST for yourself." - Jeffrey Gitomer*
+*"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with." - Woody Allen*
 
 
 
-*🇬🇧 Monday, 02 March 2026 | 🇳🇵 Monday, 18 Falgun 2082*
+*🇬🇧 Tuesday, 03 March 2026 | 🇳🇵 Tuesday, 19 Falgun 2082*
 
 
 </div>
