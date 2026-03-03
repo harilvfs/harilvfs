@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with." - Woody Allen*
+*"Worry is a waste of emotional reserve." - Ayn Rand*
 
 
 
-*🇬🇧 Tuesday, 03 March 2026 | 🇳🇵 Tuesday, 19 Falgun 2082*
+*🇬🇧 Wednesday, 04 March 2026 | 🇳🇵 Wednesday, 20 Falgun 2082*
 
 
 </div>
