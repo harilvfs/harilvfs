@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"From error to error one discovers the entire truth." - Sigmund Freud*
+*"What do we live for if not to make life less difficult for each other?" - T.S. Eliot*
 
 
 
-*🇬🇧 Thursday, 05 March 2026 | 🇳🇵 Thursday, 21 Falgun 2082*
+*🇬🇧 Friday, 06 March 2026 | 🇳🇵 Friday, 22 Falgun 2082*
 
 
 </div>
