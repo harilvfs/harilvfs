@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"What do we live for if not to make life less difficult for each other?" - T.S. Eliot*
+*"If you're not failing every now and again, it's a sign you're not doing anything very innovative." - Woody Allen*
 
 
 
-*🇬🇧 Friday, 06 March 2026 | 🇳🇵 Friday, 22 Falgun 2082*
+*🇬🇧 Saturday, 07 March 2026 | 🇳🇵 Saturday, 23 Falgun 2082*
 
 
 </div>
