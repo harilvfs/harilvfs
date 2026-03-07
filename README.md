@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If you're not failing every now and again, it's a sign you're not doing anything very innovative." - Woody Allen*
+*"By seeking and blundering we learn." - Johann Wolfgang von Goethe*
 
 
 
-*🇬🇧 Saturday, 07 March 2026 | 🇳🇵 Saturday, 23 Falgun 2082*
+*🇬🇧 Sunday, 08 March 2026 | 🇳🇵 Sunday, 24 Falgun 2082*
 
 
 </div>
