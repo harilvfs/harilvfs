@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"By seeking and blundering we learn." - Johann Wolfgang von Goethe*
+*"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." - Robert Greene*
 
 
 
-*🇬🇧 Sunday, 08 March 2026 | 🇳🇵 Sunday, 24 Falgun 2082*
+*🇬🇧 Monday, 09 March 2026 | 🇳🇵 Monday, 25 Falgun 2082*
 
 
 </div>
