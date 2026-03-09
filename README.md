@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in." - Robert Greene*
+*"He who permits himself to tell a lie once, finds it much easier to do it the second time." - Thomas Jefferson*
 
 
 
-*🇬🇧 Monday, 09 March 2026 | 🇳🇵 Monday, 25 Falgun 2082*
+*🇬🇧 Tuesday, 10 March 2026 | 🇳🇵 Tuesday, 26 Falgun 2082*
 
 
 </div>
