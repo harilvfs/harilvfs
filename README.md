@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"He who permits himself to tell a lie once, finds it much easier to do it the second time." - Thomas Jefferson*
+*"Trying to define yourself is like trying to bite your own teeth." - Zen Proverb*
 
 
 
-*🇬🇧 Tuesday, 10 March 2026 | 🇳🇵 Tuesday, 26 Falgun 2082*
+*🇬🇧 Wednesday, 11 March 2026 | 🇳🇵 Wednesday, 27 Falgun 2082*
 
 
 </div>
