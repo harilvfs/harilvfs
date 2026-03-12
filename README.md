@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"I never said it would be easy, I only said it would be worth it." - Mae West*
+*"If you can handle rejection, you'll learn to get everything you want." - Tony Robbins*
 
 
 
-*🇬🇧 Thursday, 12 March 2026 | 🇳🇵 Thursday, 28 Falgun 2082*
+*🇬🇧 Friday, 13 March 2026 | 🇳🇵 Friday, 29 Falgun 2082*
 
 
 </div>
