@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you can handle rejection, you'll learn to get everything you want." - Tony Robbins*
+*"Change happens when the pain of holding on becomes greater than the fear of letting go." - Spencer Johnson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 13 March 2026 | 🇳🇵 Friday, 29 Falgun 2082*
+*🇬🇧 Saturday, 14 March 2026 | 🇳🇵 Saturday, 30 Falgun 2082*
 <!-- DATE_END -->
 
 </div>
