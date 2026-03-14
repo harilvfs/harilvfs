@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Change happens when the pain of holding on becomes greater than the fear of letting go." - Spencer Johnson*
+*"You can't wait for inspiration. You have to go after it with a club. " - Jack London*
 
 
 
-*🇬🇧 Saturday, 14 March 2026 | 🇳🇵 Saturday, 30 Falgun 2082*
+*🇬🇧 Sunday, 15 March 2026 | 🇳🇵 Sunday, 01 Chaitra 2082*
 
 
 </div>
