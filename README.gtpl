@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You can't wait for inspiration. You have to go after it with a club. " - Jack London*
+*"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." - Criss Jami*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 15 March 2026 | 🇳🇵 Sunday, 01 Chaitra 2082*
+*🇬🇧 Monday, 16 March 2026 | 🇳🇵 Monday, 02 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
