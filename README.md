@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." - Criss Jami*
+*"Whenever people agree with me I always feel I must be wrong." - Oscar Wilde*
 
 
 
-*🇬🇧 Monday, 16 March 2026 | 🇳🇵 Monday, 02 Chaitra 2082*
+*🇬🇧 Tuesday, 17 March 2026 | 🇳🇵 Tuesday, 03 Chaitra 2082*
 
 
 </div>
