@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Whenever people agree with me I always feel I must be wrong." - Oscar Wilde*
+*"Creativity is the greatest rebellion in existence." - Osho*
 
 
 
-*🇬🇧 Tuesday, 17 March 2026 | 🇳🇵 Tuesday, 03 Chaitra 2082*
+*🇬🇧 Wednesday, 18 March 2026 | 🇳🇵 Wednesday, 04 Chaitra 2082*
 
 
 </div>
