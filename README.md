@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Creativity is the greatest rebellion in existence." - Osho*
+*"If you don't find the time, if you don't do the work, you don't get the results." - Arnold Schwarzenegger*
 
 
 
-*🇬🇧 Wednesday, 18 March 2026 | 🇳🇵 Wednesday, 04 Chaitra 2082*
+*🇬🇧 Thursday, 19 March 2026 | 🇳🇵 Thursday, 05 Chaitra 2082*
 
 
 </div>
