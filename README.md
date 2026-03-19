@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If you don't find the time, if you don't do the work, you don't get the results." - Arnold Schwarzenegger*
+*"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." - Henry David Thoreau*
 
 
 
-*🇬🇧 Thursday, 19 March 2026 | 🇳🇵 Thursday, 05 Chaitra 2082*
+*🇬🇧 Friday, 20 March 2026 | 🇳🇵 Friday, 06 Chaitra 2082*
 
 
 </div>
