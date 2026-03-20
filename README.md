@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." - Henry David Thoreau*
+*"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - Rumi*
 
 
 
-*🇬🇧 Friday, 20 March 2026 | 🇳🇵 Friday, 06 Chaitra 2082*
+*🇬🇧 Saturday, 21 March 2026 | 🇳🇵 Saturday, 07 Chaitra 2082*
 
 
 </div>
