@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." - Rumi*
+*"Every artist dips his brush in his own soul, and paints his own nature into his pictures." - Henry Ward Beecher*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 21 March 2026 | 🇳🇵 Saturday, 07 Chaitra 2082*
+*🇬🇧 Sunday, 22 March 2026 | 🇳🇵 Sunday, 08 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
