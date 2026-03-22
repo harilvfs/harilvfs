@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Every artist dips his brush in his own soul, and paints his own nature into his pictures." - Henry Ward Beecher*
+*"Sometimes, the only way to evolve is to open ourselves fully." - Kamal Ravikant*
 
 
 
-*🇬🇧 Sunday, 22 March 2026 | 🇳🇵 Sunday, 08 Chaitra 2082*
+*🇬🇧 Monday, 23 March 2026 | 🇳🇵 Monday, 09 Chaitra 2082*
 
 
 </div>
