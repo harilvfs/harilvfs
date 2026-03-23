@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Sometimes, the only way to evolve is to open ourselves fully." - Kamal Ravikant*
+*"You may be disappointed if you fail, but you are doomed if you don't try. " - Beverly Sills*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 23 March 2026 | 🇳🇵 Monday, 09 Chaitra 2082*
+*🇬🇧 Tuesday, 24 March 2026 | 🇳🇵 Tuesday, 10 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
