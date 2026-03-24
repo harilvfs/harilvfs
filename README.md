@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You may be disappointed if you fail, but you are doomed if you don't try. " - Beverly Sills*
+*"Health is the greatest of all possessions." - Jonathan Swift*
 
 
 
-*🇬🇧 Tuesday, 24 March 2026 | 🇳🇵 Tuesday, 10 Chaitra 2082*
+*🇬🇧 Wednesday, 25 March 2026 | 🇳🇵 Wednesday, 11 Chaitra 2082*
 
 
 </div>
