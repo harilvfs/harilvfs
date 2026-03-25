@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Health is the greatest of all possessions." - Jonathan Swift*
+*"Difficult and meaningful will always bring more satisfaction than easy and meaningless." - Maxime Lagace*
 
 
 
-*🇬🇧 Wednesday, 25 March 2026 | 🇳🇵 Wednesday, 11 Chaitra 2082*
+*🇬🇧 Thursday, 26 March 2026 | 🇳🇵 Thursday, 12 Chaitra 2082*
 
 
 </div>
