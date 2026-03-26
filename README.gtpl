@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Difficult and meaningful will always bring more satisfaction than easy and meaningless." - Maxime Lagace*
+*"We're responsible for everything that happens to us." - Yanni*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 26 March 2026 | 🇳🇵 Thursday, 12 Chaitra 2082*
+*🇬🇧 Friday, 27 March 2026 | 🇳🇵 Friday, 13 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
