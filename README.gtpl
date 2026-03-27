@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"We're responsible for everything that happens to us." - Yanni*
+*"The mind is the limit." - Arnold Schwarzenegger*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 27 March 2026 | 🇳🇵 Friday, 13 Chaitra 2082*
+*🇬🇧 Saturday, 28 March 2026 | 🇳🇵 Saturday, 14 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
