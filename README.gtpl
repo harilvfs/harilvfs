@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The mind is the limit." - Arnold Schwarzenegger*
+*"Life is the dancer and you are the dance." - Eckhart Tolle*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 28 March 2026 | 🇳🇵 Saturday, 14 Chaitra 2082*
+*🇬🇧 Sunday, 29 March 2026 | 🇳🇵 Sunday, 15 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
