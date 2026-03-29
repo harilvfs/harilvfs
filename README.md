@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life is the dancer and you are the dance." - Eckhart Tolle*
+*"The man who does not value himself, cannot value anything or anyone." - Ayn Rand*
 
 
 
-*🇬🇧 Sunday, 29 March 2026 | 🇳🇵 Sunday, 15 Chaitra 2082*
+*🇬🇧 Monday, 30 March 2026 | 🇳🇵 Monday, 16 Chaitra 2082*
 
 
 </div>
