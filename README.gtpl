@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The man who does not value himself, cannot value anything or anyone." - Ayn Rand*
+*"Any fool can paint a picture, but it takes a wise man to be able to sell it." - Samuel Butler*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 30 March 2026 | 🇳🇵 Monday, 16 Chaitra 2082*
+*🇬🇧 Tuesday, 31 March 2026 | 🇳🇵 Tuesday, 17 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
