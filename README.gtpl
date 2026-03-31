@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Any fool can paint a picture, but it takes a wise man to be able to sell it." - Samuel Butler*
+*"Receive without pride, let go without attachment." - Marcus Aurelius*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 31 March 2026 | 🇳🇵 Tuesday, 17 Chaitra 2082*
+*🇬🇧 Wednesday, 01 April 2026 | 🇳🇵 Wednesday, 18 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
