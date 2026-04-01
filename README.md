@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Receive without pride, let go without attachment." - Marcus Aurelius*
+*"Your heart is full of fertile seeds, waiting to sprout." - Morihei Ueshiba*
 
 
 
-*🇬🇧 Wednesday, 01 April 2026 | 🇳🇵 Wednesday, 18 Chaitra 2082*
+*🇬🇧 Thursday, 02 April 2026 | 🇳🇵 Thursday, 19 Chaitra 2082*
 
 
 </div>
