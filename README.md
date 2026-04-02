@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Your heart is full of fertile seeds, waiting to sprout." - Morihei Ueshiba*
+*"It's easy to be a critic, but being a doer requires effort, risk, and change.  " - Wayne Dyer*
 
 
 
-*🇬🇧 Thursday, 02 April 2026 | 🇳🇵 Thursday, 19 Chaitra 2082*
+*🇬🇧 Friday, 03 April 2026 | 🇳🇵 Friday, 20 Chaitra 2082*
 
 
 </div>
