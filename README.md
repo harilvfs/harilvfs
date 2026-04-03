@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It's easy to be a critic, but being a doer requires effort, risk, and change.  " - Wayne Dyer*
+*"Truth is exact correspondence with reality. " - Paramahansa Yogananda*
 
 
 
-*🇬🇧 Friday, 03 April 2026 | 🇳🇵 Friday, 20 Chaitra 2082*
+*🇬🇧 Saturday, 04 April 2026 | 🇳🇵 Saturday, 21 Chaitra 2082*
 
 
 </div>
