@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Truth is exact correspondence with reality. " - Paramahansa Yogananda*
+*"The greatest miracle is to be alive." - Thich Nhat Hanh*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 04 April 2026 | 🇳🇵 Saturday, 21 Chaitra 2082*
+*🇬🇧 Sunday, 05 April 2026 | 🇳🇵 Sunday, 22 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
