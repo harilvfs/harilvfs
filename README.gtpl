@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The greatest miracle is to be alive." - Thich Nhat Hanh*
+*"Words can only have a positive effect on others if and when they are ready to listen." - Christopher Reeve*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 05 April 2026 | 🇳🇵 Sunday, 22 Chaitra 2082*
+*🇬🇧 Monday, 06 April 2026 | 🇳🇵 Monday, 23 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
