@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Words can only have a positive effect on others if and when they are ready to listen." - Christopher Reeve*
+*"Learn from the mistakes of others. You can't live long enough to make them all yourself." - Eleanor Roosevelt*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 06 April 2026 | 🇳🇵 Monday, 23 Chaitra 2082*
+*🇬🇧 Tuesday, 07 April 2026 | 🇳🇵 Tuesday, 24 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
