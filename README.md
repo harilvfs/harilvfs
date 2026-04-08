@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong." - Elon Musk*
+*"This is such a short and precious life that it's really important that you don't spend it being unhappy." - Naval Ravikant*
 
 
 
-*🇬🇧 Wednesday, 08 April 2026 | 🇳🇵 Wednesday, 25 Chaitra 2082*
+*🇬🇧 Thursday, 09 April 2026 | 🇳🇵 Thursday, 26 Chaitra 2082*
 
 
 </div>
