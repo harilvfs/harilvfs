@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"This is such a short and precious life that it's really important that you don't spend it being unhappy." - Naval Ravikant*
+*"When you have to make a choice and don't make it, that is in itself a choice." - William James*
 
 
 
-*🇬🇧 Thursday, 09 April 2026 | 🇳🇵 Thursday, 26 Chaitra 2082*
+*🇬🇧 Friday, 10 April 2026 | 🇳🇵 Friday, 27 Chaitra 2082*
 
 
 </div>
