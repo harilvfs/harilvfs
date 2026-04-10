@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"When you have to make a choice and don't make it, that is in itself a choice." - William James*
+*"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny." - James Allen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 10 April 2026 | 🇳🇵 Friday, 27 Chaitra 2082*
+*🇬🇧 Saturday, 11 April 2026 | 🇳🇵 Saturday, 28 Chaitra 2082*
 <!-- DATE_END -->
 
 </div>
