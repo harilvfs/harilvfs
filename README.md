@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny." - James Allen*
+*"There are no differences but differences of degree between different degrees of difference and no difference." - William James*
 
 
 
-*🇬🇧 Saturday, 11 April 2026 | 🇳🇵 Saturday, 28 Chaitra 2082*
+*🇬🇧 Sunday, 12 April 2026 | 🇳🇵 Sunday, 29 Chaitra 2082*
 
 
 </div>
