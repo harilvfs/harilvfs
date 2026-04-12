@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"There are no differences but differences of degree between different degrees of difference and no difference." - William James*
+*"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. " - Jack London*
 
 
 
-*🇬🇧 Sunday, 12 April 2026 | 🇳🇵 Sunday, 29 Chaitra 2082*
+*🇬🇧 Monday, 13 April 2026 | 🇳🇵 Monday, 30 Chaitra 2082*
 
 
 </div>
