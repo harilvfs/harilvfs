@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. " - Jack London*
+*"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it." - Richard Bach*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 13 April 2026 | 🇳🇵 Monday, 30 Chaitra 2082*
+*🇬🇧 Tuesday, 14 April 2026 | 🇳🇵 Tuesday, 01 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
