@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it." - Richard Bach*
+*"A single dream is more powerful than a thousand realities." - J.R.R. Tolkien*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 14 April 2026 | 🇳🇵 Tuesday, 01 Baishakh 2083*
+*🇬🇧 Wednesday, 15 April 2026 | 🇳🇵 Wednesday, 02 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
