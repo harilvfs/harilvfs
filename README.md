@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A single dream is more powerful than a thousand realities." - J.R.R. Tolkien*
+*"There can be no deep disappointment where there is not deep love." - Martin Luther King, Jr.*
 
 
 
-*🇬🇧 Wednesday, 15 April 2026 | 🇳🇵 Wednesday, 02 Baishakh 2083*
+*🇬🇧 Thursday, 16 April 2026 | 🇳🇵 Thursday, 03 Baishakh 2083*
 
 
 </div>
