@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Perpetual optimism is a force multiplier." - Colin Powell*
+*"I would rather be a little nobody, then to be an evil somebody." - Abraham Lincoln*
 
 
 
-*🇬🇧 Saturday, 18 April 2026 | 🇳🇵 Saturday, 05 Baishakh 2083*
+*🇬🇧 Sunday, 19 April 2026 | 🇳🇵 Sunday, 06 Baishakh 2083*
 
 
 </div>
