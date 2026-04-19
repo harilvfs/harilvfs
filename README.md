@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"I would rather be a little nobody, then to be an evil somebody." - Abraham Lincoln*
+*"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." - Peter Drucker*
 
 
 
-*🇬🇧 Sunday, 19 April 2026 | 🇳🇵 Sunday, 06 Baishakh 2083*
+*🇬🇧 Monday, 20 April 2026 | 🇳🇵 Monday, 07 Baishakh 2083*
 
 
 </div>
