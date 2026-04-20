@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." - Peter Drucker*
+*"To create more positive results in your life, replace 'if only' with 'next time'." - Celestine Chua*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 20 April 2026 | 🇳🇵 Monday, 07 Baishakh 2083*
+*🇬🇧 Tuesday, 21 April 2026 | 🇳🇵 Tuesday, 08 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
