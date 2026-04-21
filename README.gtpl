@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To create more positive results in your life, replace 'if only' with 'next time'." - Celestine Chua*
+*"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost." - Ming-Dao Deng*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 21 April 2026 | 🇳🇵 Tuesday, 08 Baishakh 2083*
+*🇬🇧 Wednesday, 22 April 2026 | 🇳🇵 Wednesday, 09 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
