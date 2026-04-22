@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost." - Ming-Dao Deng*
+*"We have more possibilities available in each moment than we realize." - Thich Nhat Hanh*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 22 April 2026 | 🇳🇵 Wednesday, 09 Baishakh 2083*
+*🇬🇧 Thursday, 23 April 2026 | 🇳🇵 Thursday, 10 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
