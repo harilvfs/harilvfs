@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A moving door hinge never corrodes. Flowing water never grows stagnant." - Ming-Dao Deng*
+*"Dream big and dare to fail." - Norman Vaughan*
 
 
 
-*🇬🇧 Saturday, 25 April 2026 | 🇳🇵 Saturday, 12 Baishakh 2083*
+*🇬🇧 Sunday, 26 April 2026 | 🇳🇵 Sunday, 13 Baishakh 2083*
 
 
 </div>
