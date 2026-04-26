@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Dream big and dare to fail." - Norman Vaughan*
+*"A comfort zone is a beautiful place, but nothing ever grows there." - Unknown*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 26 April 2026 | 🇳🇵 Sunday, 13 Baishakh 2083*
+*🇬🇧 Monday, 27 April 2026 | 🇳🇵 Monday, 14 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
