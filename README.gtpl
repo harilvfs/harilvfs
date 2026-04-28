@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"There is no absolute success in the world, only constant progress." - Jonathan Swift*
+*"A fear of weakness only strengthens weakness." - Criss Jami*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 28 April 2026 | 🇳🇵 Tuesday, 15 Baishakh 2083*
+*🇬🇧 Wednesday, 29 April 2026 | 🇳🇵 Wednesday, 16 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
