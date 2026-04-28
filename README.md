@@ -53,6 +53,15 @@
 
 
 <strong>Reach me:</strong>
-- Telegram   : https://t.me/harilvfs
-- Discord    : https://discord.com/invite/8NJWstnUHd
-- Mail       : <mailto:harilvfs@chalisehari.com.np>
+- Telegram   : https://t.me/harilvfs [ *casually active once a month* ]
+- Discord    : https://discord.com/invite/8NJWstnUHd [ *casucally active once a year* ]
+- Mail       : <mailto:harilvfs@chalisehari.com.np> [ *you can mail me anytime* ]
+
+<table align="center">
+<tr>
+<td><em>Le Footer ~</em></td>
+</tr>
+<tr>
+<td><em>don’t take the commit graph seriously. this readme updates daily to keep the date and time fresh, so there will be commits every day whether i am active or not. unless the github workflow breaks someday '-' </em></td>
+</tr>
+</table>
