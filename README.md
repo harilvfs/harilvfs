@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A fear of weakness only strengthens weakness." - Criss Jami*
+*"Don't shortchange yourself when it comes to investing in your own better future." - Jim Rohn*
 
 
 
-*🇬🇧 Wednesday, 29 April 2026 | 🇳🇵 Wednesday, 16 Baishakh 2083*
+*🇬🇧 Thursday, 30 April 2026 | 🇳🇵 Thursday, 17 Baishakh 2083*
 
 
 </div>
