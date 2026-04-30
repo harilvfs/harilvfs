@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Don't shortchange yourself when it comes to investing in your own better future." - Jim Rohn*
+*"If you do not change direction, you may end up where you are heading." - Lao Tzu*
 
 
 
-*🇬🇧 Thursday, 30 April 2026 | 🇳🇵 Thursday, 17 Baishakh 2083*
+*🇬🇧 Friday, 01 May 2026 | 🇳🇵 Friday, 18 Baishakh 2083*
 
 
 </div>
