@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you do not change direction, you may end up where you are heading." - Lao Tzu*
+*"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead." - Samuel Butler*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 01 May 2026 | 🇳🇵 Friday, 18 Baishakh 2083*
+*🇬🇧 Saturday, 02 May 2026 | 🇳🇵 Saturday, 19 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
