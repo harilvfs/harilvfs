@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead." - Samuel Butler*
+*"You're never too old for anything." - Betty White*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 02 May 2026 | 🇳🇵 Saturday, 19 Baishakh 2083*
+*🇬🇧 Sunday, 03 May 2026 | 🇳🇵 Sunday, 20 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
