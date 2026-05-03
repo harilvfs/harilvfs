@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You're never too old for anything." - Betty White*
+*"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." - Alexander Graham Bell*
 
 
 
-*🇬🇧 Sunday, 03 May 2026 | 🇳🇵 Sunday, 20 Baishakh 2083*
+*🇬🇧 Monday, 04 May 2026 | 🇳🇵 Monday, 21 Baishakh 2083*
 
 
 </div>
