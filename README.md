@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." - Alexander Graham Bell*
+*"Doubt is an uncomfortable condition, but certainty is a ridiculous one." - Voltaire*
 
 
 
-*🇬🇧 Monday, 04 May 2026 | 🇳🇵 Monday, 21 Baishakh 2083*
+*🇬🇧 Tuesday, 05 May 2026 | 🇳🇵 Tuesday, 22 Baishakh 2083*
 
 
 </div>
