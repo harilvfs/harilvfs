@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Doubt is an uncomfortable condition, but certainty is a ridiculous one." - Voltaire*
+*"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 05 May 2026 | 🇳🇵 Tuesday, 22 Baishakh 2083*
+*🇬🇧 Wednesday, 06 May 2026 | 🇳🇵 Wednesday, 23 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
