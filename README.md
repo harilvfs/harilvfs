@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi*
+*"Normality is a paved road: It's comfortable to walk, but no flowers grow on it." - Vincent van Gogh*
 
 
 
-*🇬🇧 Wednesday, 06 May 2026 | 🇳🇵 Wednesday, 23 Baishakh 2083*
+*🇬🇧 Thursday, 07 May 2026 | 🇳🇵 Thursday, 24 Baishakh 2083*
 
 
 </div>
