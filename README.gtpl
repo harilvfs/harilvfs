@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Normality is a paved road: It's comfortable to walk, but no flowers grow on it." - Vincent van Gogh*
+*"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society." - Jiddu Krishnamurti*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 07 May 2026 | 🇳🇵 Thursday, 24 Baishakh 2083*
+*🇬🇧 Friday, 08 May 2026 | 🇳🇵 Friday, 25 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
