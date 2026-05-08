@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society." - Jiddu Krishnamurti*
+*"The harder the conflict, the greater the triumph. " - George Washington*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 08 May 2026 | 🇳🇵 Friday, 25 Baishakh 2083*
+*🇬🇧 Saturday, 09 May 2026 | 🇳🇵 Saturday, 26 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
