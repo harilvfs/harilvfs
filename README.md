@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The harder the conflict, the greater the triumph. " - George Washington*
+*"Whatever is begun in anger, ends in shame." - Benjamin Franklin*
 
 
 
-*🇬🇧 Saturday, 09 May 2026 | 🇳🇵 Saturday, 26 Baishakh 2083*
+*🇬🇧 Sunday, 10 May 2026 | 🇳🇵 Sunday, 27 Baishakh 2083*
 
 
 </div>
