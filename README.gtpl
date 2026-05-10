@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Whatever is begun in anger, ends in shame." - Benjamin Franklin*
+*"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 10 May 2026 | 🇳🇵 Sunday, 27 Baishakh 2083*
+*🇬🇧 Monday, 11 May 2026 | 🇳🇵 Monday, 28 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
