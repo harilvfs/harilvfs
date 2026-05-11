@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw*
+*"Try to be a rainbow in someone's cloud." - Maya Angelou*
 
 
 
-*🇬🇧 Monday, 11 May 2026 | 🇳🇵 Monday, 28 Baishakh 2083*
+*🇬🇧 Tuesday, 12 May 2026 | 🇳🇵 Tuesday, 29 Baishakh 2083*
 
 
 </div>
