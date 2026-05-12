@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Try to be a rainbow in someone's cloud." - Maya Angelou*
+*"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." - George Eliot*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 12 May 2026 | 🇳🇵 Tuesday, 29 Baishakh 2083*
+*🇬🇧 Wednesday, 13 May 2026 | 🇳🇵 Wednesday, 30 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
