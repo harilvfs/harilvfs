@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." - George Eliot*
+*"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." - Emily Dickinson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 13 May 2026 | 🇳🇵 Wednesday, 30 Baishakh 2083*
+*🇬🇧 Thursday, 14 May 2026 | 🇳🇵 Thursday, 31 Baishakh 2083*
 <!-- DATE_END -->
 
 </div>
