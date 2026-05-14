@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." - Emily Dickinson*
+*"Life is like stepping onto a boat which is about to sail out to sea and sink." - Shunryu Suzuki*
 
 
 
-*🇬🇧 Thursday, 14 May 2026 | 🇳🇵 Thursday, 31 Baishakh 2083*
+*🇬🇧 Friday, 15 May 2026 | 🇳🇵 Friday, 01 Jestha 2083*
 
 
 </div>
