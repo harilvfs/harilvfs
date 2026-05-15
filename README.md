@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Life is like stepping onto a boat which is about to sail out to sea and sink." - Shunryu Suzuki*
+*oops api fail check repo :(*
 
 
 
-*🇬🇧 Friday, 15 May 2026 | 🇳🇵 Friday, 01 Jestha 2083*
+*🇬🇧 Saturday, 16 May 2026 | 🇳🇵 Saturday, 02 Jestha 2083*
 
 
 </div>
