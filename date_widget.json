@@ -1,15 +1,15 @@
 {
-  "nepali_date": "Friday, 01 Jestha 2083",
-  "english_date": "Friday, 15 May 2026",
-  "update_timestamp": "2026-05-15T01:47:13.382712+05:45",
-  "formatted_display": "English: Friday, 15 May 2026 | Nepali: Friday, 01 Jestha 2083",
-  "short_english": "15 May 2026",
-  "short_nepali": "01 Jes 2083",
-  "weekday_english": "Friday",
-  "weekday_nepali": "Friday",
-  "quote": "Life is like stepping onto a boat which is about to sail out to sea and sink.",
-  "quote_author": "Shunryu Suzuki",
-  "formatted_quote": "\"Life is like stepping onto a boat which is about to sail out to sea and sink.\" - Shunryu Suzuki",
-  "quote_status": "success",
-  "has_quote_error": false
+  "nepali_date": "Saturday, 02 Jestha 2083",
+  "english_date": "Saturday, 16 May 2026",
+  "update_timestamp": "2026-05-16T01:39:14.678262+05:45",
+  "formatted_display": "English: Saturday, 16 May 2026 | Nepali: Saturday, 02 Jestha 2083",
+  "short_english": "16 May 2026",
+  "short_nepali": "02 Jes 2083",
+  "weekday_english": "Saturday",
+  "weekday_nepali": "Saturday",
+  "quote": "oops api fail check repo :(",
+  "quote_author": "API Error",
+  "formatted_quote": "oops api fail check repo :(",
+  "quote_status": "error",
+  "has_quote_error": true
 }
