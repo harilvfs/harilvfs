@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing." - George Bernard Shaw*
+*"The time is now, the place is here. Stay in the present." - Dan Millman*
 
 
 
-*🇬🇧 Monday, 18 May 2026 | 🇳🇵 Monday, 04 Jestha 2083*
+*🇬🇧 Tuesday, 19 May 2026 | 🇳🇵 Tuesday, 05 Jestha 2083*
 
 
 </div>
