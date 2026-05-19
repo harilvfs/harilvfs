@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The time is now, the place is here. Stay in the present." - Dan Millman*
+*"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end." - Roy T. Bennett*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 19 May 2026 | 🇳🇵 Tuesday, 05 Jestha 2083*
+*🇬🇧 Wednesday, 20 May 2026 | 🇳🇵 Wednesday, 06 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
