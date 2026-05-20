@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end." - Roy T. Bennett*
+*"You live by what you thrill to, and there's the end of it." - D. H. Lawrence*
 
 
 
-*🇬🇧 Wednesday, 20 May 2026 | 🇳🇵 Wednesday, 06 Jestha 2083*
+*🇬🇧 Thursday, 21 May 2026 | 🇳🇵 Thursday, 07 Jestha 2083*
 
 
 </div>
