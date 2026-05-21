@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You live by what you thrill to, and there's the end of it." - D. H. Lawrence*
+*"Show up even when you don't want to show up." - Steve Harvey*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 21 May 2026 | 🇳🇵 Thursday, 07 Jestha 2083*
+*🇬🇧 Friday, 22 May 2026 | 🇳🇵 Friday, 08 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
