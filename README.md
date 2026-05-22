@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Show up even when you don't want to show up." - Steve Harvey*
+*"Your heart is full of fertile seeds, waiting to sprout." - Morihei Ueshiba*
 
 
 
-*🇬🇧 Friday, 22 May 2026 | 🇳🇵 Friday, 08 Jestha 2083*
+*🇬🇧 Saturday, 23 May 2026 | 🇳🇵 Saturday, 09 Jestha 2083*
 
 
 </div>
