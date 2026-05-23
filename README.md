@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Your heart is full of fertile seeds, waiting to sprout." - Morihei Ueshiba*
+*"Great things happen to those who don't stop believing, trying, learning, and being grateful." - Roy T. Bennett*
 
 
 
-*🇬🇧 Saturday, 23 May 2026 | 🇳🇵 Saturday, 09 Jestha 2083*
+*🇬🇧 Sunday, 24 May 2026 | 🇳🇵 Sunday, 10 Jestha 2083*
 
 
 </div>
