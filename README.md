@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Great things happen to those who don't stop believing, trying, learning, and being grateful." - Roy T. Bennett*
+*"You cannot control the behavior of others, but you can always choose how you respond to it." - Roy T. Bennett*
 
 
 
-*🇬🇧 Sunday, 24 May 2026 | 🇳🇵 Sunday, 10 Jestha 2083*
+*🇬🇧 Monday, 25 May 2026 | 🇳🇵 Monday, 11 Jestha 2083*
 
 
 </div>
