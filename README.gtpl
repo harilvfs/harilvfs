@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You cannot control the behavior of others, but you can always choose how you respond to it." - Roy T. Bennett*
+*"It is better to change an opinion than to persist in a wrong one." - Socrates*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 25 May 2026 | 🇳🇵 Monday, 11 Jestha 2083*
+*🇬🇧 Tuesday, 26 May 2026 | 🇳🇵 Tuesday, 12 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
