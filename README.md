@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"It is better to change an opinion than to persist in a wrong one." - Socrates*
+*"Heaven is right where you are standing." - Morihei Ueshiba*
 
 
 
-*🇬🇧 Tuesday, 26 May 2026 | 🇳🇵 Tuesday, 12 Jestha 2083*
+*🇬🇧 Wednesday, 27 May 2026 | 🇳🇵 Wednesday, 13 Jestha 2083*
 
 
 </div>
