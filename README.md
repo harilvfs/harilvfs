@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Heaven is right where you are standing." - Morihei Ueshiba*
+*"The more you extend kindness to yourself, the more it will become your automatic response to others." - Wayne Dyer*
 
 
 
-*🇬🇧 Wednesday, 27 May 2026 | 🇳🇵 Wednesday, 13 Jestha 2083*
+*🇬🇧 Thursday, 28 May 2026 | 🇳🇵 Thursday, 14 Jestha 2083*
 
 
 </div>
