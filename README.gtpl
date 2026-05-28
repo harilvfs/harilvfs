@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The more you extend kindness to yourself, the more it will become your automatic response to others." - Wayne Dyer*
+*"Inspire yourself to be great. Being good isn't good enough." - Gurbaksh Chahal*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 28 May 2026 | 🇳🇵 Thursday, 14 Jestha 2083*
+*🇬🇧 Friday, 29 May 2026 | 🇳🇵 Friday, 15 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
