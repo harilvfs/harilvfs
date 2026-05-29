@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Inspire yourself to be great. Being good isn't good enough." - Gurbaksh Chahal*
+*"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." - Colin Powell*
 
 
 
-*🇬🇧 Friday, 29 May 2026 | 🇳🇵 Friday, 15 Jestha 2083*
+*🇬🇧 Saturday, 30 May 2026 | 🇳🇵 Saturday, 16 Jestha 2083*
 
 
 </div>
