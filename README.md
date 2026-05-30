@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." - Colin Powell*
+*"Make your mind your own business." - Jack Butcher*
 
 
 
-*🇬🇧 Saturday, 30 May 2026 | 🇳🇵 Saturday, 16 Jestha 2083*
+*🇬🇧 Sunday, 31 May 2026 | 🇳🇵 Sunday, 17 Jestha 2083*
 
 
 </div>
