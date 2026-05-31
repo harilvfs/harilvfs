@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Make your mind your own business." - Jack Butcher*
+*"Your heart is the size of an ocean. Go find yourself in its hidden depths." - Rumi*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 31 May 2026 | 🇳🇵 Sunday, 17 Jestha 2083*
+*🇬🇧 Monday, 01 June 2026 | 🇳🇵 Monday, 18 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
