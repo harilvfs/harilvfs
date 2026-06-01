@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Your heart is the size of an ocean. Go find yourself in its hidden depths." - Rumi*
+*"Always do your best. What you plant now, you will harvest later." - Og Mandino*
 
 
 
-*🇬🇧 Monday, 01 June 2026 | 🇳🇵 Monday, 18 Jestha 2083*
+*🇬🇧 Tuesday, 02 June 2026 | 🇳🇵 Tuesday, 19 Jestha 2083*
 
 
 </div>
