@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." - Buddha*
+*"The future will be shaped by those willing to commit their minds and their bodies to the task." - Robert F. Kennedy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 03 June 2026 | 🇳🇵 Wednesday, 20 Jestha 2083*
+*🇬🇧 Thursday, 04 June 2026 | 🇳🇵 Thursday, 21 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
