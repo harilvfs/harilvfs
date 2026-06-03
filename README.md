@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Always do your best. What you plant now, you will harvest later." - Og Mandino*
+*"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." - Buddha*
 
 
 
-*🇬🇧 Tuesday, 02 June 2026 | 🇳🇵 Tuesday, 19 Jestha 2083*
+*🇬🇧 Wednesday, 03 June 2026 | 🇳🇵 Wednesday, 20 Jestha 2083*
 
 
 </div>
