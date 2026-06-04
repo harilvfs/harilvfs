@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The future will be shaped by those willing to commit their minds and their bodies to the task." - Robert F. Kennedy*
+*"The two most powerful warriors are patience and time." - Leo Tolstoy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 04 June 2026 | 🇳🇵 Thursday, 21 Jestha 2083*
+*🇬🇧 Friday, 05 June 2026 | 🇳🇵 Friday, 22 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
