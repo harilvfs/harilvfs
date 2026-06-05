@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The two most powerful warriors are patience and time." - Leo Tolstoy*
+*"When at last you are come to the ocean of happiness, do not go back thirsty." - Kabir*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 05 June 2026 | 🇳🇵 Friday, 22 Jestha 2083*
+*🇬🇧 Saturday, 06 June 2026 | 🇳🇵 Saturday, 23 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
