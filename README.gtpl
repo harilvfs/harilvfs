@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"When at last you are come to the ocean of happiness, do not go back thirsty." - Kabir*
+*"Be royal in your own fashion: act like a king to be treated like one." - Robert Greene*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 06 June 2026 | 🇳🇵 Saturday, 23 Jestha 2083*
+*🇬🇧 Sunday, 07 June 2026 | 🇳🇵 Sunday, 24 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
