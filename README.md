@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Be royal in your own fashion: act like a king to be treated like one." - Robert Greene*
+*oops api fail check repo :(*
 
 
 
-*🇬🇧 Sunday, 07 June 2026 | 🇳🇵 Sunday, 24 Jestha 2083*
+*🇬🇧 Monday, 08 June 2026 | 🇳🇵 Monday, 25 Jestha 2083*
 
 
 </div>
