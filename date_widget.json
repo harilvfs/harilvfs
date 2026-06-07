@@ -1,15 +1,15 @@
 {
-  "nepali_date": "Sunday, 24 Jestha 2083",
-  "english_date": "Sunday, 07 June 2026",
-  "update_timestamp": "2026-06-07T01:32:07.253600+05:45",
-  "formatted_display": "English: Sunday, 07 June 2026 | Nepali: Sunday, 24 Jestha 2083",
-  "short_english": "07 Jun 2026",
-  "short_nepali": "24 Jes 2083",
-  "weekday_english": "Sunday",
-  "weekday_nepali": "Sunday",
-  "quote": "Be royal in your own fashion: act like a king to be treated like one.",
-  "quote_author": "Robert Greene",
-  "formatted_quote": "\"Be royal in your own fashion: act like a king to be treated like one.\" - Robert Greene",
-  "quote_status": "success",
-  "has_quote_error": false
+  "nepali_date": "Monday, 25 Jestha 2083",
+  "english_date": "Monday, 08 June 2026",
+  "update_timestamp": "2026-06-08T01:31:47.142963+05:45",
+  "formatted_display": "English: Monday, 08 June 2026 | Nepali: Monday, 25 Jestha 2083",
+  "short_english": "08 Jun 2026",
+  "short_nepali": "25 Jes 2083",
+  "weekday_english": "Monday",
+  "weekday_nepali": "Monday",
+  "quote": "oops api fail check repo :(",
+  "quote_author": "API Error",
+  "formatted_quote": "oops api fail check repo :(",
+  "quote_status": "error",
+  "has_quote_error": true
 }
