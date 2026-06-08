@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*oops api fail check repo :(*
+*"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." - Confucius*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 08 June 2026 | 🇳🇵 Monday, 25 Jestha 2083*
+*🇬🇧 Tuesday, 09 June 2026 | 🇳🇵 Tuesday, 26 Jestha 2083*
 <!-- DATE_END -->
 
 </div>

@@ -1,15 +1,15 @@
 {
-  "nepali_date": "Monday, 25 Jestha 2083",
-  "english_date": "Monday, 08 June 2026",
-  "update_timestamp": "2026-06-08T01:31:47.142963+05:45",
-  "formatted_display": "English: Monday, 08 June 2026 | Nepali: Monday, 25 Jestha 2083",
-  "short_english": "08 Jun 2026",
-  "short_nepali": "25 Jes 2083",
-  "weekday_english": "Monday",
-  "weekday_nepali": "Monday",
-  "quote": "oops api fail check repo :(",
-  "quote_author": "API Error",
-  "formatted_quote": "oops api fail check repo :(",
-  "quote_status": "error",
-  "has_quote_error": true
+  "nepali_date": "Tuesday, 26 Jestha 2083",
+  "english_date": "Tuesday, 09 June 2026",
+  "update_timestamp": "2026-06-09T02:18:25.209371+05:45",
+  "formatted_display": "English: Tuesday, 09 June 2026 | Nepali: Tuesday, 26 Jestha 2083",
+  "short_english": "09 Jun 2026",
+  "short_nepali": "26 Jes 2083",
+  "weekday_english": "Tuesday",
+  "weekday_nepali": "Tuesday",
+  "quote": "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.",
+  "quote_author": "Confucius",
+  "formatted_quote": "\"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.\" - Confucius",
+  "quote_status": "success",
+  "has_quote_error": false
 }
