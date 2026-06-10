@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Riches don't make a man rich, they only make him busier." - Christopher Columbus*
+*"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 10 June 2026 | 🇳🇵 Wednesday, 27 Jestha 2083*
+*🇬🇧 Thursday, 11 June 2026 | 🇳🇵 Thursday, 28 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
