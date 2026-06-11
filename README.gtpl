@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela*
+*"Failure is a prerequisite for great success. If you want success faster, double your rate of failure." - Brian Tracy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 11 June 2026 | 🇳🇵 Thursday, 28 Jestha 2083*
+*🇬🇧 Friday, 12 June 2026 | 🇳🇵 Friday, 29 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
