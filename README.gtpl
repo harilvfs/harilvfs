@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Failure is a prerequisite for great success. If you want success faster, double your rate of failure." - Brian Tracy*
+*"Champions keep playing until they get it right." - Billie Jean King*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 12 June 2026 | 🇳🇵 Friday, 29 Jestha 2083*
+*🇬🇧 Saturday, 13 June 2026 | 🇳🇵 Saturday, 30 Jestha 2083*
 <!-- DATE_END -->
 
 </div>
