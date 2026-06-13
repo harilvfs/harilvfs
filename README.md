@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Champions keep playing until they get it right." - Billie Jean King*
+*"Each problem has a positive side." - Og Mandino*
 
 
 
-*🇬🇧 Saturday, 13 June 2026 | 🇳🇵 Saturday, 30 Jestha 2083*
+*🇬🇧 Sunday, 14 June 2026 | 🇳🇵 Sunday, 31 Jestha 2083*
 
 
 </div>
