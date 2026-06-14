@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Each problem has a positive side." - Og Mandino*
+*"A fool sees himself as another, but a wise man sees others as himself." - Dogen*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 14 June 2026 | 🇳🇵 Sunday, 31 Jestha 2083*
+*🇬🇧 Monday, 15 June 2026 | 🇳🇵 Monday, 01 Asar 2083*
 <!-- DATE_END -->
 
 </div>
