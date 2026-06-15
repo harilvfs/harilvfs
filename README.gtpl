@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A fool sees himself as another, but a wise man sees others as himself." - Dogen*
+*"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity." - Charles Spurgeon*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 15 June 2026 | 🇳🇵 Monday, 01 Asar 2083*
+*🇬🇧 Tuesday, 16 June 2026 | 🇳🇵 Tuesday, 02 Asar 2083*
 <!-- DATE_END -->
 
 </div>
