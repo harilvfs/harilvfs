@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity." - Charles Spurgeon*
+*"What we know is a drop, what we don't know is an ocean." - Isaac Newton*
 
 
 
-*🇬🇧 Tuesday, 16 June 2026 | 🇳🇵 Tuesday, 02 Asar 2083*
+*🇬🇧 Wednesday, 17 June 2026 | 🇳🇵 Wednesday, 03 Asar 2083*
 
 
 </div>
