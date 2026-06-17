@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"What we know is a drop, what we don't know is an ocean." - Isaac Newton*
+*"Pursue what catches your heart, not what catches your eyes." - Roy T. Bennett*
 
 
 
-*🇬🇧 Wednesday, 17 June 2026 | 🇳🇵 Wednesday, 03 Asar 2083*
+*🇬🇧 Thursday, 18 June 2026 | 🇳🇵 Thursday, 04 Asar 2083*
 
 
 </div>
