@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Pursue what catches your heart, not what catches your eyes." - Roy T. Bennett*
+*"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." - Nelson Mandela*
 
 
 
-*🇬🇧 Thursday, 18 June 2026 | 🇳🇵 Thursday, 04 Asar 2083*
+*🇬🇧 Friday, 19 June 2026 | 🇳🇵 Friday, 05 Asar 2083*
 
 
 </div>
