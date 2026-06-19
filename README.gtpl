@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." - Nelson Mandela*
+*"The scariest moment is always just before you start. After that, things can only get better." - Stephen King*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 19 June 2026 | 🇳🇵 Friday, 05 Asar 2083*
+*🇬🇧 Saturday, 20 June 2026 | 🇳🇵 Saturday, 06 Asar 2083*
 <!-- DATE_END -->
 
 </div>
