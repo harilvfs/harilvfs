@@ -58,8 +58,7 @@
 -->
 
 <strong>Reach me:</strong>
-- Telegram   : https://t.me/harilvfs [ *casually active once a month* ]
-- Discord    : https://discord.com/invite/8NJWstnUHd [ *casually active once a year* ]
+- Discord    : https://discord.com/invite/8NJWstnUHd [ *casually active once a month* ]
 - Mail       : <mailto:harilvfs@chalisehari.com.np> [ *you can mail me anytime* ]
 
 <table align="center">
