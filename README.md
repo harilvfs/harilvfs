@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The scariest moment is always just before you start. After that, things can only get better." - Stephen King*
+*"The man who removes a mountain begins by carrying away small stones." - William Faulkner*
 
 
 
-*🇬🇧 Saturday, 20 June 2026 | 🇳🇵 Saturday, 06 Asar 2083*
+*🇬🇧 Sunday, 21 June 2026 | 🇳🇵 Sunday, 07 Asar 2083*
 
 
 </div>
