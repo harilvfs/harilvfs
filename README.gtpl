@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The man who removes a mountain begins by carrying away small stones." - William Faulkner*
+*"Trust, like the soul, never returns once it is gone." - Publilius Syrus*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 21 June 2026 | 🇳🇵 Sunday, 07 Asar 2083*
+*🇬🇧 Monday, 22 June 2026 | 🇳🇵 Monday, 08 Asar 2083*
 <!-- DATE_END -->
 
 </div>
