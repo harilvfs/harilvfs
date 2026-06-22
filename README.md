@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Trust, like the soul, never returns once it is gone." - Publilius Syrus*
+*"As soon as you truly commit to making something happen, the 'how' will reveal itself." - Tony Robbins*
 
 
 
-*🇬🇧 Monday, 22 June 2026 | 🇳🇵 Monday, 08 Asar 2083*
+*🇬🇧 Tuesday, 23 June 2026 | 🇳🇵 Tuesday, 09 Asar 2083*
 
 
 </div>
