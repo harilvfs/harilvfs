@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"As soon as you truly commit to making something happen, the 'how' will reveal itself." - Tony Robbins*
+*"True life is lived when tiny changes occur." - Leo Tolstoy*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 23 June 2026 | 🇳🇵 Tuesday, 09 Asar 2083*
+*🇬🇧 Wednesday, 24 June 2026 | 🇳🇵 Wednesday, 10 Asar 2083*
 <!-- DATE_END -->
 
 </div>
