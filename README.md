@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"True life is lived when tiny changes occur." - Leo Tolstoy*
+*"When you reach the top of the mountain, keep climbing." - Zen Proverb*
 
 
 
-*🇬🇧 Wednesday, 24 June 2026 | 🇳🇵 Wednesday, 10 Asar 2083*
+*🇬🇧 Thursday, 25 June 2026 | 🇳🇵 Thursday, 11 Asar 2083*
 
 
 </div>
