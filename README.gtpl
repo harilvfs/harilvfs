@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"When you reach the top of the mountain, keep climbing." - Zen Proverb*
+*oops api fail check repo :(*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 25 June 2026 | 🇳🇵 Thursday, 11 Asar 2083*
+*🇬🇧 Friday, 26 June 2026 | 🇳🇵 Friday, 12 Asar 2083*
 <!-- DATE_END -->
 
 </div>
