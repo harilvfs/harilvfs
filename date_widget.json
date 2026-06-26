@@ -1,15 +1,15 @@
 {
-  "nepali_date": "Friday, 12 Asar 2083",
-  "english_date": "Friday, 26 June 2026",
-  "update_timestamp": "2026-06-26T02:07:37.659781+05:45",
-  "formatted_display": "English: Friday, 26 June 2026 | Nepali: Friday, 12 Asar 2083",
-  "short_english": "26 Jun 2026",
-  "short_nepali": "12 Asa 2083",
-  "weekday_english": "Friday",
-  "weekday_nepali": "Friday",
-  "quote": "oops api fail check repo :(",
-  "quote_author": "API Error",
-  "formatted_quote": "oops api fail check repo :(",
-  "quote_status": "error",
-  "has_quote_error": true
+  "nepali_date": "Saturday, 13 Asar 2083",
+  "english_date": "Saturday, 27 June 2026",
+  "update_timestamp": "2026-06-27T01:55:55.114947+05:45",
+  "formatted_display": "English: Saturday, 27 June 2026 | Nepali: Saturday, 13 Asar 2083",
+  "short_english": "27 Jun 2026",
+  "short_nepali": "13 Asa 2083",
+  "weekday_english": "Saturday",
+  "weekday_nepali": "Saturday",
+  "quote": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.",
+  "quote_author": "Buddha",
+  "formatted_quote": "\"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.\" - Buddha",
+  "quote_status": "success",
+  "has_quote_error": false
 }
