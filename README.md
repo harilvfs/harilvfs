@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*oops api fail check repo :(*
+*"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise." - Buddha*
 
 
 
-*🇬🇧 Friday, 26 June 2026 | 🇳🇵 Friday, 12 Asar 2083*
+*🇬🇧 Saturday, 27 June 2026 | 🇳🇵 Saturday, 13 Asar 2083*
 
 
 </div>
