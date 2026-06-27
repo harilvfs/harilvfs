@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise." - Buddha*
+*"Little by little, one travels far." - J.R.R. Tolkien*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 27 June 2026 | 🇳🇵 Saturday, 13 Asar 2083*
+*🇬🇧 Sunday, 28 June 2026 | 🇳🇵 Sunday, 14 Asar 2083*
 <!-- DATE_END -->
 
 </div>
