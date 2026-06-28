@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Little by little, one travels far." - J.R.R. Tolkien*
+*"The wisest men follow their own direction." - Euripides*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 28 June 2026 | 🇳🇵 Sunday, 14 Asar 2083*
+*🇬🇧 Monday, 29 June 2026 | 🇳🇵 Monday, 15 Asar 2083*
 <!-- DATE_END -->
 
 </div>
