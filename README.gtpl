@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The wisest men follow their own direction." - Euripides*
+*"Force has no place where there is need of skill." - Herodotus*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Monday, 29 June 2026 | 🇳🇵 Monday, 15 Asar 2083*
+*🇬🇧 Tuesday, 30 June 2026 | 🇳🇵 Tuesday, 16 Asar 2083*
 <!-- DATE_END -->
 
 </div>
