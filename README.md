@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Force has no place where there is need of skill." - Herodotus*
+*"The greatest discovery of all time is that a person can change their future by merely changing their attitude." - Oprah Winfrey*
 
 
 
-*🇬🇧 Tuesday, 30 June 2026 | 🇳🇵 Tuesday, 16 Asar 2083*
+*🇬🇧 Wednesday, 01 July 2026 | 🇳🇵 Wednesday, 17 Asar 2083*
 
 
 </div>
