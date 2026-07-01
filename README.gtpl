@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The greatest discovery of all time is that a person can change their future by merely changing their attitude." - Oprah Winfrey*
+*"Because a thing seems difficult for you, do not think it impossible." - Marcus Aurelius*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 01 July 2026 | 🇳🇵 Wednesday, 17 Asar 2083*
+*🇬🇧 Thursday, 02 July 2026 | 🇳🇵 Thursday, 18 Asar 2083*
 <!-- DATE_END -->
 
 </div>
