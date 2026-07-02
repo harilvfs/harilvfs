@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Because a thing seems difficult for you, do not think it impossible." - Marcus Aurelius*
+*"You can never cross the ocean unless you have the courage to lose sight of the shore." - Christopher Columbus*
 
 
 
-*🇬🇧 Thursday, 02 July 2026 | 🇳🇵 Thursday, 18 Asar 2083*
+*🇬🇧 Friday, 03 July 2026 | 🇳🇵 Friday, 19 Asar 2083*
 
 
 </div>
