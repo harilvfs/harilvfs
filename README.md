@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"You can never cross the ocean unless you have the courage to lose sight of the shore." - Christopher Columbus*
+*"I never said it would be easy, I only said it would be worth it." - Mae West*
 
 
 
-*🇬🇧 Friday, 03 July 2026 | 🇳🇵 Friday, 19 Asar 2083*
+*🇬🇧 Saturday, 04 July 2026 | 🇳🇵 Saturday, 20 Asar 2083*
 
 
 </div>
