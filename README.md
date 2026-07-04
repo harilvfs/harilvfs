@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"I never said it would be easy, I only said it would be worth it." - Mae West*
+*"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool." - Ray Bradbury*
 
 
 
-*🇬🇧 Saturday, 04 July 2026 | 🇳🇵 Saturday, 20 Asar 2083*
+*🇬🇧 Sunday, 05 July 2026 | 🇳🇵 Sunday, 21 Asar 2083*
 
 
 </div>
