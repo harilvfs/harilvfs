@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool." - Ray Bradbury*
+*"Always remember that you are absolutely unique. Just like everyone else." - Margaret Mead*
 
 
 
-*🇬🇧 Sunday, 05 July 2026 | 🇳🇵 Sunday, 21 Asar 2083*
+*🇬🇧 Monday, 06 July 2026 | 🇳🇵 Monday, 22 Asar 2083*
 
 
 </div>
