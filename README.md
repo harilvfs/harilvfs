@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Always remember that you are absolutely unique. Just like everyone else." - Margaret Mead*
+*"Every man desires to live long, but no man wishes to be old." - Jonathan Swift*
 
 
 
-*🇬🇧 Monday, 06 July 2026 | 🇳🇵 Monday, 22 Asar 2083*
+*🇬🇧 Tuesday, 07 July 2026 | 🇳🇵 Tuesday, 23 Asar 2083*
 
 
 </div>
