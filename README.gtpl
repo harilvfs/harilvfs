@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Every man desires to live long, but no man wishes to be old." - Jonathan Swift*
+*"Make your stand today. On this spot. On this day." - Ming-Dao Deng*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 07 July 2026 | 🇳🇵 Tuesday, 23 Asar 2083*
+*🇬🇧 Wednesday, 08 July 2026 | 🇳🇵 Wednesday, 24 Asar 2083*
 <!-- DATE_END -->
 
 </div>
