@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Make your stand today. On this spot. On this day." - Ming-Dao Deng*
+*"Begin now to be what you will be hereafter." - St. Jerome*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Wednesday, 08 July 2026 | 🇳🇵 Wednesday, 24 Asar 2083*
+*🇬🇧 Thursday, 09 July 2026 | 🇳🇵 Thursday, 25 Asar 2083*
 <!-- DATE_END -->
 
 </div>
