@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"Begin now to be what you will be hereafter." - St. Jerome*
+*"The educated differ from the uneducated as much as the living differ from the dead." - Aristotle*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Thursday, 09 July 2026 | 🇳🇵 Thursday, 25 Asar 2083*
+*🇬🇧 Friday, 10 July 2026 | 🇳🇵 Friday, 26 Asar 2083*
 <!-- DATE_END -->
 
 </div>
