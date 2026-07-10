@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"The educated differ from the uneducated as much as the living differ from the dead." - Aristotle*
+*"You talk when you cease to be at peace with your thoughts." - Kahlil Gibran*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Friday, 10 July 2026 | 🇳🇵 Friday, 26 Asar 2083*
+*🇬🇧 Saturday, 11 July 2026 | 🇳🇵 Saturday, 27 Asar 2083*
 <!-- DATE_END -->
 
 </div>
