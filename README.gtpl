@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"You talk when you cease to be at peace with your thoughts." - Kahlil Gibran*
+*"It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - Tony Robbins*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 11 July 2026 | 🇳🇵 Saturday, 27 Asar 2083*
+*🇬🇧 Sunday, 12 July 2026 | 🇳🇵 Sunday, 28 Asar 2083*
 <!-- DATE_END -->
 
 </div>
