@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"It is not what we get. But who we become, what we contribute... that gives meaning to our lives." - Tony Robbins*
+*oops api fail check repo :(*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Sunday, 12 July 2026 | 🇳🇵 Sunday, 28 Asar 2083*
+*🇬🇧 Monday, 13 July 2026 | 🇳🇵 Monday, 29 Asar 2083*
 <!-- DATE_END -->
 
 </div>
