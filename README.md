@@ -13,7 +13,7 @@
 
 
 
-*🇬🇧 Monday, 13 July 2026 | 🇳🇵 Monday, 29 Asar 2083*
+*🇬🇧 Tuesday, 14 July 2026 | 🇳🇵 Tuesday, 30 Asar 2083*
 
 
 </div>
