@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*oops api fail check repo :(*
+*"Always do your best. What you plant now, you will harvest later." - Og Mandino*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Tuesday, 14 July 2026 | 🇳🇵 Tuesday, 30 Asar 2083*
+*🇬🇧 Wednesday, 15 July 2026 | 🇳🇵 Wednesday, 31 Asar 2083*
 <!-- DATE_END -->
 
 </div>
