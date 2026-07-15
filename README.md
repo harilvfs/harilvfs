@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"Always do your best. What you plant now, you will harvest later." - Og Mandino*
+*"If you don't make things happen then things will happen to you." - Robert Collier*
 
 
 
-*🇬🇧 Wednesday, 15 July 2026 | 🇳🇵 Wednesday, 31 Asar 2083*
+*🇬🇧 Thursday, 16 July 2026 | 🇳🇵 Thursday, 32 Asar 2083*
 
 
 </div>
