@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*"If you don't make things happen then things will happen to you." - Robert Collier*
+*oops api fail check repo :(*
 
 
 
-*🇬🇧 Thursday, 16 July 2026 | 🇳🇵 Thursday, 32 Asar 2083*
+*🇬🇧 Friday, 17 July 2026 | 🇳🇵 Friday, 01 Shrawan 2083*
 
 
 </div>
