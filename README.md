@@ -9,11 +9,11 @@
 <div align="center">
 
 
-*oops api fail check repo :(*
+*"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." - Martin Luther King, Jr.*
 
 
 
-*🇬🇧 Friday, 17 July 2026 | 🇳🇵 Friday, 01 Shrawan 2083*
+*🇬🇧 Saturday, 18 July 2026 | 🇳🇵 Saturday, 02 Shrawan 2083*
 
 
 </div>
