@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-*"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving." - Martin Luther King, Jr.*
+*"Don't just sit there. Do something. The answers will follow." - Mark Manson*
 <!-- QUOTE_END -->
 
 <!-- DATE_START -->
-*🇬🇧 Saturday, 18 July 2026 | 🇳🇵 Saturday, 02 Shrawan 2083*
+*🇬🇧 Sunday, 19 July 2026 | 🇳🇵 Sunday, 03 Shrawan 2083*
 <!-- DATE_END -->
 
 </div>
