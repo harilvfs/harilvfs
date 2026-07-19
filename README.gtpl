@@ -8,18 +8,6 @@
 
 <div align="center">
 
-<!-- QUOTE_START -->
-*"Don't just sit there. Do something. The answers will follow." - Mark Manson*
-<!-- QUOTE_END -->
-
-<!-- DATE_START -->
-*🇬🇧 Sunday, 19 July 2026 | 🇳🇵 Sunday, 03 Shrawan 2083*
-<!-- DATE_END -->
-
-</div>
-
-<div align="center">
-
 <img src='https://github.com/harilvfs/assets/blob/main/harilvfs/noseek.png' width="20"> 
 
 </div>
@@ -60,12 +48,3 @@
 <strong>Reach me:</strong>
 - Discord    : https://discord.com/invite/8NJWstnUHd [ *casually active once a month* ]
 - Mail       : <mailto:harilvfs@chalisehari.com.np> [ *you can mail me anytime* ]
-
-<table align="center">
-<tr>
-<td><em>Le Footer ~</em></td>
-</tr>
-<tr>
-<td><em>don’t take the commit graph seriously. this readme updates daily to keep the date and time fresh, so there will be commits every day whether i am active or not. unless the github workflow breaks someday '-' </em></td>
-</tr>
-</table>
